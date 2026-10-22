@@ -1,0 +1,547 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Adaptive Enterprise Intelligence System</title>
+<style>
+:root{
+  --bg:#f4f5f2; --card:#ffffff; --ink:#1c2530; --muted:#667085; --line:#e3e6e0;
+  --accent:#0f6e6e; --accent-soft:#e1f1ef; --fc:#d9730d; --fc-soft:rgba(217,115,13,.14);
+  --bad:#c0392b; --bad-soft:#fbe9e6; --warn:#a8740a; --warn-soft:#fbf1d9; --ok:#2a7d4f; --ok-soft:#e3f3ea;
+  --info:#2f5f9e; --info-soft:#e6eef9;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+header{background:#14323a;color:#fff;padding:18px 28px 0}
+header .top{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap}
+h1{font-size:19px;margin:0;font-weight:650;letter-spacing:.1px}
+header .sub{color:#a9c4c4;font-size:12.5px;margin-top:2px}
+.pill{background:rgba(255,255,255,.12);padding:4px 11px;border-radius:99px;font-size:12px;color:#d7ecec}
+nav{display:flex;gap:2px;margin-top:14px;overflow-x:auto}
+nav button{background:none;border:0;color:#a9c4c4;padding:10px 16px;font:inherit;font-weight:550;cursor:pointer;border-bottom:3px solid transparent;white-space:nowrap}
+nav button:hover{color:#fff}
+nav button.on{color:#fff;border-bottom-color:#5fd0c5}
+main{max-width:1180px;margin:0 auto;padding:22px 20px 60px}
+section.view{display:none}
+section.view.on{display:block}
+.grid{display:grid;gap:14px}
+.kpis{grid-template-columns:repeat(auto-fit,minmax(170px,1fr))}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px 18px}
+.kpi .l{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.5px}
+.kpi .v{font-size:26px;font-weight:650;margin-top:2px;font-variant-numeric:tabular-nums}
+.kpi .s{color:var(--muted);font-size:12px}
+.kpi.bad .v{color:var(--bad)} .kpi.ok .v{color:var(--ok)}
+h2{font-size:15px;margin:0 0 2px} h3{font-size:13.5px;margin:0 0 8px}
+.note{color:var(--muted);font-size:12.5px;margin:0 0 10px}
+.two{grid-template-columns:2fr 1fr} @media(max-width:860px){.two{grid-template-columns:1fr}}
+canvas{width:100%;display:block}
+.tip{position:fixed;pointer-events:none;background:#14323a;color:#fff;font-size:12px;padding:7px 10px;border-radius:6px;display:none;z-index:50;line-height:1.5;box-shadow:0 4px 14px rgba(0,0,0,.2)}
+table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+th{text-align:left;font-size:11.5px;text-transform:uppercase;letter-spacing:.4px;color:var(--muted);font-weight:600;padding:8px 10px;border-bottom:1px solid var(--line);white-space:nowrap}
+td{padding:9px 10px;border-bottom:1px solid #f0f1ed;vertical-align:middle}
+td.n,th.n{text-align:right}
+tr:last-child td{border-bottom:0}
+.tbl{overflow-x:auto}
+.chip{display:inline-block;padding:2px 9px;border-radius:99px;font-size:11.5px;font-weight:620;white-space:nowrap}
+.chip.bad{background:var(--bad-soft);color:var(--bad)} .chip.warn{background:var(--warn-soft);color:var(--warn)}
+.chip.ok{background:var(--ok-soft);color:var(--ok)} .chip.info{background:var(--info-soft);color:var(--info)}
+.chip.acc{background:var(--accent-soft);color:var(--accent)}
+.alert{display:flex;gap:10px;padding:9px 0;border-bottom:1px solid #f0f1ed;font-size:13px}
+.alert:last-child{border:0}
+.dot{flex:none;width:9px;height:9px;border-radius:50%;margin-top:6px}
+.dot.high{background:var(--bad)} .dot.mid{background:#e0a21b} .dot.info{background:var(--info)}
+.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+button.btn{background:var(--accent);color:#fff;border:0;border-radius:7px;padding:9px 15px;font:inherit;font-weight:600;cursor:pointer}
+button.btn:hover{filter:brightness(1.1)} button.btn.sec{background:#fff;color:var(--ink);border:1px solid var(--line)}
+button.btn.warn{background:#b9561c} button.btn:disabled{opacity:.5;cursor:wait}
+select,input[type=number]{font:inherit;padding:7px 9px;border:1px solid #cfd4cc;border-radius:7px;background:#fff;color:var(--ink)}
+input[type=number]{width:92px}
+label{font-size:12.5px;color:var(--muted)}
+.bar{height:7px;border-radius:4px;background:#e8ebe5;overflow:hidden;min-width:70px}
+.bar i{display:block;height:100%;border-radius:4px}
+.legend{display:flex;gap:16px;font-size:12px;color:var(--muted);margin:2px 0 6px;flex-wrap:wrap}
+.legend b{display:inline-block;width:12px;height:3px;vertical-align:middle;margin-right:5px;border-radius:2px}
+.best{background:var(--accent-soft);font-weight:650;color:var(--accent)}
+.steps{counter-reset:s;margin:0;padding:0;list-style:none}
+.steps li{counter-increment:s;padding:6px 0 6px 30px;position:relative;font-size:13px}
+.steps li:before{content:counter(s);position:absolute;left:0;top:6px;width:20px;height:20px;border-radius:50%;background:var(--accent-soft);color:var(--accent);font-size:11.5px;font-weight:700;text-align:center;line-height:20px}
+#overlay{position:fixed;inset:0;background:rgba(244,245,242,.82);display:none;align-items:center;justify-content:center;z-index:100;flex-direction:column;gap:12px}
+.spin{width:34px;height:34px;border:4px solid #cfe3e0;border-top-color:var(--accent);border-radius:50%;animation:r 1s linear infinite}
+@keyframes r{to{transform:rotate(360deg)}}
+.toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%);background:#14323a;color:#fff;padding:11px 18px;border-radius:8px;z-index:120;display:none;max-width:90vw}
+.arch{font-size:12.5px;color:var(--muted)}
+a.why{font-size:12px;color:var(--accent);cursor:pointer;text-decoration:none;font-weight:600}
+tr.whyrow td{background:#f7faf9;color:#3b4654;font-size:13px;padding:10px 14px}
+input[type=range]{width:200px;accent-color:var(--accent)}
+.sl{display:flex;flex-direction:column;gap:2px}
+.sl b{font-size:15px;color:var(--ink)}
+.chat{height:380px;overflow-y:auto;display:flex;flex-direction:column;gap:10px;padding:4px 2px}
+.msg{max-width:78%;padding:10px 14px;border-radius:12px;line-height:1.5;white-space:pre-wrap}
+.msg.u{align-self:flex-end;background:var(--accent);color:#fff;border-bottom-right-radius:3px}
+.msg.a{align-self:flex-start;background:#eef2ef;border-bottom-left-radius:3px}
+.sug{background:#fff;border:1px solid var(--line);border-radius:99px;padding:6px 12px;font:inherit;font-size:12.5px;cursor:pointer;color:var(--ink)}
+.sug:hover{border-color:var(--accent);color:var(--accent)}
+.win{color:var(--ok);font-weight:650}.lose{color:var(--bad);font-weight:650}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{border:0;background:#fff;padding:7px 14px;font:inherit;cursor:pointer;color:var(--muted)}
+.seg button.on{background:var(--accent);color:#fff}
+</style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <div>
+      <h1>Adaptive Enterprise Intelligence System</h1>
+      <div class="sub">Resource management for SMEs: demand, inventory and workforce in one learning system</div>
+    </div>
+    <div class="pill" id="thru">loading…</div>
+  </div>
+  <nav id="nav">
+    <button data-v="overview" class="on">Overview</button>
+    <button data-v="forecast">Demand Forecast</button>
+    <button data-v="inventory">Inventory</button>
+    <button data-v="workforce">Workforce</button>
+    <button data-v="anomalies">Anomalies</button>
+    <button data-v="adaptive">Adaptive Engine</button>
+    <button data-v="proof">Proof: Adaptive vs Static</button>
+    <button data-v="whatif">What-if</button>
+    <button data-v="assistant">Assistant</button>
+  </nav>
+</header>
+
+<main>
+<!-- OVERVIEW -->
+<section class="view on" id="v-overview">
+  <div class="grid kpis" id="kpis"></div>
+  <div class="grid two" style="margin-top:14px">
+    <div class="card">
+      <h2>Total demand: last 60 days and next 14 days</h2>
+      <div class="legend"><span><b style="background:var(--accent)"></b>Actual units sold</span><span><b style="background:var(--fc)"></b>Forecast</span></div>
+      <canvas id="c-over" height="270"></canvas>
+    </div>
+    <div class="card">
+      <h2>Alerts and recommendations</h2>
+      <p class="note">Generated automatically from the latest forecasts</p>
+      <div id="alerts"></div>
+    </div>
+  </div>
+</section>
+
+<!-- FORECAST -->
+<section class="view" id="v-forecast">
+  <div class="card">
+    <div class="row" style="justify-content:space-between">
+      <div><h2>Demand forecast by product</h2><p class="note" style="margin:0">The system picks the most accurate model for each product using walk-forward backtests.</p></div>
+      <div class="row"><label>Product</label><select id="fc-prod"></select></div>
+    </div>
+    <div class="legend" style="margin-top:12px"><span><b style="background:var(--accent)"></b>Actual</span><span><b style="background:var(--fc)"></b>Forecast</span><span><b style="background:var(--fc-soft);height:10px"></b>80% interval</span><span><b style="background:var(--bad);height:8px;width:8px;border-radius:50%"></b>Flagged anomaly</span></div>
+    <canvas id="c-fc" height="320"></canvas>
+  </div>
+  <div class="grid two" style="margin-top:14px">
+    <div class="card"><h3>Selected model</h3><div id="fc-model"></div></div>
+    <div class="card"><h3>Model comparison (lower error is better)</h3><div id="fc-scores"></div></div>
+  </div>
+</section>
+
+<!-- INVENTORY -->
+<section class="view" id="v-inventory">
+  <div class="card">
+    <div class="row" style="justify-content:space-between">
+      <div><h2>Inventory planning</h2><p class="note" style="margin:0">Reorder point = demand over lead time + safety stock. Edit "On hand" to match your shelf count.</p></div>
+      <div class="row"><label>Service level</label>
+        <select id="sl"><option value="0.90">90%</option><option value="0.95" selected>95%</option><option value="0.98">98%</option><option value="0.99">99%</option></select></div>
+    </div>
+    <div class="tbl" style="margin-top:10px"><table id="t-inv"></table></div>
+  </div>
+</section>
+
+<!-- WORKFORCE -->
+<section class="view" id="v-workforce">
+  <div class="card">
+    <div class="row" style="justify-content:space-between">
+      <div><h2>Workforce allocation, next 14 days</h2><p class="note" style="margin:0">Staff needed per day is derived from forecasted unit volume.</p></div>
+      <div class="row">
+        <label>Units/staff/day</label><input type="number" id="w-cap" value="75">
+        <label>Current staff</label><input type="number" id="w-staff" value="5">
+        <label>Daily wage (₹)</label><input type="number" id="w-wage" value="700">
+      </div>
+    </div>
+    <div class="legend" style="margin-top:12px"><span><b style="background:var(--accent)"></b>Recommended staff</span><span><b style="background:var(--bad);height:2px"></b>Current fixed roster</span></div>
+    <canvas id="c-wf" height="300"></canvas>
+  </div>
+  <div class="grid kpis" id="w-kpis" style="margin-top:14px"></div>
+</section>
+
+<!-- ANOMALIES -->
+<section class="view" id="v-anomalies">
+  <div class="card">
+    <h2>Detected anomalies</h2>
+    <p class="note">Sales that deviate sharply from the product's local norm, found by a robust median/MAD z-score &gt; 4 and cross-checked by an independent Isolation Forest model. These are excluded from model training so bad data cannot distort forecasts.</p>
+    <div class="tbl"><table id="t-an"></table></div>
+  </div>
+</section>
+
+
+<!-- PROOF -->
+<section class="view" id="v-proof">
+  <div class="card">
+    <div class="row" style="justify-content:space-between">
+      <div><h2>Does adapting actually pay off?</h2>
+      <p class="note" style="margin:0;max-width:760px">Two identical shops replay 180 days of the same real demand with the same ordering policy. The only difference: <b>Static</b> keeps the models trained on day 0 forever; <b>Adaptive</b> is this system, monitoring drift and retraining.</p></div>
+      <div class="seg" id="sc-seg"><button data-s="surge" class="on">Demand surge on day 60</button><button data-s="normal">Normal demand</button></div>
+    </div>
+  </div>
+  <div class="grid kpis" id="p-kpis" style="margin-top:14px"></div>
+  <p class="note" id="p-read" style="margin:10px 2px 0"></p>
+  <div class="card" style="margin-top:14px">
+    <h2>Cumulative cost over the 180 days (₹)</h2>
+    <p class="note">Cost = lost margin from stock-outs + holding cost + ordering cost. Lower is better.</p>
+    <div class="legend"><span><b style="background:var(--accent)"></b>Adaptive</span><span><b style="background:#8a94a3"></b>Static (never retrained)</span></div>
+    <canvas id="c-proof" height="280"></canvas>
+  </div>
+  <div class="grid two" style="margin-top:14px">
+    <div class="card"><h3>Per-product result</h3><div class="tbl"><table id="t-proof"></table></div></div>
+    <div class="card"><h3>What the adaptive system did</h3><div id="p-events"></div><p class="note" id="p-assume" style="margin-top:12px"></p></div>
+  </div>
+</section>
+
+<!-- WHAT-IF -->
+<section class="view" id="v-whatif">
+  <div class="card">
+    <h2>What-if scenarios</h2>
+    <p class="note">Change the world and see how the stock and staffing plan responds. Nothing is saved.</p>
+    <div class="row" style="gap:30px;align-items:flex-end">
+      <div class="sl"><label>Demand change</label><b id="wi-d-v">+0%</b><input type="range" id="wi-d" min="-30" max="60" value="0" step="5"></div>
+      <div class="sl"><label>Supplier delay</label><b id="wi-l-v">+0 days</b><input type="range" id="wi-l" min="0" max="7" value="0" step="1"></div>
+      <div class="row" style="gap:8px"><button class="btn sec" id="wi-p1">Festival rush (+30%)</button><button class="btn sec" id="wi-p2">Supplier strike (+4 days)</button><button class="btn sec" id="wi-p3">Slow season (−20%)</button><button class="btn sec" id="wi-p0">Reset</button></div>
+    </div>
+  </div>
+  <div class="grid kpis" id="wi-kpis" style="margin-top:14px"></div>
+  <div class="card" style="margin-top:14px"><div class="tbl"><table id="t-wi"></table></div></div>
+</section>
+
+<!-- ASSISTANT -->
+<section class="view" id="v-assistant">
+  <div class="card">
+    <h2>Business assistant</h2>
+    <p class="note">Ask in plain English. Every number comes from the live forecasting, inventory and staffing engines, so answers cannot invent figures.</p>
+    <div class="chat" id="chat"><div class="msg a">Hello. Ask me about stock, forecasts, staffing, unusual sales or the models.</div></div>
+    <div class="row" style="margin:10px 0" id="sugs"></div>
+    <div class="row"><input type="text" id="q" placeholder="e.g. Which products will run out soon?" style="flex:1;min-width:240px;font:inherit;padding:10px 12px;border:1px solid #cfd4cc;border-radius:8px"><button class="btn" id="q-go">Ask</button></div>
+  </div>
+</section>
+
+<!-- ADAPTIVE -->
+<section class="view" id="v-adaptive">
+  <div class="grid two">
+    <div class="card">
+      <h2>Feed the system new data</h2>
+      <p class="note">This is what makes the system adaptive. After new data arrives it checks every product's model against reality and retrains only the ones that have drifted.</p>
+      <div class="row">
+        <button class="btn" id="b-norm">Simulate 30 days: normal demand</button>
+        <button class="btn warn" id="b-shift">Simulate 30 days: demand surge (+45%)</button>
+      </div>
+      <div class="row" style="margin-top:10px">
+        <input type="file" id="f-up" accept=".csv" style="font-size:12.5px">
+        <button class="btn sec" id="b-up">Upload CSV</button>
+        <button class="btn sec" id="b-ret">Force full retrain</button>
+        <button class="btn sec" id="b-reset">Reset demo</button>
+      </div>
+      <p class="note" style="margin-top:10px">CSV columns: <code>date, product, units_sold</code> (optional: price, unit_cost, lead_time_days, promo).</p>
+    </div>
+    <div class="card">
+      <h3>How adaptation works</h3>
+      <ol class="steps">
+        <li>New sales data is merged and cleaned</li>
+        <li>The model chosen at training time forecasts the new period</li>
+        <li>Error, bias and staleness are compared to the training baseline</li>
+        <li>Drifted products re-run the model competition and may switch models</li>
+        <li>Inventory, staffing and alerts refresh automatically</li>
+      </ol>
+    </div>
+  </div>
+  <div class="card" style="margin-top:14px" id="last-card" hidden>
+    <h2>Result of last update</h2><p class="note" id="last-note"></p>
+    <div class="tbl"><table id="t-last"></table></div>
+  </div>
+  <div class="card" style="margin-top:14px">
+    <h2>Model registry</h2>
+    <p class="note">Backtest error (WAPE) of each candidate model per product. The highlighted cell is the model currently in production.</p>
+    <div class="tbl"><table id="t-reg"></table></div>
+  </div>
+  <div class="card" style="margin-top:14px">
+    <h2>Learning log</h2>
+    <div class="tbl"><table id="t-log"></table></div>
+  </div>
+</section>
+</main>
+
+<div class="tip" id="tip"></div>
+<div id="overlay"><div class="spin"></div><div id="ov-msg">Working…</div></div>
+<div class="toast" id="toast"></div>
+
+<script>
+const $ = s => document.querySelector(s);
+const nf = new Intl.NumberFormat('en-IN');
+const fmt = (n, d=0) => n==null ? '-' : Number(n).toLocaleString('en-IN',{maximumFractionDigits:d,minimumFractionDigits:d});
+const rup = n => (n<0?'-':'')+'₹'+fmt(Math.abs(n));
+const pct = (n, d=1) => n==null ? '-' : (n*100).toFixed(d)+'%';
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const MODEL_NAMES = {seasonal_naive:'Seasonal naive', moving_average:'Moving average + weekday profile', holt_winters:'Holt-Winters', gbm:'Gradient boosting'};
+const mname = m => MODEL_NAMES[m] || m;
+
+async function api(url, opts){
+  const r = await fetch(url, opts);
+  const j = await r.json();
+  if(!r.ok) throw new Error(j.error || r.statusText);
+  return j;
+}
+function busy(msg){ $('#ov-msg').textContent = msg; $('#overlay').style.display='flex'; }
+function idle(){ $('#overlay').style.display='none'; }
+function toast(msg){ const t=$('#toast'); t.textContent=msg; t.style.display='block'; clearTimeout(t._t); t._t=setTimeout(()=>t.style.display='none',5000); }
+
+/* ---------------- chart engine ---------------- */
+function setup(canvas){
+  const dpr = window.devicePixelRatio||1, w = canvas.clientWidth, h = +canvas.getAttribute('height');
+  canvas.width = w*dpr; canvas.height = h*dpr;
+  const ctx = canvas.getContext('2d'); ctx.scale(dpr,dpr);
+  return {ctx,w,h};
+}
+function niceMax(v){ const p=Math.pow(10,Math.floor(Math.log10(v||1))); const f=v/p; return (f<=1?1:f<=2?2:f<=2.5?2.5:f<=5?5:10)*p; }
+function lineChart(canvas, o){
+  // o: {labels, series:[{vals,color,dash,width}], band:{lo,hi}, markers:{idx[],color}, split:idx}
+  const {ctx,w,h} = setup(canvas);
+  const m = {l:46,r:14,t:10,b:28}, n=o.labels.length;
+  let mx = 0; o.series.forEach(s=>s.vals.forEach(v=>{if(v!=null&&v>mx)mx=v}));
+  if(o.band) o.band.hi.forEach(v=>{if(v!=null&&v>mx)mx=v});
+  const top = niceMax(mx*1.08);
+  ctx.font='11px system-ui'; m.l = Math.max(46, Math.ceil(ctx.measureText(fmt(top)).width)+16);
+  const iw=w-m.l-m.r, ih=h-m.t-m.b;
+  const X = i => m.l + (n<=1?0:i/(n-1))*iw, Y = v => m.t + ih - v/top*ih;
+  ctx.font='11px system-ui'; ctx.fillStyle='#667085'; ctx.strokeStyle='#e8ebe5'; ctx.lineWidth=1;
+  for(let k=0;k<=4;k++){ const v=top*k/4, y=Y(v); ctx.beginPath(); ctx.moveTo(m.l,y); ctx.lineTo(w-m.r,y); ctx.stroke(); ctx.textAlign='right'; ctx.fillText(fmt(v),m.l-6,y+4); }
+  ctx.textAlign='center';
+  const step = Math.max(1,Math.round(n/7));
+  for(let i=0;i<n;i+=step){ ctx.fillText(o.labels[i].slice(5), X(i), h-9); }
+  if(o.split!=null){ ctx.strokeStyle='#c9cfc6'; ctx.setLineDash([3,4]); ctx.beginPath(); ctx.moveTo(X(o.split),m.t); ctx.lineTo(X(o.split),m.t+ih); ctx.stroke(); ctx.setLineDash([]); ctx.fillStyle='#98a09a'; ctx.textAlign='left'; ctx.fillText(o.splitLabel||'forecast →', X(o.split)+5, m.t+11); }
+  if(o.band){
+    ctx.fillStyle=css('--fc-soft'); ctx.beginPath(); let started=false;
+    o.band.hi.forEach((v,i)=>{ if(v==null) return; started?ctx.lineTo(X(i),Y(v)):(ctx.moveTo(X(i),Y(v)),started=true); });
+    for(let i=n-1;i>=0;i--){ if(o.band.lo[i]!=null) ctx.lineTo(X(i),Y(o.band.lo[i])); }
+    ctx.closePath(); ctx.fill();
+  }
+  o.series.forEach(s=>{
+    ctx.strokeStyle=s.color; ctx.lineWidth=s.width||2; ctx.setLineDash(s.dash||[]); ctx.beginPath(); let st=false;
+    s.vals.forEach((v,i)=>{ if(v==null){return;} st?ctx.lineTo(X(i),Y(v)):(ctx.moveTo(X(i),Y(v)),st=true); });
+    ctx.stroke(); ctx.setLineDash([]);
+  });
+  if(o.markers){ ctx.fillStyle=o.markers.color; o.markers.idx.forEach(i=>{ const v=o.series[0].vals[i]; if(v==null)return; ctx.beginPath(); ctx.arc(X(i),Y(v),4.5,0,7); ctx.fill(); ctx.strokeStyle='#fff'; ctx.lineWidth=1.5; ctx.stroke(); }); }
+  // hover
+  const tip=$('#tip');
+  canvas.onmousemove = e=>{
+    const r=canvas.getBoundingClientRect(); const i=Math.max(0,Math.min(n-1,Math.round((e.clientX-r.left-m.l)/iw*(n-1))));
+    let html='<b>'+o.labels[i]+'</b>';
+    o.series.forEach(s=>{ if(s.vals[i]!=null) html+='<br><span style="color:'+(s.tipColor||s.color)+'">●</span> '+(s.name||'')+' '+fmt(s.vals[i],1); });
+    if(o.band && o.band.hi[i]!=null) html+='<br>80% range '+fmt(o.band.lo[i],0)+' - '+fmt(o.band.hi[i],0);
+    tip.innerHTML=html; tip.style.display='block'; tip.style.left=(e.clientX+14)+'px'; tip.style.top=(e.clientY+12)+'px';
+  };
+  canvas.onmouseleave=()=>tip.style.display='none';
+}
+function barChart(canvas, o){
+  // o: {labels, vals, line, color, sub[]}
+  const {ctx,w,h}=setup(canvas); const m={l:34,r:10,t:14,b:44}, iw=w-m.l-m.r, ih=h-m.t-m.b, n=o.vals.length;
+  const top=Math.max(Math.ceil(Math.max(...o.vals,o.line||0)*1.15),4), bw=iw/n, Y=v=>m.t+ih-v/top*ih;
+  ctx.font='11px system-ui'; ctx.strokeStyle='#e8ebe5'; ctx.fillStyle='#667085'; ctx.textAlign='right';
+  for(let v=0;v<=top;v+=Math.ceil(top/5)){ ctx.beginPath(); ctx.moveTo(m.l,Y(v)); ctx.lineTo(w-m.r,Y(v)); ctx.stroke(); ctx.fillText(v,m.l-6,Y(v)+4); }
+  o.vals.forEach((v,i)=>{
+    const x=m.l+i*bw+bw*.18, ww=bw*.64; ctx.fillStyle=css('--accent'); ctx.fillRect(x,Y(v),ww,m.t+ih-Y(v));
+    ctx.fillStyle='#1c2530'; ctx.textAlign='center'; ctx.font='bold 11.5px system-ui'; ctx.fillText(v,x+ww/2,Y(v)-4);
+    ctx.font='11px system-ui'; ctx.fillStyle='#667085'; ctx.fillText(o.labels[i],x+ww/2,h-26); ctx.fillText(o.sub[i],x+ww/2,h-11);
+  });
+  if(o.line!=null){ ctx.strokeStyle=css('--bad'); ctx.lineWidth=2; ctx.setLineDash([6,4]); ctx.beginPath(); ctx.moveTo(m.l,Y(o.line)); ctx.lineTo(w-m.r,Y(o.line)); ctx.stroke(); ctx.setLineDash([]); }
+}
+
+/* ---------------- views ---------------- */
+const loaders = {};
+function kpi(l,v,s,cls=''){ return `<div class="card kpi ${cls}"><div class="l">${l}</div><div class="v">${v}</div><div class="s">${s||''}</div></div>`; }
+
+loaders.overview = async ()=>{
+  const d = await api('/api/overview'); const k=d.kpis;
+  $('#thru').textContent = 'Data through '+k.data_through+' · '+fmt(k.rows)+' records';
+  $('#kpis').innerHTML =
+    kpi('Forecast demand (14d)', fmt(k.units)+' units', k.products+' products') +
+    kpi('Forecast revenue (14d)', '₹'+fmt(k.revenue), 'at current prices') +
+    kpi('Reorder now', k.reorder, k.watch+' more on watch', k.reorder>0?'bad':'ok') +
+    kpi('Capital tied in stock', '₹'+fmt(k.capital), 'at cost') +
+    kpi('Forecast accuracy', pct(k.accuracy,0), '1 − backtest error') +
+    kpi(k.saving>=0?'Staffing saving (14d)':'Staffing shortfall (14d)', rup(k.saving), k.saving>=0?'vs fixed roster':'demand exceeds roster', k.saving>0?'ok':'bad');
+  const labels=[...d.history.map(x=>x.date),...d.forecast.map(x=>x.date)];
+  const hv=[...d.history.map(x=>x.v),...d.forecast.map(()=>null)];
+  const fv=[...d.history.map((_,i)=>i==d.history.length-1?d.history[i].v:null),...d.forecast.map(x=>x.v)];
+  lineChart($('#c-over'),{labels,series:[{vals:hv,color:css('--accent'),name:'Actual'},{vals:fv,color:css('--fc'),name:'Forecast',dash:[5,3]}],split:d.history.length-1});
+  $('#alerts').innerHTML = d.alerts.length ? d.alerts.map(a=>`<div class="alert"><span class="dot ${a.level}"></span><div>${a.text}</div></div>`).join('') : '<p class="note">No alerts. Everything looks healthy.</p>';
+};
+
+let products=null;
+async function ensureProducts(){ if(products) return; products=await api('/api/products'); $('#fc-prod').innerHTML=products.map(p=>`<option>${p}</option>`).join(''); }
+loaders.forecast = async ()=>{
+  await ensureProducts();
+  const p=$('#fc-prod').value, d=await api('/api/forecast?product='+encodeURIComponent(p));
+  const labels=[...d.history.map(x=>x.date),...d.forecast.map(x=>x.date)], H=d.history.length;
+  const hv=[...d.history.map(x=>x.v),...d.forecast.map(()=>null)];
+  const fv=[...d.history.map((_,i)=>i==H-1?d.history[i].v:null),...d.forecast.map(x=>x.forecast)];
+  const lo=[...d.history.map(()=>null),...d.forecast.map(x=>x.lower)], hi=[...d.history.map(()=>null),...d.forecast.map(x=>x.upper)];
+  const idx=d.history.map((x,i)=>x.anomaly?i:-1).filter(i=>i>=0);
+  lineChart($('#c-fc'),{labels,series:[{vals:hv,color:css('--accent'),name:'Actual'},{vals:fv,color:css('--fc'),name:'Forecast',dash:[5,3]}],band:{lo,hi},split:H-1,markers:{idx,color:css('--bad')}});
+  const total=d.forecast.reduce((a,x)=>a+x.forecast,0);
+  $('#fc-model').innerHTML=`<p style="margin:0 0 6px"><span class="chip acc">${mname(d.model)}</span></p>
+    <table><tr><td>Backtest error (WAPE)</td><td class="n"><b>${pct(d.wape)}</b></td></tr>
+    <tr><td>Accuracy</td><td class="n"><b>${pct(1-d.wape,0)}</b></td></tr>
+    <tr><td>Trained through</td><td class="n">${d.trained_through}</td></tr>
+    <tr><td>Next 14 days</td><td class="n"><b>${fmt(total)}</b> units</td></tr>
+    <tr><td>Daily error spread (σ)</td><td class="n">${fmt(d.sd,1)} units</td></tr></table>`;
+  const best=Math.min(...Object.values(d.scores));
+  $('#fc-scores').innerHTML='<table>'+Object.entries(d.scores).sort((a,b)=>a[1]-b[1]).map(([k,v])=>`<tr><td>${mname(k)}</td><td style="width:42%"><div class="bar"><i style="width:${Math.min(100,v*300)}%;background:${v==best?css('--accent'):'#b8c2bd'}"></i></div></td><td class="n ${v==best?'best':''}" style="width:64px">${pct(v)}</td></tr>`).join('')+'</table>';
+};
+$('#fc-prod').addEventListener('change',()=>loaders.forecast());
+
+const STATUS={'REORDER NOW':'bad','WATCH':'warn','OK':'ok'};
+loaders.inventory = async ()=>{
+  const d=await api('/api/inventory?sl='+$('#sl').value);
+  $('#t-inv').innerHTML='<tr><th>Product</th><th class="n">On hand</th><th class="n">Forecast/day</th><th class="n">Lead (d)</th><th class="n">Safety stock</th><th class="n">Reorder pt</th><th>Days of cover</th><th class="n">Stock-out risk</th><th>Status</th><th>Action</th></tr>'+
+  d.map((r,i)=>`<tr><td><b>${r.product}</b></td>
+   <td class="n"><input type="number" min="0" value="${r.on_hand}" data-p="${r.product}" class="oh" style="width:78px"></td>
+   <td class="n">${fmt(r.avg_daily_forecast,1)}</td><td class="n">${r.lead_days}</td><td class="n">${r.safety_stock}</td><td class="n">${r.reorder_point}</td>
+   <td><div class="row" style="gap:8px;flex-wrap:nowrap"><div class="bar" style="width:80px"><i style="width:${Math.min(100,r.days_of_cover/14*100)}%;background:${r.days_of_cover<r.lead_days?css('--bad'):r.days_of_cover<r.lead_days*1.6?'#e0a21b':css('--ok')}"></i></div>${r.days_of_cover}</div></td>
+   <td class="n">${pct(r.stockout_risk,0)}</td><td><span class="chip ${STATUS[r.status]}">${r.status}</span></td><td>${r.action}${r.status!='OK'?` <span class="note">(EOQ ${r.eoq})</span>`:''} <a class="why" data-i="${i}">Why?</a></td></tr><tr class="whyrow" id="why${i}" hidden><td colspan="10">${r.why}</td></tr>`).join('');
+  document.querySelectorAll('.oh').forEach(i=>i.addEventListener('change',async e=>{
+    await api('/api/stock',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({product:e.target.dataset.p,on_hand:+e.target.value})});
+    loaders.inventory(); toast('Stock updated. Plan recalculated.');
+  }));
+};
+$('#sl').addEventListener('change',()=>loaders.inventory());
+$('#t-inv').addEventListener('click',e=>{ const a=e.target.closest('a.why'); if(!a) return; const r=$('#why'+a.dataset.i); r.hidden=!r.hidden; });
+
+loaders.workforce = async ()=>{
+  const q=`cap=${$('#w-cap').value}&staff=${$('#w-staff').value}&wage=${$('#w-wage').value}`;
+  const d=await api('/api/workforce?'+q);
+  barChart($('#c-wf'),{labels:d.plan.map(r=>r.day),sub:d.plan.map(r=>r.date.slice(5)),vals:d.plan.map(r=>r.staff_needed),line:+$('#w-staff').value});
+  const c=d.cost;
+  $('#w-kpis').innerHTML=kpi('Fixed roster cost','₹'+fmt(c.fixed_cost),'14 days')+kpi('Demand-based cost','₹'+fmt(c.adaptive_cost),'14 days')+
+    kpi(c.saving>=0?'Saving':'Extra cost needed',rup(c.saving),'',c.saving>=0?'ok':'bad')+kpi('Understaffed shifts',c.understaffed_days_units,'staff-days short vs roster',c.understaffed_days_units?'bad':'')+kpi('Idle shifts',c.overstaffed_days_units,'staff-days above need');
+};
+['#w-cap','#w-staff','#w-wage'].forEach(s=>$(s).addEventListener('change',()=>loaders.workforce()));
+
+loaders.anomalies = async ()=>{
+  const d=await api('/api/anomalies');
+  $('#t-an').innerHTML = d.length ? '<tr><th>Date</th><th>Product</th><th class="n">Units sold</th><th class="n">Expected</th><th class="n">Deviation (z)</th><th>Type</th><th>Confirmed by</th></tr>'+
+   d.map(r=>`<tr><td>${r.date}</td><td>${r.product}</td><td class="n">${r.units_sold}</td><td class="n">${fmt(r.expected,0)}</td><td class="n">${r.z}</td><td><span class="chip ${r.type=='Spike'?'warn':'info'}">${r.type}</span></td><td>${r.iso_agrees?'<span class="chip ok">Both methods</span>':'<span class="chip info">Statistical test</span>'}</td></tr>`).join('') : '<tr><td>No anomalies detected.</td></tr>';
+};
+
+
+let proofSc='surge';
+loaders.proof = async ()=>{
+  document.querySelectorAll('#sc-seg button').forEach(b=>b.classList.toggle('on',b.dataset.s==proofSc));
+  let d;
+  try{ d=await api('/api/experiment?scenario='+proofSc); }
+  catch(e){ $('#p-kpis').innerHTML='<div class="card"><b>Experiment results not found.</b><p class="note">Run <code>python -m engine.experiment --scenario '+proofSc+'</code> once, then reload this tab.</p></div>'; return; }
+  const A=d.summary.adaptive, S0=d.summary.static, gain=S0.total_cost-A.total_cost;
+  $('#p-kpis').innerHTML =
+    kpi('Adaptive total cost','₹'+fmt(A.total_cost),'180 days') + kpi('Static total cost','₹'+fmt(S0.total_cost),'never retrained') +
+    kpi(gain>=0?'Money saved by adapting':'Adaptive cost more by','₹'+fmt(Math.abs(gain)), pct(Math.abs(gain)/S0.total_cost,0)+' of static cost', gain>0?'ok':'bad') +
+    kpi('Fill rate (demand served)', pct(A.fill_rate,1), 'static: '+pct(S0.fill_rate,1)) +
+    kpi('Lost sales', fmt(A.lost_units)+' units', 'static: '+fmt(S0.lost_units)+' units') +
+    kpi('Stock-out days', A.stockout_days, 'static: '+S0.stockout_days);
+  const lose=d.products.filter(p=>d.per_product.static[p].total_cost<d.per_product.adaptive[p].total_cost);
+  const win=d.products.length-lose.length;
+  $('#p-read').innerHTML='<b>How to read this:</b> adaptation lowered total cost on '+win+' of '+d.products.length+' products'+(lose.length?' and cost slightly more on '+lose.length+' ('+lose.join(', ')+'), where demand stayed close to what the original model expected':'')+'. '+(d.surge_day!=null?'The gain is largest after the surge, because the static models keep forecasting the old demand level and stock runs out.':'Under stable demand the benefit is smaller and uneven; the system mostly refreshes models on schedule.');
+  const se=d.series;
+  lineChart($('#c-proof'),{labels:se.date,series:[{vals:se.adaptive_cost,color:css('--accent'),name:'Adaptive ₹',width:2.5},{vals:se.static_cost,color:'#8a94a3',name:'Static ₹',width:2.5,dash:[5,3]}],
+    split:d.surge_day!=null?Math.floor(d.surge_day/7):null, splitLabel:'surge begins'});
+  $('#t-proof').innerHTML='<tr><th>Product</th><th class="n">Fill: adaptive</th><th class="n">Fill: static</th><th class="n">Cost: adaptive</th><th class="n">Cost: static</th><th class="n">Saved</th></tr>'+
+    d.products.map(p=>{ const a=d.per_product.adaptive[p], s=d.per_product.static[p], sv=s.total_cost-a.total_cost;
+      return `<tr><td><b>${p}</b></td><td class="n">${pct(a.fill_rate,1)}</td><td class="n">${pct(s.fill_rate,1)}</td><td class="n">₹${fmt(a.total_cost)}</td><td class="n">₹${fmt(s.total_cost)}</td><td class="n ${sv>=0?'win':'lose'}">${sv>=0?'':'-'}₹${fmt(Math.abs(sv))}</td></tr>`; }).join('');
+  const ev=d.retrain_events;
+  $('#p-events').innerHTML = ev.length ? `<p style="margin:0 0 8px"><b>${ev.length}</b> retraining events. ${ev.length?'First on day '+ev[0].day+'.':''}</p><table>`+ev.slice(0,10).map(e=>`<tr><td>Day ${e.day}</td><td>${e.product}</td><td>${e.reason}</td></tr>`).join('')+'</table>'+(ev.length>10?`<p class="note">…and ${ev.length-10} more</p>`:'') : '<p>No retraining was needed because demand stayed stable. The adaptive system did not change anything.</p>';
+  $('#p-assume').textContent='Assumptions: '+d.assumptions.policy+'; '+d.assumptions.lost_sales+'; service level '+(d.assumptions.service_level*100)+'%; holding cost '+(d.assumptions.holding_rate*100)+'% a year; ₹'+d.assumptions.order_cost+' per order. Synthetic demand.';
+};
+document.querySelectorAll('#sc-seg button').forEach(b=>b.onclick=()=>{ proofSc=b.dataset.s; loaders.proof(); });
+
+const wi={d:0,l:0};
+loaders.whatif = async ()=>{
+  $('#wi-d').value=wi.d; $('#wi-l').value=wi.l;
+  $('#wi-d-v').textContent=(wi.d>=0?'+':'')+wi.d+'%'; $('#wi-l-v').textContent='+'+wi.l+' days';
+  const d=await api(`/api/whatif?demand=${wi.d}&lead=${wi.l}`), s=d.summary;
+  $('#wi-kpis').innerHTML=kpi('Products to reorder now',s.reorder_scen,'today: '+s.reorder_base,s.reorder_scen>s.reorder_base?'bad':'')+
+    kpi('Extra safety stock needed',fmt(s.extra_safety_units)+' units','to keep the same service level')+
+    kpi('Staff-days needed (14d)',s.staff_days_scen,'today: '+s.staff_days_base)+
+    kpi('Staffing cost (14d)','₹'+fmt(s.staff_cost_scen),'today: ₹'+fmt(s.staff_cost_base))+
+    kpi('Staff-days short of roster',s.short_scen,'today: '+s.short_base,s.short_scen>s.short_base?'bad':'');
+  $('#t-wi').innerHTML='<tr><th>Product</th><th class="n">On hand</th><th>Status today</th><th>Status in scenario</th><th class="n">Reorder point</th><th class="n">Days of cover</th><th class="n">Stock-out risk</th><th>Action in scenario</th></tr>'+
+    d.rows.map(r=>`<tr><td><b>${r.product}</b></td><td class="n">${r.on_hand}</td><td><span class="chip ${STATUS[r.base_status]}">${r.base_status}</span></td><td><span class="chip ${STATUS[r.scen_status]}">${r.scen_status}</span>${r.changed?' <b style="color:var(--warn)">changed</b>':''}</td><td class="n">${r.base_rop} → <b>${r.scen_rop}</b></td><td class="n">${r.base_cover} → <b>${r.scen_cover}</b></td><td class="n">${pct(r.scen_risk,0)}</td><td>${r.scen_action}</td></tr>`).join('');
+};
+let wiT; const wiGo=()=>{ clearTimeout(wiT); wiT=setTimeout(()=>loaders.whatif(),120); };
+$('#wi-d').addEventListener('input',e=>{ wi.d=+e.target.value; wiGo(); });
+$('#wi-l').addEventListener('input',e=>{ wi.l=+e.target.value; wiGo(); });
+[['#wi-p1',30,0],['#wi-p2',0,4],['#wi-p3',-20,0],['#wi-p0',0,0]].forEach(([id,dd,ll])=>$(id).onclick=()=>{ wi.d=dd; wi.l=ll; loaders.whatif(); });
+
+const esc=t=>t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/\*\*(.+?)\*\*/g,'<b>$1</b>');
+function say(text,who){ const m=document.createElement('div'); m.className='msg '+who; m.innerHTML=who=='a'?esc(text):text.replace(/&/g,'&amp;').replace(/</g,'&lt;'); $('#chat').appendChild(m); $('#chat').scrollTop=1e9; }
+async function ask(q){ if(!q.trim()) return; say(q,'u'); $('#q').value=''; try{ const r=await api('/api/ask',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:q})}); say(r.answer,'a'); }catch(e){ say('Error: '+e.message,'a'); } }
+loaders.assistant = async ()=>{
+  if(!$('#sugs').children.length){ const r=await api('/api/ask',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:'help'})}); $('#sugs').innerHTML=r.examples.map(e=>`<button class="sug">${e}</button>`).join(''); document.querySelectorAll('.sug').forEach(b=>b.onclick=()=>ask(b.textContent)); }
+};
+$('#q-go').onclick=()=>ask($('#q').value);
+$('#q').addEventListener('keydown',e=>{ if(e.key=='Enter') ask($('#q').value); });
+
+loaders.adaptive = async ()=>{
+  const d=await api('/api/adaptive');
+  $('#thru').textContent='Data through '+d.data_through;
+  $('#t-reg').innerHTML='<tr><th>Product</th><th>Production model</th><th class="n">Seasonal naive</th><th class="n">Moving avg</th><th class="n">Holt-Winters</th><th class="n">Grad. boosting</th><th>Trained through</th></tr>'+
+   d.models.map(m=>`<tr><td><b>${m.product}</b></td><td><span class="chip acc">${mname(m.model)}</span></td>`+
+    ['seasonal_naive','moving_average','holt_winters','gbm'].map(k=>`<td class="n ${m.model==k?'best':''}">${pct(m.scores[k])}</td>`).join('')+`<td>${m.trained_through}</td></tr>`).join('');
+  $('#t-log').innerHTML='<tr><th>Time</th><th>Product</th><th>Event</th><th>Reason</th><th>Model</th><th class="n">Error</th></tr>'+
+   d.history.map(h=>`<tr><td>${h.time.replace('T',' ')}</td><td>${h.product}</td><td><span class="chip ${h.event=='retrain'?'warn':'ok'}">${h.event=='retrain'?'Retrained':'Checked'}</span></td><td>${h.reason}${h.switched_from?` <span class="chip info">switched from ${mname(h.switched_from)}</span>`:''}</td><td>${mname(h.model)}</td><td class="n">${h.wape!=null?pct(h.wape):'-'}</td></tr>`).join('');
+  showLast(d.last_report);
+};
+function showLast(r){
+  if(!r){ $('#last-card').hidden=true; return; }
+  $('#last-card').hidden=false;
+  const n=r.report.filter(x=>x.action=='retrained').length;
+  $('#last-note').textContent=`Source: ${r.source} · data through ${r.through} · ${n} of ${r.report.length} models retrained` + (r.skipped_rows?` · ${r.skipped_rows} invalid rows skipped`:'');
+  $('#t-last').innerHTML='<tr><th>Product</th><th>Decision</th><th>Why</th><th class="n">Live error</th><th class="n">Forecast bias</th><th>Model now</th></tr>'+
+   r.report.map(x=>`<tr><td><b>${x.product}</b></td><td><span class="chip ${x.action=='retrained'?'warn':'ok'}">${x.action=='retrained'?'Retrained':'Kept'}</span></td><td>${x.reason}</td><td class="n">${x.live_wape!=null?pct(x.live_wape):'-'}</td><td class="n">${x.bias!=null?(x.bias>0?'+':'')+pct(x.bias,0):'-'}</td><td>${mname(x.model)}</td></tr>`).join('');
+}
+
+async function act(msg, fn){
+  busy(msg);
+  try{ const r=await fn(); products=null; await Promise.all([loaders.adaptive()]); const n=(r.report||[]).filter(x=>x.action=='retrained').length; if(r.report) toast(`Update complete: ${n} of ${r.report.length} models retrained.`); }
+  catch(e){ toast('Error: '+e.message); }
+  idle();
+}
+const post=(u,b)=>api(u,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(b||{})});
+$('#b-norm').onclick=()=>act('Adding 30 days of normal data and checking models…',()=>post('/api/simulate',{mode:'normal',days:30}));
+$('#b-shift').onclick=()=>act('Adding 30 days with a demand surge; retraining drifted models…',()=>post('/api/simulate',{mode:'shift',days:30}));
+$('#b-ret').onclick=()=>act('Retraining all models…',()=>post('/api/retrain'));
+$('#b-reset').onclick=()=>act('Resetting demo…',async()=>{ const r=await post('/api/reset'); return r; });
+$('#b-up').onclick=()=>{
+  const f=$('#f-up').files[0]; if(!f){ toast('Choose a CSV file first.'); return; }
+  const fd=new FormData(); fd.append('file',f);
+  act('Uploading and analysing '+f.name+'…',()=>api('/api/upload',{method:'POST',body:fd}));
+};
+
+/* ---------------- nav ---------------- */
+let current='overview';
+async function show(v){
+  current=v;
+  document.querySelectorAll('nav button').forEach(b=>b.classList.toggle('on',b.dataset.v==v));
+  document.querySelectorAll('section.view').forEach(s=>s.classList.toggle('on',s.id=='v-'+v));
+  try{ await loaders[v](); }catch(e){ toast('Error: '+e.message); }
+}
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>show(b.dataset.v));
+window.addEventListener('resize',()=>{ clearTimeout(window._rz); window._rz=setTimeout(()=>show(current),200); });
+show('overview');
+</script>
+</body>
+</html>

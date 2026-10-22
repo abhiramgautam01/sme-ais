@@ -1,0 +1,3841 @@
+date,product,units_sold,price,unit_cost,lead_time_days,promo
+2024-01-01,Basmati Rice 5kg,39,395,310,4,0
+2024-01-02,Basmati Rice 5kg,21,395,310,4,0
+2024-01-03,Basmati Rice 5kg,36,395,310,4,0
+2024-01-04,Basmati Rice 5kg,36,395,310,4,0
+2024-01-05,Basmati Rice 5kg,31,395,310,4,0
+2024-01-06,Basmati Rice 5kg,47,395,310,4,0
+2024-01-07,Basmati Rice 5kg,52,395,310,4,0
+2024-01-08,Basmati Rice 5kg,42,395,310,4,0
+2024-01-09,Basmati Rice 5kg,36,395,310,4,0
+2024-01-10,Basmati Rice 5kg,30,395,310,4,0
+2024-01-11,Basmati Rice 5kg,27,395,310,4,0
+2024-01-12,Basmati Rice 5kg,30,395,310,4,0
+2024-01-13,Basmati Rice 5kg,40,395,310,4,0
+2024-01-14,Basmati Rice 5kg,36,395,310,4,0
+2024-01-15,Basmati Rice 5kg,37,395,310,4,0
+2024-01-16,Basmati Rice 5kg,45,395,310,4,0
+2024-01-17,Basmati Rice 5kg,27,395,310,4,0
+2024-01-18,Basmati Rice 5kg,23,395,310,4,0
+2024-01-19,Basmati Rice 5kg,35,395,310,4,0
+2024-01-20,Basmati Rice 5kg,43,395,310,4,0
+2024-01-21,Basmati Rice 5kg,50,395,310,4,0
+2024-01-22,Basmati Rice 5kg,32,395,310,4,0
+2024-01-23,Basmati Rice 5kg,30,395,310,4,0
+2024-01-24,Basmati Rice 5kg,44,395,310,4,0
+2024-01-25,Basmati Rice 5kg,39,395,310,4,0
+2024-01-26,Basmati Rice 5kg,36,395,310,4,0
+2024-01-27,Basmati Rice 5kg,40,395,310,4,0
+2024-01-28,Basmati Rice 5kg,56,395,310,4,1
+2024-01-29,Basmati Rice 5kg,42,395,310,4,0
+2024-01-30,Basmati Rice 5kg,35,395,310,4,0
+2024-01-31,Basmati Rice 5kg,41,395,310,4,0
+2024-02-01,Basmati Rice 5kg,36,395,310,4,0
+2024-02-02,Basmati Rice 5kg,34,395,310,4,0
+2024-02-03,Basmati Rice 5kg,36,395,310,4,0
+2024-02-04,Basmati Rice 5kg,41,395,310,4,0
+2024-02-05,Basmati Rice 5kg,36,395,310,4,0
+2024-02-06,Basmati Rice 5kg,33,395,310,4,0
+2024-02-07,Basmati Rice 5kg,27,395,310,4,0
+2024-02-08,Basmati Rice 5kg,29,395,310,4,0
+2024-02-09,Basmati Rice 5kg,33,395,310,4,0
+2024-02-10,Basmati Rice 5kg,55,395,310,4,0
+2024-02-11,Basmati Rice 5kg,47,395,310,4,0
+2024-02-12,Basmati Rice 5kg,34,395,310,4,0
+2024-02-13,Basmati Rice 5kg,42,395,310,4,0
+2024-02-14,Basmati Rice 5kg,32,395,310,4,0
+2024-02-15,Basmati Rice 5kg,31,395,310,4,0
+2024-02-16,Basmati Rice 5kg,38,395,310,4,0
+2024-02-17,Basmati Rice 5kg,44,395,310,4,0
+2024-02-18,Basmati Rice 5kg,32,395,310,4,0
+2024-02-19,Basmati Rice 5kg,42,395,310,4,0
+2024-02-20,Basmati Rice 5kg,23,395,310,4,0
+2024-02-21,Basmati Rice 5kg,62,395,310,4,1
+2024-02-22,Basmati Rice 5kg,30,395,310,4,0
+2024-02-23,Basmati Rice 5kg,27,395,310,4,0
+2024-02-24,Basmati Rice 5kg,42,395,310,4,0
+2024-02-25,Basmati Rice 5kg,50,395,310,4,0
+2024-02-26,Basmati Rice 5kg,8,395,310,4,0
+2024-02-27,Basmati Rice 5kg,37,395,310,4,0
+2024-02-28,Basmati Rice 5kg,44,395,310,4,0
+2024-02-29,Basmati Rice 5kg,43,395,310,4,0
+2024-03-01,Basmati Rice 5kg,31,395,310,4,0
+2024-03-02,Basmati Rice 5kg,45,395,310,4,0
+2024-03-03,Basmati Rice 5kg,54,395,310,4,0
+2024-03-04,Basmati Rice 5kg,44,395,310,4,0
+2024-03-05,Basmati Rice 5kg,48,395,310,4,0
+2024-03-06,Basmati Rice 5kg,30,395,310,4,0
+2024-03-07,Basmati Rice 5kg,41,395,310,4,0
+2024-03-08,Basmati Rice 5kg,45,395,310,4,0
+2024-03-09,Basmati Rice 5kg,70,395,310,4,1
+2024-03-10,Basmati Rice 5kg,34,395,310,4,0
+2024-03-11,Basmati Rice 5kg,36,395,310,4,0
+2024-03-12,Basmati Rice 5kg,46,395,310,4,0
+2024-03-13,Basmati Rice 5kg,40,395,310,4,0
+2024-03-14,Basmati Rice 5kg,46,395,310,4,0
+2024-03-15,Basmati Rice 5kg,52,395,310,4,1
+2024-03-16,Basmati Rice 5kg,48,395,310,4,0
+2024-03-17,Basmati Rice 5kg,55,395,310,4,0
+2024-03-18,Basmati Rice 5kg,39,395,310,4,0
+2024-03-19,Basmati Rice 5kg,40,395,310,4,0
+2024-03-20,Basmati Rice 5kg,37,395,310,4,0
+2024-03-21,Basmati Rice 5kg,32,395,310,4,0
+2024-03-22,Basmati Rice 5kg,32,395,310,4,0
+2024-03-23,Basmati Rice 5kg,48,395,310,4,0
+2024-03-24,Basmati Rice 5kg,56,395,310,4,0
+2024-03-25,Basmati Rice 5kg,62,395,310,4,1
+2024-03-26,Basmati Rice 5kg,31,395,310,4,0
+2024-03-27,Basmati Rice 5kg,30,395,310,4,0
+2024-03-28,Basmati Rice 5kg,44,395,310,4,0
+2024-03-29,Basmati Rice 5kg,36,395,310,4,0
+2024-03-30,Basmati Rice 5kg,54,395,310,4,0
+2024-03-31,Basmati Rice 5kg,50,395,310,4,0
+2024-04-01,Basmati Rice 5kg,54,395,310,4,0
+2024-04-02,Basmati Rice 5kg,34,395,310,4,0
+2024-04-03,Basmati Rice 5kg,38,395,310,4,0
+2024-04-04,Basmati Rice 5kg,32,395,310,4,0
+2024-04-05,Basmati Rice 5kg,36,395,310,4,0
+2024-04-06,Basmati Rice 5kg,46,395,310,4,0
+2024-04-07,Basmati Rice 5kg,47,395,310,4,0
+2024-04-08,Basmati Rice 5kg,35,395,310,4,0
+2024-04-09,Basmati Rice 5kg,41,395,310,4,0
+2024-04-10,Basmati Rice 5kg,56,395,310,4,0
+2024-04-11,Basmati Rice 5kg,40,395,310,4,0
+2024-04-12,Basmati Rice 5kg,34,395,310,4,0
+2024-04-13,Basmati Rice 5kg,39,395,310,4,0
+2024-04-14,Basmati Rice 5kg,49,395,310,4,0
+2024-04-15,Basmati Rice 5kg,45,395,310,4,0
+2024-04-16,Basmati Rice 5kg,34,395,310,4,0
+2024-04-17,Basmati Rice 5kg,34,395,310,4,0
+2024-04-18,Basmati Rice 5kg,42,395,310,4,0
+2024-04-19,Basmati Rice 5kg,35,395,310,4,0
+2024-04-20,Basmati Rice 5kg,51,395,310,4,0
+2024-04-21,Basmati Rice 5kg,60,395,310,4,0
+2024-04-22,Basmati Rice 5kg,56,395,310,4,0
+2024-04-23,Basmati Rice 5kg,52,395,310,4,0
+2024-04-24,Basmati Rice 5kg,37,395,310,4,0
+2024-04-25,Basmati Rice 5kg,34,395,310,4,0
+2024-04-26,Basmati Rice 5kg,39,395,310,4,0
+2024-04-27,Basmati Rice 5kg,64,395,310,4,0
+2024-04-28,Basmati Rice 5kg,55,395,310,4,0
+2024-04-29,Basmati Rice 5kg,38,395,310,4,0
+2024-04-30,Basmati Rice 5kg,48,395,310,4,0
+2024-05-01,Basmati Rice 5kg,41,395,310,4,0
+2024-05-02,Basmati Rice 5kg,42,395,310,4,0
+2024-05-03,Basmati Rice 5kg,32,395,310,4,0
+2024-05-04,Basmati Rice 5kg,93,395,310,4,1
+2024-05-05,Basmati Rice 5kg,71,395,310,4,0
+2024-05-06,Basmati Rice 5kg,45,395,310,4,0
+2024-05-07,Basmati Rice 5kg,38,395,310,4,0
+2024-05-08,Basmati Rice 5kg,38,395,310,4,0
+2024-05-09,Basmati Rice 5kg,41,395,310,4,0
+2024-05-10,Basmati Rice 5kg,41,395,310,4,0
+2024-05-11,Basmati Rice 5kg,60,395,310,4,0
+2024-05-12,Basmati Rice 5kg,51,395,310,4,0
+2024-05-13,Basmati Rice 5kg,41,395,310,4,0
+2024-05-14,Basmati Rice 5kg,45,395,310,4,0
+2024-05-15,Basmati Rice 5kg,64,395,310,4,1
+2024-05-16,Basmati Rice 5kg,53,395,310,4,0
+2024-05-17,Basmati Rice 5kg,43,395,310,4,0
+2024-05-18,Basmati Rice 5kg,40,395,310,4,0
+2024-05-19,Basmati Rice 5kg,45,395,310,4,0
+2024-05-20,Basmati Rice 5kg,47,395,310,4,0
+2024-05-21,Basmati Rice 5kg,55,395,310,4,0
+2024-05-22,Basmati Rice 5kg,47,395,310,4,0
+2024-05-23,Basmati Rice 5kg,45,395,310,4,0
+2024-05-24,Basmati Rice 5kg,40,395,310,4,0
+2024-05-25,Basmati Rice 5kg,52,395,310,4,0
+2024-05-26,Basmati Rice 5kg,59,395,310,4,0
+2024-05-27,Basmati Rice 5kg,54,395,310,4,0
+2024-05-28,Basmati Rice 5kg,47,395,310,4,0
+2024-05-29,Basmati Rice 5kg,74,395,310,4,1
+2024-05-30,Basmati Rice 5kg,47,395,310,4,0
+2024-05-31,Basmati Rice 5kg,42,395,310,4,0
+2024-06-01,Basmati Rice 5kg,56,395,310,4,0
+2024-06-02,Basmati Rice 5kg,54,395,310,4,0
+2024-06-03,Basmati Rice 5kg,41,395,310,4,0
+2024-06-04,Basmati Rice 5kg,42,395,310,4,0
+2024-06-05,Basmati Rice 5kg,32,395,310,4,0
+2024-06-06,Basmati Rice 5kg,45,395,310,4,0
+2024-06-07,Basmati Rice 5kg,35,395,310,4,0
+2024-06-08,Basmati Rice 5kg,65,395,310,4,0
+2024-06-09,Basmati Rice 5kg,59,395,310,4,0
+2024-06-10,Basmati Rice 5kg,40,395,310,4,0
+2024-06-11,Basmati Rice 5kg,39,395,310,4,0
+2024-06-12,Basmati Rice 5kg,70,395,310,4,1
+2024-06-13,Basmati Rice 5kg,43,395,310,4,0
+2024-06-14,Basmati Rice 5kg,56,395,310,4,0
+2024-06-15,Basmati Rice 5kg,50,395,310,4,0
+2024-06-16,Basmati Rice 5kg,53,395,310,4,0
+2024-06-17,Basmati Rice 5kg,53,395,310,4,0
+2024-06-18,Basmati Rice 5kg,42,395,310,4,0
+2024-06-19,Basmati Rice 5kg,51,395,310,4,0
+2024-06-20,Basmati Rice 5kg,43,395,310,4,0
+2024-06-21,Basmati Rice 5kg,44,395,310,4,0
+2024-06-22,Basmati Rice 5kg,62,395,310,4,0
+2024-06-23,Basmati Rice 5kg,55,395,310,4,0
+2024-06-24,Basmati Rice 5kg,54,395,310,4,1
+2024-06-25,Basmati Rice 5kg,39,395,310,4,0
+2024-06-26,Basmati Rice 5kg,44,395,310,4,0
+2024-06-27,Basmati Rice 5kg,36,395,310,4,0
+2024-06-28,Basmati Rice 5kg,49,395,310,4,0
+2024-06-29,Basmati Rice 5kg,62,395,310,4,0
+2024-06-30,Basmati Rice 5kg,46,395,310,4,0
+2024-07-01,Basmati Rice 5kg,35,395,310,4,0
+2024-07-02,Basmati Rice 5kg,36,395,310,4,0
+2024-07-03,Basmati Rice 5kg,34,395,310,4,0
+2024-07-04,Basmati Rice 5kg,37,395,310,4,0
+2024-07-05,Basmati Rice 5kg,44,395,310,4,0
+2024-07-06,Basmati Rice 5kg,63,395,310,4,0
+2024-07-07,Basmati Rice 5kg,53,395,310,4,0
+2024-07-08,Basmati Rice 5kg,44,395,310,4,0
+2024-07-09,Basmati Rice 5kg,33,395,310,4,0
+2024-07-10,Basmati Rice 5kg,42,395,310,4,0
+2024-07-11,Basmati Rice 5kg,39,395,310,4,0
+2024-07-12,Basmati Rice 5kg,39,395,310,4,0
+2024-07-13,Basmati Rice 5kg,61,395,310,4,0
+2024-07-14,Basmati Rice 5kg,55,395,310,4,0
+2024-07-15,Basmati Rice 5kg,36,395,310,4,0
+2024-07-16,Basmati Rice 5kg,33,395,310,4,0
+2024-07-17,Basmati Rice 5kg,43,395,310,4,0
+2024-07-18,Basmati Rice 5kg,27,395,310,4,0
+2024-07-19,Basmati Rice 5kg,39,395,310,4,0
+2024-07-20,Basmati Rice 5kg,62,395,310,4,0
+2024-07-21,Basmati Rice 5kg,46,395,310,4,0
+2024-07-22,Basmati Rice 5kg,51,395,310,4,0
+2024-07-23,Basmati Rice 5kg,66,395,310,4,1
+2024-07-24,Basmati Rice 5kg,40,395,310,4,0
+2024-07-25,Basmati Rice 5kg,36,395,310,4,0
+2024-07-26,Basmati Rice 5kg,40,395,310,4,0
+2024-07-27,Basmati Rice 5kg,53,395,310,4,0
+2024-07-28,Basmati Rice 5kg,48,395,310,4,0
+2024-07-29,Basmati Rice 5kg,48,395,310,4,0
+2024-07-30,Basmati Rice 5kg,32,395,310,4,0
+2024-07-31,Basmati Rice 5kg,35,395,310,4,0
+2024-08-01,Basmati Rice 5kg,33,395,310,4,0
+2024-08-02,Basmati Rice 5kg,39,395,310,4,0
+2024-08-03,Basmati Rice 5kg,64,395,310,4,0
+2024-08-04,Basmati Rice 5kg,47,395,310,4,0
+2024-08-05,Basmati Rice 5kg,39,395,310,4,0
+2024-08-06,Basmati Rice 5kg,43,395,310,4,0
+2024-08-07,Basmati Rice 5kg,48,395,310,4,0
+2024-08-08,Basmati Rice 5kg,42,395,310,4,0
+2024-08-09,Basmati Rice 5kg,35,395,310,4,0
+2024-08-10,Basmati Rice 5kg,59,395,310,4,0
+2024-08-11,Basmati Rice 5kg,55,395,310,4,0
+2024-08-12,Basmati Rice 5kg,38,395,310,4,0
+2024-08-13,Basmati Rice 5kg,38,395,310,4,0
+2024-08-14,Basmati Rice 5kg,59,395,310,4,1
+2024-08-15,Basmati Rice 5kg,49,395,310,4,0
+2024-08-16,Basmati Rice 5kg,39,395,310,4,0
+2024-08-17,Basmati Rice 5kg,67,395,310,4,0
+2024-08-18,Basmati Rice 5kg,46,395,310,4,0
+2024-08-19,Basmati Rice 5kg,36,395,310,4,0
+2024-08-20,Basmati Rice 5kg,35,395,310,4,0
+2024-08-21,Basmati Rice 5kg,34,395,310,4,0
+2024-08-22,Basmati Rice 5kg,33,395,310,4,0
+2024-08-23,Basmati Rice 5kg,47,395,310,4,0
+2024-08-24,Basmati Rice 5kg,49,395,310,4,0
+2024-08-25,Basmati Rice 5kg,49,395,310,4,0
+2024-08-26,Basmati Rice 5kg,59,395,310,4,1
+2024-08-27,Basmati Rice 5kg,31,395,310,4,0
+2024-08-28,Basmati Rice 5kg,31,395,310,4,0
+2024-08-29,Basmati Rice 5kg,31,395,310,4,0
+2024-08-30,Basmati Rice 5kg,43,395,310,4,0
+2024-08-31,Basmati Rice 5kg,35,395,310,4,0
+2024-09-01,Basmati Rice 5kg,48,395,310,4,0
+2024-09-02,Basmati Rice 5kg,43,395,310,4,0
+2024-09-03,Basmati Rice 5kg,41,395,310,4,0
+2024-09-04,Basmati Rice 5kg,38,395,310,4,0
+2024-09-05,Basmati Rice 5kg,31,395,310,4,0
+2024-09-06,Basmati Rice 5kg,32,395,310,4,0
+2024-09-07,Basmati Rice 5kg,61,395,310,4,0
+2024-09-08,Basmati Rice 5kg,48,395,310,4,0
+2024-09-09,Basmati Rice 5kg,40,395,310,4,0
+2024-09-10,Basmati Rice 5kg,38,395,310,4,0
+2024-09-11,Basmati Rice 5kg,38,395,310,4,0
+2024-09-12,Basmati Rice 5kg,38,395,310,4,0
+2024-09-13,Basmati Rice 5kg,39,395,310,4,0
+2024-09-14,Basmati Rice 5kg,48,395,310,4,0
+2024-09-15,Basmati Rice 5kg,40,395,310,4,0
+2024-09-16,Basmati Rice 5kg,45,395,310,4,0
+2024-09-17,Basmati Rice 5kg,34,395,310,4,0
+2024-09-18,Basmati Rice 5kg,44,395,310,4,0
+2024-09-19,Basmati Rice 5kg,40,395,310,4,0
+2024-09-20,Basmati Rice 5kg,35,395,310,4,0
+2024-09-21,Basmati Rice 5kg,52,395,310,4,0
+2024-09-22,Basmati Rice 5kg,52,395,310,4,0
+2024-09-23,Basmati Rice 5kg,45,395,310,4,0
+2024-09-24,Basmati Rice 5kg,39,395,310,4,0
+2024-09-25,Basmati Rice 5kg,35,395,310,4,0
+2024-09-26,Basmati Rice 5kg,48,395,310,4,1
+2024-09-27,Basmati Rice 5kg,45,395,310,4,1
+2024-09-28,Basmati Rice 5kg,56,395,310,4,0
+2024-09-29,Basmati Rice 5kg,68,395,310,4,1
+2024-09-30,Basmati Rice 5kg,33,395,310,4,0
+2024-10-01,Basmati Rice 5kg,48,395,310,4,0
+2024-10-02,Basmati Rice 5kg,29,395,310,4,0
+2024-10-03,Basmati Rice 5kg,37,395,310,4,0
+2024-10-04,Basmati Rice 5kg,35,395,310,4,0
+2024-10-05,Basmati Rice 5kg,48,395,310,4,0
+2024-10-06,Basmati Rice 5kg,56,395,310,4,0
+2024-10-07,Basmati Rice 5kg,49,395,310,4,1
+2024-10-08,Basmati Rice 5kg,47,395,310,4,0
+2024-10-09,Basmati Rice 5kg,38,395,310,4,0
+2024-10-10,Basmati Rice 5kg,41,395,310,4,0
+2024-10-11,Basmati Rice 5kg,40,395,310,4,0
+2024-10-12,Basmati Rice 5kg,52,395,310,4,0
+2024-10-13,Basmati Rice 5kg,66,395,310,4,1
+2024-10-14,Basmati Rice 5kg,34,395,310,4,0
+2024-10-15,Basmati Rice 5kg,32,395,310,4,0
+2024-10-16,Basmati Rice 5kg,36,395,310,4,0
+2024-10-17,Basmati Rice 5kg,58,395,310,4,0
+2024-10-18,Basmati Rice 5kg,52,395,310,4,1
+2024-10-19,Basmati Rice 5kg,52,395,310,4,0
+2024-10-20,Basmati Rice 5kg,47,395,310,4,0
+2024-10-21,Basmati Rice 5kg,55,395,310,4,0
+2024-10-22,Basmati Rice 5kg,42,395,310,4,0
+2024-10-23,Basmati Rice 5kg,47,395,310,4,0
+2024-10-24,Basmati Rice 5kg,28,395,310,4,0
+2024-10-25,Basmati Rice 5kg,43,395,310,4,0
+2024-10-26,Basmati Rice 5kg,49,395,310,4,0
+2024-10-27,Basmati Rice 5kg,50,395,310,4,0
+2024-10-28,Basmati Rice 5kg,38,395,310,4,0
+2024-10-29,Basmati Rice 5kg,56,395,310,4,0
+2024-10-30,Basmati Rice 5kg,31,395,310,4,0
+2024-10-31,Basmati Rice 5kg,53,395,310,4,0
+2024-11-01,Basmati Rice 5kg,44,395,310,4,0
+2024-11-02,Basmati Rice 5kg,39,395,310,4,0
+2024-11-03,Basmati Rice 5kg,49,395,310,4,0
+2024-11-04,Basmati Rice 5kg,43,395,310,4,0
+2024-11-05,Basmati Rice 5kg,37,395,310,4,0
+2024-11-06,Basmati Rice 5kg,35,395,310,4,0
+2024-11-07,Basmati Rice 5kg,27,395,310,4,0
+2024-11-08,Basmati Rice 5kg,41,395,310,4,0
+2024-11-09,Basmati Rice 5kg,61,395,310,4,0
+2024-11-10,Basmati Rice 5kg,29,395,310,4,0
+2024-11-11,Basmati Rice 5kg,33,395,310,4,0
+2024-11-12,Basmati Rice 5kg,33,395,310,4,0
+2024-11-13,Basmati Rice 5kg,30,395,310,4,0
+2024-11-14,Basmati Rice 5kg,30,395,310,4,0
+2024-11-15,Basmati Rice 5kg,46,395,310,4,0
+2024-11-16,Basmati Rice 5kg,51,395,310,4,0
+2024-11-17,Basmati Rice 5kg,55,395,310,4,0
+2024-11-18,Basmati Rice 5kg,36,395,310,4,0
+2024-11-19,Basmati Rice 5kg,33,395,310,4,0
+2024-11-20,Basmati Rice 5kg,50,395,310,4,0
+2024-11-21,Basmati Rice 5kg,42,395,310,4,0
+2024-11-22,Basmati Rice 5kg,29,395,310,4,0
+2024-11-23,Basmati Rice 5kg,51,395,310,4,0
+2024-11-24,Basmati Rice 5kg,47,395,310,4,0
+2024-11-25,Basmati Rice 5kg,43,395,310,4,0
+2024-11-26,Basmati Rice 5kg,50,395,310,4,0
+2024-11-27,Basmati Rice 5kg,28,395,310,4,0
+2024-11-28,Basmati Rice 5kg,37,395,310,4,0
+2024-11-29,Basmati Rice 5kg,36,395,310,4,0
+2024-11-30,Basmati Rice 5kg,47,395,310,4,0
+2024-12-01,Basmati Rice 5kg,50,395,310,4,0
+2024-12-02,Basmati Rice 5kg,41,395,310,4,0
+2024-12-03,Basmati Rice 5kg,47,395,310,4,0
+2024-12-04,Basmati Rice 5kg,40,395,310,4,0
+2024-12-05,Basmati Rice 5kg,35,395,310,4,0
+2024-12-06,Basmati Rice 5kg,43,395,310,4,0
+2024-12-07,Basmati Rice 5kg,45,395,310,4,0
+2024-12-08,Basmati Rice 5kg,46,395,310,4,0
+2024-12-09,Basmati Rice 5kg,45,395,310,4,0
+2024-12-10,Basmati Rice 5kg,43,395,310,4,0
+2024-12-11,Basmati Rice 5kg,32,395,310,4,0
+2024-12-12,Basmati Rice 5kg,29,395,310,4,0
+2024-12-13,Basmati Rice 5kg,38,395,310,4,0
+2024-12-14,Basmati Rice 5kg,59,395,310,4,0
+2024-12-15,Basmati Rice 5kg,41,395,310,4,0
+2024-12-16,Basmati Rice 5kg,35,395,310,4,0
+2024-12-17,Basmati Rice 5kg,47,395,310,4,0
+2024-12-18,Basmati Rice 5kg,42,395,310,4,0
+2024-12-19,Basmati Rice 5kg,34,395,310,4,0
+2024-12-20,Basmati Rice 5kg,29,395,310,4,0
+2024-12-21,Basmati Rice 5kg,45,395,310,4,0
+2024-12-22,Basmati Rice 5kg,50,395,310,4,0
+2024-12-23,Basmati Rice 5kg,28,395,310,4,0
+2024-12-24,Basmati Rice 5kg,44,395,310,4,0
+2024-12-25,Basmati Rice 5kg,44,395,310,4,0
+2024-12-26,Basmati Rice 5kg,44,395,310,4,0
+2024-12-27,Basmati Rice 5kg,34,395,310,4,0
+2024-12-28,Basmati Rice 5kg,49,395,310,4,0
+2024-12-29,Basmati Rice 5kg,44,395,310,4,0
+2024-12-30,Basmati Rice 5kg,36,395,310,4,0
+2024-12-31,Basmati Rice 5kg,31,395,310,4,0
+2025-01-01,Basmati Rice 5kg,35,395,310,4,0
+2025-01-02,Basmati Rice 5kg,32,395,310,4,0
+2025-01-03,Basmati Rice 5kg,48,395,310,4,0
+2025-01-04,Basmati Rice 5kg,53,395,310,4,0
+2025-01-05,Basmati Rice 5kg,57,395,310,4,0
+2025-01-06,Basmati Rice 5kg,29,395,310,4,0
+2025-01-07,Basmati Rice 5kg,39,395,310,4,0
+2025-01-08,Basmati Rice 5kg,37,395,310,4,0
+2025-01-09,Basmati Rice 5kg,39,395,310,4,0
+2025-01-10,Basmati Rice 5kg,28,395,310,4,0
+2025-01-11,Basmati Rice 5kg,57,395,310,4,0
+2025-01-12,Basmati Rice 5kg,61,395,310,4,0
+2025-01-13,Basmati Rice 5kg,39,395,310,4,0
+2025-01-14,Basmati Rice 5kg,37,395,310,4,0
+2025-01-15,Basmati Rice 5kg,35,395,310,4,0
+2025-01-16,Basmati Rice 5kg,32,395,310,4,0
+2025-01-17,Basmati Rice 5kg,51,395,310,4,0
+2025-01-18,Basmati Rice 5kg,59,395,310,4,0
+2025-01-19,Basmati Rice 5kg,44,395,310,4,0
+2025-01-20,Basmati Rice 5kg,48,395,310,4,0
+2025-01-21,Basmati Rice 5kg,51,395,310,4,0
+2025-01-22,Basmati Rice 5kg,43,395,310,4,0
+2025-01-23,Basmati Rice 5kg,34,395,310,4,0
+2025-01-24,Basmati Rice 5kg,55,395,310,4,0
+2025-01-25,Basmati Rice 5kg,50,395,310,4,0
+2025-01-26,Basmati Rice 5kg,46,395,310,4,0
+2025-01-27,Basmati Rice 5kg,47,395,310,4,0
+2025-01-28,Basmati Rice 5kg,48,395,310,4,0
+2025-01-29,Basmati Rice 5kg,47,395,310,4,1
+2025-01-30,Basmati Rice 5kg,46,395,310,4,0
+2025-01-31,Basmati Rice 5kg,37,395,310,4,0
+2025-02-01,Basmati Rice 5kg,50,395,310,4,0
+2025-02-02,Basmati Rice 5kg,45,395,310,4,0
+2025-02-03,Basmati Rice 5kg,42,395,310,4,0
+2025-02-04,Basmati Rice 5kg,44,395,310,4,0
+2025-02-05,Basmati Rice 5kg,39,395,310,4,0
+2025-02-06,Basmati Rice 5kg,35,395,310,4,0
+2025-02-07,Basmati Rice 5kg,44,395,310,4,0
+2025-02-08,Basmati Rice 5kg,52,395,310,4,0
+2025-02-09,Basmati Rice 5kg,46,395,310,4,0
+2025-02-10,Basmati Rice 5kg,38,395,310,4,0
+2025-02-11,Basmati Rice 5kg,52,395,310,4,0
+2025-02-12,Basmati Rice 5kg,37,395,310,4,0
+2025-02-13,Basmati Rice 5kg,36,395,310,4,0
+2025-02-14,Basmati Rice 5kg,53,395,310,4,0
+2025-02-15,Basmati Rice 5kg,48,395,310,4,0
+2025-02-16,Basmati Rice 5kg,52,395,310,4,0
+2025-02-17,Basmati Rice 5kg,36,395,310,4,0
+2025-02-18,Basmati Rice 5kg,64,395,310,4,1
+2025-02-19,Basmati Rice 5kg,50,395,310,4,0
+2025-02-20,Basmati Rice 5kg,37,395,310,4,0
+2025-02-21,Basmati Rice 5kg,46,395,310,4,0
+2025-02-22,Basmati Rice 5kg,60,395,310,4,0
+2025-02-23,Basmati Rice 5kg,65,395,310,4,0
+2025-02-24,Basmati Rice 5kg,49,395,310,4,0
+2025-02-25,Basmati Rice 5kg,64,395,310,4,1
+2025-02-26,Basmati Rice 5kg,47,395,310,4,1
+2025-02-27,Basmati Rice 5kg,56,395,310,4,1
+2025-02-28,Basmati Rice 5kg,43,395,310,4,0
+2025-03-01,Basmati Rice 5kg,50,395,310,4,0
+2025-03-02,Basmati Rice 5kg,60,395,310,4,0
+2025-03-03,Basmati Rice 5kg,38,395,310,4,0
+2025-03-04,Basmati Rice 5kg,56,395,310,4,1
+2025-03-05,Basmati Rice 5kg,33,395,310,4,0
+2025-03-06,Basmati Rice 5kg,51,395,310,4,0
+2025-03-07,Basmati Rice 5kg,48,395,310,4,0
+2025-03-08,Basmati Rice 5kg,52,395,310,4,0
+2025-03-09,Basmati Rice 5kg,53,395,310,4,0
+2025-03-10,Basmati Rice 5kg,65,395,310,4,1
+2025-03-11,Basmati Rice 5kg,49,395,310,4,0
+2025-03-12,Basmati Rice 5kg,44,395,310,4,0
+2025-03-13,Basmati Rice 5kg,40,395,310,4,0
+2025-03-14,Basmati Rice 5kg,56,395,310,4,0
+2025-03-15,Basmati Rice 5kg,63,395,310,4,0
+2025-03-16,Basmati Rice 5kg,67,395,310,4,0
+2025-03-17,Basmati Rice 5kg,55,395,310,4,0
+2025-03-18,Basmati Rice 5kg,46,395,310,4,0
+2025-03-19,Basmati Rice 5kg,39,395,310,4,0
+2025-03-20,Basmati Rice 5kg,48,395,310,4,0
+2025-03-21,Basmati Rice 5kg,48,395,310,4,0
+2025-03-22,Basmati Rice 5kg,57,395,310,4,0
+2025-03-23,Basmati Rice 5kg,61,395,310,4,0
+2025-03-24,Basmati Rice 5kg,74,395,310,4,1
+2025-03-25,Basmati Rice 5kg,43,395,310,4,0
+2025-03-26,Basmati Rice 5kg,57,395,310,4,1
+2025-03-27,Basmati Rice 5kg,38,395,310,4,0
+2025-03-28,Basmati Rice 5kg,34,395,310,4,0
+2025-03-29,Basmati Rice 5kg,49,395,310,4,0
+2025-03-30,Basmati Rice 5kg,61,395,310,4,0
+2025-03-31,Basmati Rice 5kg,50,395,310,4,0
+2025-04-01,Basmati Rice 5kg,49,395,310,4,0
+2025-04-02,Basmati Rice 5kg,50,395,310,4,0
+2025-04-03,Basmati Rice 5kg,42,395,310,4,0
+2025-04-04,Basmati Rice 5kg,37,395,310,4,0
+2025-04-05,Basmati Rice 5kg,54,395,310,4,0
+2025-04-06,Basmati Rice 5kg,53,395,310,4,0
+2025-04-07,Basmati Rice 5kg,44,395,310,4,0
+2025-04-08,Basmati Rice 5kg,55,395,310,4,0
+2025-04-09,Basmati Rice 5kg,52,395,310,4,0
+2025-04-10,Basmati Rice 5kg,39,395,310,4,0
+2025-04-11,Basmati Rice 5kg,55,395,310,4,0
+2025-04-12,Basmati Rice 5kg,62,395,310,4,0
+2025-04-13,Basmati Rice 5kg,61,395,310,4,0
+2025-04-14,Basmati Rice 5kg,50,395,310,4,0
+2025-04-15,Basmati Rice 5kg,38,395,310,4,0
+2025-04-16,Basmati Rice 5kg,50,395,310,4,0
+2025-04-17,Basmati Rice 5kg,33,395,310,4,0
+2025-04-18,Basmati Rice 5kg,43,395,310,4,0
+2025-04-19,Basmati Rice 5kg,54,395,310,4,0
+2025-04-20,Basmati Rice 5kg,67,395,310,4,0
+2025-04-21,Basmati Rice 5kg,56,395,310,4,0
+2025-04-22,Basmati Rice 5kg,53,395,310,4,0
+2025-04-23,Basmati Rice 5kg,47,395,310,4,0
+2025-04-24,Basmati Rice 5kg,58,395,310,4,0
+2025-04-25,Basmati Rice 5kg,46,395,310,4,0
+2025-04-26,Basmati Rice 5kg,67,395,310,4,0
+2025-04-27,Basmati Rice 5kg,62,395,310,4,0
+2025-04-28,Basmati Rice 5kg,61,395,310,4,0
+2025-04-29,Basmati Rice 5kg,64,395,310,4,1
+2025-04-30,Basmati Rice 5kg,46,395,310,4,0
+2025-05-01,Basmati Rice 5kg,40,395,310,4,0
+2025-05-02,Basmati Rice 5kg,51,395,310,4,0
+2025-05-03,Basmati Rice 5kg,53,395,310,4,0
+2025-05-04,Basmati Rice 5kg,58,395,310,4,0
+2025-05-05,Basmati Rice 5kg,10,395,310,4,0
+2025-05-06,Basmati Rice 5kg,43,395,310,4,0
+2025-05-07,Basmati Rice 5kg,48,395,310,4,0
+2025-05-08,Basmati Rice 5kg,41,395,310,4,0
+2025-05-09,Basmati Rice 5kg,41,395,310,4,0
+2025-05-10,Basmati Rice 5kg,65,395,310,4,0
+2025-05-11,Basmati Rice 5kg,77,395,310,4,0
+2025-05-12,Basmati Rice 5kg,50,395,310,4,0
+2025-05-13,Basmati Rice 5kg,45,395,310,4,0
+2025-05-14,Basmati Rice 5kg,59,395,310,4,0
+2025-05-15,Basmati Rice 5kg,42,395,310,4,0
+2025-05-16,Basmati Rice 5kg,47,395,310,4,0
+2025-05-17,Basmati Rice 5kg,63,395,310,4,0
+2025-05-18,Basmati Rice 5kg,60,395,310,4,0
+2025-05-19,Basmati Rice 5kg,47,395,310,4,0
+2025-05-20,Basmati Rice 5kg,40,395,310,4,0
+2025-05-21,Basmati Rice 5kg,57,395,310,4,0
+2025-05-22,Basmati Rice 5kg,41,395,310,4,0
+2025-05-23,Basmati Rice 5kg,47,395,310,4,0
+2025-05-24,Basmati Rice 5kg,58,395,310,4,0
+2025-05-25,Basmati Rice 5kg,66,395,310,4,0
+2025-05-26,Basmati Rice 5kg,37,395,310,4,0
+2025-05-27,Basmati Rice 5kg,69,395,310,4,1
+2025-05-28,Basmati Rice 5kg,57,395,310,4,0
+2025-05-29,Basmati Rice 5kg,50,395,310,4,0
+2025-05-30,Basmati Rice 5kg,45,395,310,4,0
+2025-05-31,Basmati Rice 5kg,75,395,310,4,0
+2025-06-01,Basmati Rice 5kg,53,395,310,4,0
+2025-06-02,Basmati Rice 5kg,72,395,310,4,1
+2025-06-03,Basmati Rice 5kg,49,395,310,4,0
+2025-06-04,Basmati Rice 5kg,48,395,310,4,0
+2025-06-05,Basmati Rice 5kg,42,395,310,4,0
+2025-06-06,Basmati Rice 5kg,44,395,310,4,0
+2025-06-07,Basmati Rice 5kg,66,395,310,4,0
+2025-06-08,Basmati Rice 5kg,70,395,310,4,0
+2025-06-09,Basmati Rice 5kg,55,395,310,4,0
+2025-06-10,Basmati Rice 5kg,49,395,310,4,0
+2025-06-11,Basmati Rice 5kg,43,395,310,4,0
+2025-06-12,Basmati Rice 5kg,42,395,310,4,0
+2025-06-13,Basmati Rice 5kg,45,395,310,4,0
+2025-06-14,Basmati Rice 5kg,81,395,310,4,0
+2025-06-15,Basmati Rice 5kg,64,395,310,4,0
+2025-06-16,Basmati Rice 5kg,59,395,310,4,0
+2025-06-17,Basmati Rice 5kg,52,395,310,4,0
+2025-06-18,Basmati Rice 5kg,67,395,310,4,1
+2025-06-19,Basmati Rice 5kg,53,395,310,4,0
+2025-06-20,Basmati Rice 5kg,51,395,310,4,0
+2025-06-21,Basmati Rice 5kg,62,395,310,4,0
+2025-06-22,Basmati Rice 5kg,59,395,310,4,0
+2025-06-23,Basmati Rice 5kg,56,395,310,4,0
+2025-06-24,Basmati Rice 5kg,42,395,310,4,0
+2025-06-25,Basmati Rice 5kg,48,395,310,4,0
+2025-06-26,Basmati Rice 5kg,53,395,310,4,0
+2025-06-27,Basmati Rice 5kg,55,395,310,4,0
+2025-06-28,Basmati Rice 5kg,72,395,310,4,0
+2025-06-29,Basmati Rice 5kg,66,395,310,4,0
+2025-06-30,Basmati Rice 5kg,45,395,310,4,0
+2025-07-01,Basmati Rice 5kg,38,395,310,4,0
+2025-07-02,Basmati Rice 5kg,45,395,310,4,0
+2025-07-03,Basmati Rice 5kg,47,395,310,4,0
+2025-07-04,Basmati Rice 5kg,42,395,310,4,0
+2025-07-05,Basmati Rice 5kg,72,395,310,4,0
+2025-07-06,Basmati Rice 5kg,72,395,310,4,0
+2025-07-07,Basmati Rice 5kg,66,395,310,4,0
+2025-07-08,Basmati Rice 5kg,55,395,310,4,1
+2025-07-09,Basmati Rice 5kg,48,395,310,4,0
+2025-07-10,Basmati Rice 5kg,39,395,310,4,0
+2025-07-11,Basmati Rice 5kg,31,395,310,4,0
+2025-07-12,Basmati Rice 5kg,52,395,310,4,0
+2025-07-13,Basmati Rice 5kg,60,395,310,4,0
+2025-07-14,Basmati Rice 5kg,45,395,310,4,0
+2025-07-15,Basmati Rice 5kg,51,395,310,4,0
+2025-07-16,Basmati Rice 5kg,51,395,310,4,0
+2025-07-17,Basmati Rice 5kg,46,395,310,4,0
+2025-07-18,Basmati Rice 5kg,53,395,310,4,0
+2025-07-19,Basmati Rice 5kg,63,395,310,4,0
+2025-07-20,Basmati Rice 5kg,58,395,310,4,0
+2025-07-21,Basmati Rice 5kg,54,395,310,4,1
+2025-07-22,Basmati Rice 5kg,63,395,310,4,0
+2025-07-23,Basmati Rice 5kg,50,395,310,4,0
+2025-07-24,Basmati Rice 5kg,42,395,310,4,0
+2025-07-25,Basmati Rice 5kg,48,395,310,4,0
+2025-07-26,Basmati Rice 5kg,60,395,310,4,0
+2025-07-27,Basmati Rice 5kg,52,395,310,4,0
+2025-07-28,Basmati Rice 5kg,154,395,310,4,0
+2025-07-29,Basmati Rice 5kg,45,395,310,4,0
+2025-07-30,Basmati Rice 5kg,38,395,310,4,0
+2025-07-31,Basmati Rice 5kg,61,395,310,4,0
+2025-08-01,Basmati Rice 5kg,45,395,310,4,0
+2025-08-02,Basmati Rice 5kg,59,395,310,4,0
+2025-08-03,Basmati Rice 5kg,55,395,310,4,0
+2025-08-04,Basmati Rice 5kg,58,395,310,4,0
+2025-08-05,Basmati Rice 5kg,43,395,310,4,0
+2025-08-06,Basmati Rice 5kg,45,395,310,4,0
+2025-08-07,Basmati Rice 5kg,42,395,310,4,0
+2025-08-08,Basmati Rice 5kg,43,395,310,4,0
+2025-08-09,Basmati Rice 5kg,65,395,310,4,0
+2025-08-10,Basmati Rice 5kg,13,395,310,4,0
+2025-08-11,Basmati Rice 5kg,45,395,310,4,0
+2025-08-12,Basmati Rice 5kg,69,395,310,4,1
+2025-08-13,Basmati Rice 5kg,44,395,310,4,0
+2025-08-14,Basmati Rice 5kg,47,395,310,4,0
+2025-08-15,Basmati Rice 5kg,55,395,310,4,0
+2025-08-16,Basmati Rice 5kg,50,395,310,4,0
+2025-08-17,Basmati Rice 5kg,88,395,310,4,1
+2025-08-18,Basmati Rice 5kg,50,395,310,4,0
+2025-08-19,Basmati Rice 5kg,44,395,310,4,0
+2025-08-20,Basmati Rice 5kg,46,395,310,4,0
+2025-08-21,Basmati Rice 5kg,38,395,310,4,0
+2025-08-22,Basmati Rice 5kg,39,395,310,4,0
+2025-08-23,Basmati Rice 5kg,48,395,310,4,0
+2025-08-24,Basmati Rice 5kg,54,395,310,4,0
+2025-08-25,Basmati Rice 5kg,43,395,310,4,0
+2025-08-26,Basmati Rice 5kg,44,395,310,4,0
+2025-08-27,Basmati Rice 5kg,42,395,310,4,0
+2025-08-28,Basmati Rice 5kg,34,395,310,4,0
+2025-08-29,Basmati Rice 5kg,37,395,310,4,0
+2025-08-30,Basmati Rice 5kg,59,395,310,4,0
+2025-08-31,Basmati Rice 5kg,55,395,310,4,0
+2025-09-01,Basmati Rice 5kg,57,395,310,4,0
+2025-09-02,Basmati Rice 5kg,52,395,310,4,0
+2025-09-03,Basmati Rice 5kg,51,395,310,4,0
+2025-09-04,Basmati Rice 5kg,47,395,310,4,0
+2025-09-05,Basmati Rice 5kg,49,395,310,4,0
+2025-09-06,Basmati Rice 5kg,61,395,310,4,0
+2025-09-07,Basmati Rice 5kg,47,395,310,4,0
+2025-09-08,Basmati Rice 5kg,45,395,310,4,0
+2025-09-09,Basmati Rice 5kg,45,395,310,4,0
+2025-09-10,Basmati Rice 5kg,43,395,310,4,0
+2025-09-11,Basmati Rice 5kg,70,395,310,4,1
+2025-09-12,Basmati Rice 5kg,53,395,310,4,0
+2025-09-13,Basmati Rice 5kg,54,395,310,4,0
+2025-09-14,Basmati Rice 5kg,56,395,310,4,0
+2025-09-15,Basmati Rice 5kg,46,395,310,4,0
+2025-09-16,Basmati Rice 5kg,42,395,310,4,0
+2025-09-17,Basmati Rice 5kg,43,395,310,4,0
+2025-09-18,Basmati Rice 5kg,51,395,310,4,0
+2025-09-19,Basmati Rice 5kg,43,395,310,4,0
+2025-09-20,Basmati Rice 5kg,65,395,310,4,0
+2025-09-21,Basmati Rice 5kg,52,395,310,4,0
+2025-09-22,Basmati Rice 5kg,36,395,310,4,0
+2025-09-23,Basmati Rice 5kg,49,395,310,4,0
+2025-09-24,Basmati Rice 5kg,61,395,310,4,1
+2025-09-25,Basmati Rice 5kg,31,395,310,4,0
+2025-09-26,Basmati Rice 5kg,51,395,310,4,1
+2025-09-27,Basmati Rice 5kg,68,395,310,4,0
+2025-09-28,Basmati Rice 5kg,53,395,310,4,0
+2025-09-29,Basmati Rice 5kg,10,395,310,4,0
+2025-09-30,Basmati Rice 5kg,37,395,310,4,0
+2025-10-01,Basmati Rice 5kg,52,395,310,4,0
+2024-01-01,Cooking Oil 1L,49,149,118,3,0
+2024-01-02,Cooking Oil 1L,37,149,118,3,0
+2024-01-03,Cooking Oil 1L,38,149,118,3,0
+2024-01-04,Cooking Oil 1L,48,149,118,3,0
+2024-01-05,Cooking Oil 1L,45,149,118,3,0
+2024-01-06,Cooking Oil 1L,52,149,118,3,0
+2024-01-07,Cooking Oil 1L,52,149,118,3,0
+2024-01-08,Cooking Oil 1L,64,149,118,3,1
+2024-01-09,Cooking Oil 1L,37,149,118,3,0
+2024-01-10,Cooking Oil 1L,44,149,118,3,0
+2024-01-11,Cooking Oil 1L,41,149,118,3,0
+2024-01-12,Cooking Oil 1L,60,149,118,3,0
+2024-01-13,Cooking Oil 1L,49,149,118,3,0
+2024-01-14,Cooking Oil 1L,47,149,118,3,0
+2024-01-15,Cooking Oil 1L,43,149,118,3,0
+2024-01-16,Cooking Oil 1L,47,149,118,3,0
+2024-01-17,Cooking Oil 1L,61,149,118,3,0
+2024-01-18,Cooking Oil 1L,49,149,118,3,0
+2024-01-19,Cooking Oil 1L,38,149,118,3,0
+2024-01-20,Cooking Oil 1L,64,149,118,3,0
+2024-01-21,Cooking Oil 1L,51,149,118,3,0
+2024-01-22,Cooking Oil 1L,58,149,118,3,0
+2024-01-23,Cooking Oil 1L,53,149,118,3,0
+2024-01-24,Cooking Oil 1L,50,149,118,3,0
+2024-01-25,Cooking Oil 1L,50,149,118,3,0
+2024-01-26,Cooking Oil 1L,51,149,118,3,0
+2024-01-27,Cooking Oil 1L,53,149,118,3,0
+2024-01-28,Cooking Oil 1L,71,149,118,3,0
+2024-01-29,Cooking Oil 1L,50,149,118,3,0
+2024-01-30,Cooking Oil 1L,38,149,118,3,0
+2024-01-31,Cooking Oil 1L,43,149,118,3,0
+2024-02-01,Cooking Oil 1L,41,149,118,3,0
+2024-02-02,Cooking Oil 1L,46,149,118,3,0
+2024-02-03,Cooking Oil 1L,71,149,118,3,0
+2024-02-04,Cooking Oil 1L,68,149,118,3,0
+2024-02-05,Cooking Oil 1L,63,149,118,3,0
+2024-02-06,Cooking Oil 1L,47,149,118,3,0
+2024-02-07,Cooking Oil 1L,81,149,118,3,1
+2024-02-08,Cooking Oil 1L,70,149,118,3,0
+2024-02-09,Cooking Oil 1L,50,149,118,3,0
+2024-02-10,Cooking Oil 1L,63,149,118,3,0
+2024-02-11,Cooking Oil 1L,57,149,118,3,0
+2024-02-12,Cooking Oil 1L,44,149,118,3,0
+2024-02-13,Cooking Oil 1L,54,149,118,3,0
+2024-02-14,Cooking Oil 1L,63,149,118,3,0
+2024-02-15,Cooking Oil 1L,57,149,118,3,0
+2024-02-16,Cooking Oil 1L,53,149,118,3,0
+2024-02-17,Cooking Oil 1L,73,149,118,3,0
+2024-02-18,Cooking Oil 1L,57,149,118,3,0
+2024-02-19,Cooking Oil 1L,54,149,118,3,0
+2024-02-20,Cooking Oil 1L,46,149,118,3,0
+2024-02-21,Cooking Oil 1L,52,149,118,3,0
+2024-02-22,Cooking Oil 1L,52,149,118,3,0
+2024-02-23,Cooking Oil 1L,57,149,118,3,0
+2024-02-24,Cooking Oil 1L,87,149,118,3,1
+2024-02-25,Cooking Oil 1L,63,149,118,3,0
+2024-02-26,Cooking Oil 1L,42,149,118,3,0
+2024-02-27,Cooking Oil 1L,54,149,118,3,0
+2024-02-28,Cooking Oil 1L,57,149,118,3,0
+2024-02-29,Cooking Oil 1L,57,149,118,3,0
+2024-03-01,Cooking Oil 1L,40,149,118,3,0
+2024-03-02,Cooking Oil 1L,70,149,118,3,0
+2024-03-03,Cooking Oil 1L,76,149,118,3,0
+2024-03-04,Cooking Oil 1L,58,149,118,3,0
+2024-03-05,Cooking Oil 1L,41,149,118,3,0
+2024-03-06,Cooking Oil 1L,46,149,118,3,0
+2024-03-07,Cooking Oil 1L,57,149,118,3,0
+2024-03-08,Cooking Oil 1L,52,149,118,3,0
+2024-03-09,Cooking Oil 1L,55,149,118,3,0
+2024-03-10,Cooking Oil 1L,75,149,118,3,0
+2024-03-11,Cooking Oil 1L,52,149,118,3,0
+2024-03-12,Cooking Oil 1L,39,149,118,3,0
+2024-03-13,Cooking Oil 1L,57,149,118,3,0
+2024-03-14,Cooking Oil 1L,55,149,118,3,0
+2024-03-15,Cooking Oil 1L,84,149,118,3,1
+2024-03-16,Cooking Oil 1L,64,149,118,3,0
+2024-03-17,Cooking Oil 1L,93,149,118,3,1
+2024-03-18,Cooking Oil 1L,67,149,118,3,1
+2024-03-19,Cooking Oil 1L,43,149,118,3,0
+2024-03-20,Cooking Oil 1L,60,149,118,3,0
+2024-03-21,Cooking Oil 1L,53,149,118,3,0
+2024-03-22,Cooking Oil 1L,43,149,118,3,0
+2024-03-23,Cooking Oil 1L,61,149,118,3,0
+2024-03-24,Cooking Oil 1L,65,149,118,3,0
+2024-03-25,Cooking Oil 1L,66,149,118,3,0
+2024-03-26,Cooking Oil 1L,54,149,118,3,0
+2024-03-27,Cooking Oil 1L,46,149,118,3,0
+2024-03-28,Cooking Oil 1L,52,149,118,3,0
+2024-03-29,Cooking Oil 1L,57,149,118,3,0
+2024-03-30,Cooking Oil 1L,80,149,118,3,0
+2024-03-31,Cooking Oil 1L,70,149,118,3,0
+2024-04-01,Cooking Oil 1L,51,149,118,3,0
+2024-04-02,Cooking Oil 1L,45,149,118,3,0
+2024-04-03,Cooking Oil 1L,61,149,118,3,0
+2024-04-04,Cooking Oil 1L,10,149,118,3,0
+2024-04-05,Cooking Oil 1L,52,149,118,3,0
+2024-04-06,Cooking Oil 1L,82,149,118,3,0
+2024-04-07,Cooking Oil 1L,82,149,118,3,0
+2024-04-08,Cooking Oil 1L,246,149,118,3,0
+2024-04-09,Cooking Oil 1L,55,149,118,3,1
+2024-04-10,Cooking Oil 1L,53,149,118,3,0
+2024-04-11,Cooking Oil 1L,60,149,118,3,0
+2024-04-12,Cooking Oil 1L,57,149,118,3,0
+2024-04-13,Cooking Oil 1L,72,149,118,3,0
+2024-04-14,Cooking Oil 1L,85,149,118,3,0
+2024-04-15,Cooking Oil 1L,51,149,118,3,0
+2024-04-16,Cooking Oil 1L,60,149,118,3,0
+2024-04-17,Cooking Oil 1L,59,149,118,3,0
+2024-04-18,Cooking Oil 1L,59,149,118,3,0
+2024-04-19,Cooking Oil 1L,49,149,118,3,0
+2024-04-20,Cooking Oil 1L,65,149,118,3,0
+2024-04-21,Cooking Oil 1L,68,149,118,3,0
+2024-04-22,Cooking Oil 1L,50,149,118,3,0
+2024-04-23,Cooking Oil 1L,47,149,118,3,0
+2024-04-24,Cooking Oil 1L,72,149,118,3,0
+2024-04-25,Cooking Oil 1L,67,149,118,3,0
+2024-04-26,Cooking Oil 1L,52,149,118,3,0
+2024-04-27,Cooking Oil 1L,73,149,118,3,0
+2024-04-28,Cooking Oil 1L,75,149,118,3,0
+2024-04-29,Cooking Oil 1L,50,149,118,3,0
+2024-04-30,Cooking Oil 1L,60,149,118,3,0
+2024-05-01,Cooking Oil 1L,46,149,118,3,0
+2024-05-02,Cooking Oil 1L,52,149,118,3,0
+2024-05-03,Cooking Oil 1L,75,149,118,3,0
+2024-05-04,Cooking Oil 1L,76,149,118,3,0
+2024-05-05,Cooking Oil 1L,75,149,118,3,0
+2024-05-06,Cooking Oil 1L,51,149,118,3,0
+2024-05-07,Cooking Oil 1L,62,149,118,3,0
+2024-05-08,Cooking Oil 1L,73,149,118,3,1
+2024-05-09,Cooking Oil 1L,76,149,118,3,1
+2024-05-10,Cooking Oil 1L,50,149,118,3,0
+2024-05-11,Cooking Oil 1L,61,149,118,3,0
+2024-05-12,Cooking Oil 1L,56,149,118,3,0
+2024-05-13,Cooking Oil 1L,69,149,118,3,0
+2024-05-14,Cooking Oil 1L,53,149,118,3,0
+2024-05-15,Cooking Oil 1L,62,149,118,3,0
+2024-05-16,Cooking Oil 1L,54,149,118,3,0
+2024-05-17,Cooking Oil 1L,44,149,118,3,0
+2024-05-18,Cooking Oil 1L,87,149,118,3,0
+2024-05-19,Cooking Oil 1L,69,149,118,3,0
+2024-05-20,Cooking Oil 1L,62,149,118,3,1
+2024-05-21,Cooking Oil 1L,46,149,118,3,0
+2024-05-22,Cooking Oil 1L,62,149,118,3,0
+2024-05-23,Cooking Oil 1L,59,149,118,3,0
+2024-05-24,Cooking Oil 1L,62,149,118,3,0
+2024-05-25,Cooking Oil 1L,67,149,118,3,0
+2024-05-26,Cooking Oil 1L,80,149,118,3,0
+2024-05-27,Cooking Oil 1L,64,149,118,3,0
+2024-05-28,Cooking Oil 1L,66,149,118,3,0
+2024-05-29,Cooking Oil 1L,50,149,118,3,0
+2024-05-30,Cooking Oil 1L,56,149,118,3,0
+2024-05-31,Cooking Oil 1L,45,149,118,3,0
+2024-06-01,Cooking Oil 1L,59,149,118,3,0
+2024-06-02,Cooking Oil 1L,66,149,118,3,0
+2024-06-03,Cooking Oil 1L,55,149,118,3,0
+2024-06-04,Cooking Oil 1L,60,149,118,3,0
+2024-06-05,Cooking Oil 1L,53,149,118,3,0
+2024-06-06,Cooking Oil 1L,58,149,118,3,0
+2024-06-07,Cooking Oil 1L,55,149,118,3,0
+2024-06-08,Cooking Oil 1L,73,149,118,3,0
+2024-06-09,Cooking Oil 1L,71,149,118,3,0
+2024-06-10,Cooking Oil 1L,67,149,118,3,0
+2024-06-11,Cooking Oil 1L,74,149,118,3,1
+2024-06-12,Cooking Oil 1L,56,149,118,3,1
+2024-06-13,Cooking Oil 1L,61,149,118,3,0
+2024-06-14,Cooking Oil 1L,56,149,118,3,0
+2024-06-15,Cooking Oil 1L,88,149,118,3,1
+2024-06-16,Cooking Oil 1L,74,149,118,3,0
+2024-06-17,Cooking Oil 1L,65,149,118,3,0
+2024-06-18,Cooking Oil 1L,67,149,118,3,0
+2024-06-19,Cooking Oil 1L,59,149,118,3,0
+2024-06-20,Cooking Oil 1L,46,149,118,3,0
+2024-06-21,Cooking Oil 1L,62,149,118,3,1
+2024-06-22,Cooking Oil 1L,75,149,118,3,0
+2024-06-23,Cooking Oil 1L,70,149,118,3,0
+2024-06-24,Cooking Oil 1L,58,149,118,3,0
+2024-06-25,Cooking Oil 1L,64,149,118,3,0
+2024-06-26,Cooking Oil 1L,58,149,118,3,0
+2024-06-27,Cooking Oil 1L,57,149,118,3,0
+2024-06-28,Cooking Oil 1L,52,149,118,3,0
+2024-06-29,Cooking Oil 1L,52,149,118,3,0
+2024-06-30,Cooking Oil 1L,88,149,118,3,0
+2024-07-01,Cooking Oil 1L,62,149,118,3,0
+2024-07-02,Cooking Oil 1L,44,149,118,3,0
+2024-07-03,Cooking Oil 1L,46,149,118,3,0
+2024-07-04,Cooking Oil 1L,52,149,118,3,0
+2024-07-05,Cooking Oil 1L,54,149,118,3,0
+2024-07-06,Cooking Oil 1L,80,149,118,3,0
+2024-07-07,Cooking Oil 1L,81,149,118,3,0
+2024-07-08,Cooking Oil 1L,69,149,118,3,0
+2024-07-09,Cooking Oil 1L,53,149,118,3,0
+2024-07-10,Cooking Oil 1L,51,149,118,3,0
+2024-07-11,Cooking Oil 1L,53,149,118,3,0
+2024-07-12,Cooking Oil 1L,66,149,118,3,0
+2024-07-13,Cooking Oil 1L,72,149,118,3,0
+2024-07-14,Cooking Oil 1L,80,149,118,3,0
+2024-07-15,Cooking Oil 1L,48,149,118,3,0
+2024-07-16,Cooking Oil 1L,62,149,118,3,0
+2024-07-17,Cooking Oil 1L,59,149,118,3,0
+2024-07-18,Cooking Oil 1L,54,149,118,3,0
+2024-07-19,Cooking Oil 1L,45,149,118,3,0
+2024-07-20,Cooking Oil 1L,67,149,118,3,0
+2024-07-21,Cooking Oil 1L,67,149,118,3,0
+2024-07-22,Cooking Oil 1L,58,149,118,3,0
+2024-07-23,Cooking Oil 1L,62,149,118,3,0
+2024-07-24,Cooking Oil 1L,54,149,118,3,0
+2024-07-25,Cooking Oil 1L,58,149,118,3,0
+2024-07-26,Cooking Oil 1L,51,149,118,3,0
+2024-07-27,Cooking Oil 1L,74,149,118,3,0
+2024-07-28,Cooking Oil 1L,69,149,118,3,0
+2024-07-29,Cooking Oil 1L,50,149,118,3,0
+2024-07-30,Cooking Oil 1L,56,149,118,3,0
+2024-07-31,Cooking Oil 1L,69,149,118,3,0
+2024-08-01,Cooking Oil 1L,73,149,118,3,0
+2024-08-02,Cooking Oil 1L,56,149,118,3,0
+2024-08-03,Cooking Oil 1L,75,149,118,3,0
+2024-08-04,Cooking Oil 1L,88,149,118,3,0
+2024-08-05,Cooking Oil 1L,53,149,118,3,0
+2024-08-06,Cooking Oil 1L,71,149,118,3,0
+2024-08-07,Cooking Oil 1L,46,149,118,3,0
+2024-08-08,Cooking Oil 1L,59,149,118,3,0
+2024-08-09,Cooking Oil 1L,63,149,118,3,0
+2024-08-10,Cooking Oil 1L,83,149,118,3,0
+2024-08-11,Cooking Oil 1L,78,149,118,3,0
+2024-08-12,Cooking Oil 1L,52,149,118,3,0
+2024-08-13,Cooking Oil 1L,64,149,118,3,1
+2024-08-14,Cooking Oil 1L,46,149,118,3,0
+2024-08-15,Cooking Oil 1L,39,149,118,3,0
+2024-08-16,Cooking Oil 1L,48,149,118,3,0
+2024-08-17,Cooking Oil 1L,77,149,118,3,0
+2024-08-18,Cooking Oil 1L,65,149,118,3,0
+2024-08-19,Cooking Oil 1L,55,149,118,3,0
+2024-08-20,Cooking Oil 1L,57,149,118,3,0
+2024-08-21,Cooking Oil 1L,64,149,118,3,0
+2024-08-22,Cooking Oil 1L,49,149,118,3,0
+2024-08-23,Cooking Oil 1L,55,149,118,3,0
+2024-08-24,Cooking Oil 1L,64,149,118,3,0
+2024-08-25,Cooking Oil 1L,71,149,118,3,0
+2024-08-26,Cooking Oil 1L,49,149,118,3,0
+2024-08-27,Cooking Oil 1L,53,149,118,3,0
+2024-08-28,Cooking Oil 1L,52,149,118,3,0
+2024-08-29,Cooking Oil 1L,60,149,118,3,0
+2024-08-30,Cooking Oil 1L,61,149,118,3,0
+2024-08-31,Cooking Oil 1L,70,149,118,3,0
+2024-09-01,Cooking Oil 1L,81,149,118,3,0
+2024-09-02,Cooking Oil 1L,64,149,118,3,0
+2024-09-03,Cooking Oil 1L,63,149,118,3,0
+2024-09-04,Cooking Oil 1L,50,149,118,3,0
+2024-09-05,Cooking Oil 1L,61,149,118,3,0
+2024-09-06,Cooking Oil 1L,49,149,118,3,0
+2024-09-07,Cooking Oil 1L,91,149,118,3,0
+2024-09-08,Cooking Oil 1L,66,149,118,3,0
+2024-09-09,Cooking Oil 1L,54,149,118,3,0
+2024-09-10,Cooking Oil 1L,54,149,118,3,0
+2024-09-11,Cooking Oil 1L,87,149,118,3,1
+2024-09-12,Cooking Oil 1L,55,149,118,3,0
+2024-09-13,Cooking Oil 1L,57,149,118,3,0
+2024-09-14,Cooking Oil 1L,69,149,118,3,0
+2024-09-15,Cooking Oil 1L,74,149,118,3,0
+2024-09-16,Cooking Oil 1L,62,149,118,3,0
+2024-09-17,Cooking Oil 1L,55,149,118,3,0
+2024-09-18,Cooking Oil 1L,57,149,118,3,0
+2024-09-19,Cooking Oil 1L,61,149,118,3,0
+2024-09-20,Cooking Oil 1L,58,149,118,3,0
+2024-09-21,Cooking Oil 1L,77,149,118,3,0
+2024-09-22,Cooking Oil 1L,68,149,118,3,0
+2024-09-23,Cooking Oil 1L,59,149,118,3,0
+2024-09-24,Cooking Oil 1L,56,149,118,3,0
+2024-09-25,Cooking Oil 1L,61,149,118,3,0
+2024-09-26,Cooking Oil 1L,59,149,118,3,0
+2024-09-27,Cooking Oil 1L,44,149,118,3,0
+2024-09-28,Cooking Oil 1L,98,149,118,3,1
+2024-09-29,Cooking Oil 1L,77,149,118,3,0
+2024-09-30,Cooking Oil 1L,53,149,118,3,0
+2024-10-01,Cooking Oil 1L,53,149,118,3,0
+2024-10-02,Cooking Oil 1L,45,149,118,3,0
+2024-10-03,Cooking Oil 1L,52,149,118,3,0
+2024-10-04,Cooking Oil 1L,44,149,118,3,0
+2024-10-05,Cooking Oil 1L,74,149,118,3,0
+2024-10-06,Cooking Oil 1L,92,149,118,3,1
+2024-10-07,Cooking Oil 1L,50,149,118,3,0
+2024-10-08,Cooking Oil 1L,55,149,118,3,0
+2024-10-09,Cooking Oil 1L,47,149,118,3,0
+2024-10-10,Cooking Oil 1L,52,149,118,3,0
+2024-10-11,Cooking Oil 1L,71,149,118,3,1
+2024-10-12,Cooking Oil 1L,66,149,118,3,0
+2024-10-13,Cooking Oil 1L,73,149,118,3,0
+2024-10-14,Cooking Oil 1L,68,149,118,3,0
+2024-10-15,Cooking Oil 1L,54,149,118,3,0
+2024-10-16,Cooking Oil 1L,53,149,118,3,0
+2024-10-17,Cooking Oil 1L,59,149,118,3,0
+2024-10-18,Cooking Oil 1L,51,149,118,3,0
+2024-10-19,Cooking Oil 1L,61,149,118,3,0
+2024-10-20,Cooking Oil 1L,55,149,118,3,0
+2024-10-21,Cooking Oil 1L,53,149,118,3,0
+2024-10-22,Cooking Oil 1L,51,149,118,3,0
+2024-10-23,Cooking Oil 1L,47,149,118,3,0
+2024-10-24,Cooking Oil 1L,39,149,118,3,0
+2024-10-25,Cooking Oil 1L,58,149,118,3,0
+2024-10-26,Cooking Oil 1L,73,149,118,3,0
+2024-10-27,Cooking Oil 1L,65,149,118,3,0
+2024-10-28,Cooking Oil 1L,50,149,118,3,0
+2024-10-29,Cooking Oil 1L,50,149,118,3,0
+2024-10-30,Cooking Oil 1L,41,149,118,3,0
+2024-10-31,Cooking Oil 1L,50,149,118,3,0
+2024-11-01,Cooking Oil 1L,42,149,118,3,0
+2024-11-02,Cooking Oil 1L,59,149,118,3,0
+2024-11-03,Cooking Oil 1L,58,149,118,3,0
+2024-11-04,Cooking Oil 1L,50,149,118,3,0
+2024-11-05,Cooking Oil 1L,64,149,118,3,0
+2024-11-06,Cooking Oil 1L,57,149,118,3,0
+2024-11-07,Cooking Oil 1L,43,149,118,3,0
+2024-11-08,Cooking Oil 1L,63,149,118,3,1
+2024-11-09,Cooking Oil 1L,74,149,118,3,0
+2024-11-10,Cooking Oil 1L,66,149,118,3,0
+2024-11-11,Cooking Oil 1L,58,149,118,3,0
+2024-11-12,Cooking Oil 1L,46,149,118,3,0
+2024-11-13,Cooking Oil 1L,69,149,118,3,1
+2024-11-14,Cooking Oil 1L,45,149,118,3,0
+2024-11-15,Cooking Oil 1L,51,149,118,3,0
+2024-11-16,Cooking Oil 1L,56,149,118,3,0
+2024-11-17,Cooking Oil 1L,71,149,118,3,0
+2024-11-18,Cooking Oil 1L,52,149,118,3,0
+2024-11-19,Cooking Oil 1L,62,149,118,3,0
+2024-11-20,Cooking Oil 1L,46,149,118,3,0
+2024-11-21,Cooking Oil 1L,45,149,118,3,0
+2024-11-22,Cooking Oil 1L,39,149,118,3,0
+2024-11-23,Cooking Oil 1L,202,149,118,3,0
+2024-11-24,Cooking Oil 1L,48,149,118,3,0
+2024-11-25,Cooking Oil 1L,58,149,118,3,0
+2024-11-26,Cooking Oil 1L,52,149,118,3,0
+2024-11-27,Cooking Oil 1L,43,149,118,3,0
+2024-11-28,Cooking Oil 1L,53,149,118,3,0
+2024-11-29,Cooking Oil 1L,53,149,118,3,0
+2024-11-30,Cooking Oil 1L,61,149,118,3,0
+2024-12-01,Cooking Oil 1L,101,149,118,3,1
+2024-12-02,Cooking Oil 1L,56,149,118,3,0
+2024-12-03,Cooking Oil 1L,38,149,118,3,0
+2024-12-04,Cooking Oil 1L,62,149,118,3,1
+2024-12-05,Cooking Oil 1L,52,149,118,3,0
+2024-12-06,Cooking Oil 1L,40,149,118,3,0
+2024-12-07,Cooking Oil 1L,84,149,118,3,0
+2024-12-08,Cooking Oil 1L,62,149,118,3,0
+2024-12-09,Cooking Oil 1L,57,149,118,3,0
+2024-12-10,Cooking Oil 1L,55,149,118,3,0
+2024-12-11,Cooking Oil 1L,69,149,118,3,1
+2024-12-12,Cooking Oil 1L,35,149,118,3,0
+2024-12-13,Cooking Oil 1L,50,149,118,3,0
+2024-12-14,Cooking Oil 1L,59,149,118,3,0
+2024-12-15,Cooking Oil 1L,94,149,118,3,1
+2024-12-16,Cooking Oil 1L,46,149,118,3,0
+2024-12-17,Cooking Oil 1L,58,149,118,3,0
+2024-12-18,Cooking Oil 1L,58,149,118,3,0
+2024-12-19,Cooking Oil 1L,58,149,118,3,0
+2024-12-20,Cooking Oil 1L,60,149,118,3,0
+2024-12-21,Cooking Oil 1L,65,149,118,3,0
+2024-12-22,Cooking Oil 1L,66,149,118,3,0
+2024-12-23,Cooking Oil 1L,54,149,118,3,0
+2024-12-24,Cooking Oil 1L,48,149,118,3,0
+2024-12-25,Cooking Oil 1L,86,149,118,3,1
+2024-12-26,Cooking Oil 1L,54,149,118,3,0
+2024-12-27,Cooking Oil 1L,57,149,118,3,0
+2024-12-28,Cooking Oil 1L,65,149,118,3,0
+2024-12-29,Cooking Oil 1L,80,149,118,3,1
+2024-12-30,Cooking Oil 1L,56,149,118,3,0
+2024-12-31,Cooking Oil 1L,60,149,118,3,0
+2025-01-01,Cooking Oil 1L,64,149,118,3,0
+2025-01-02,Cooking Oil 1L,46,149,118,3,0
+2025-01-03,Cooking Oil 1L,53,149,118,3,0
+2025-01-04,Cooking Oil 1L,73,149,118,3,0
+2025-01-05,Cooking Oil 1L,63,149,118,3,0
+2025-01-06,Cooking Oil 1L,51,149,118,3,0
+2025-01-07,Cooking Oil 1L,51,149,118,3,0
+2025-01-08,Cooking Oil 1L,48,149,118,3,0
+2025-01-09,Cooking Oil 1L,60,149,118,3,0
+2025-01-10,Cooking Oil 1L,49,149,118,3,0
+2025-01-11,Cooking Oil 1L,76,149,118,3,0
+2025-01-12,Cooking Oil 1L,67,149,118,3,0
+2025-01-13,Cooking Oil 1L,43,149,118,3,0
+2025-01-14,Cooking Oil 1L,75,149,118,3,0
+2025-01-15,Cooking Oil 1L,48,149,118,3,0
+2025-01-16,Cooking Oil 1L,67,149,118,3,0
+2025-01-17,Cooking Oil 1L,44,149,118,3,0
+2025-01-18,Cooking Oil 1L,98,149,118,3,1
+2025-01-19,Cooking Oil 1L,64,149,118,3,0
+2025-01-20,Cooking Oil 1L,48,149,118,3,0
+2025-01-21,Cooking Oil 1L,60,149,118,3,0
+2025-01-22,Cooking Oil 1L,62,149,118,3,0
+2025-01-23,Cooking Oil 1L,49,149,118,3,0
+2025-01-24,Cooking Oil 1L,47,149,118,3,0
+2025-01-25,Cooking Oil 1L,60,149,118,3,0
+2025-01-26,Cooking Oil 1L,59,149,118,3,0
+2025-01-27,Cooking Oil 1L,60,149,118,3,0
+2025-01-28,Cooking Oil 1L,64,149,118,3,0
+2025-01-29,Cooking Oil 1L,46,149,118,3,0
+2025-01-30,Cooking Oil 1L,40,149,118,3,0
+2025-01-31,Cooking Oil 1L,52,149,118,3,0
+2025-02-01,Cooking Oil 1L,64,149,118,3,0
+2025-02-02,Cooking Oil 1L,79,149,118,3,0
+2025-02-03,Cooking Oil 1L,61,149,118,3,0
+2025-02-04,Cooking Oil 1L,58,149,118,3,0
+2025-02-05,Cooking Oil 1L,53,149,118,3,0
+2025-02-06,Cooking Oil 1L,59,149,118,3,0
+2025-02-07,Cooking Oil 1L,58,149,118,3,0
+2025-02-08,Cooking Oil 1L,70,149,118,3,0
+2025-02-09,Cooking Oil 1L,69,149,118,3,0
+2025-02-10,Cooking Oil 1L,54,149,118,3,0
+2025-02-11,Cooking Oil 1L,61,149,118,3,0
+2025-02-12,Cooking Oil 1L,57,149,118,3,0
+2025-02-13,Cooking Oil 1L,61,149,118,3,0
+2025-02-14,Cooking Oil 1L,51,149,118,3,0
+2025-02-15,Cooking Oil 1L,65,149,118,3,0
+2025-02-16,Cooking Oil 1L,69,149,118,3,0
+2025-02-17,Cooking Oil 1L,53,149,118,3,0
+2025-02-18,Cooking Oil 1L,57,149,118,3,0
+2025-02-19,Cooking Oil 1L,45,149,118,3,0
+2025-02-20,Cooking Oil 1L,54,149,118,3,0
+2025-02-21,Cooking Oil 1L,52,149,118,3,0
+2025-02-22,Cooking Oil 1L,66,149,118,3,0
+2025-02-23,Cooking Oil 1L,71,149,118,3,0
+2025-02-24,Cooking Oil 1L,53,149,118,3,0
+2025-02-25,Cooking Oil 1L,57,149,118,3,0
+2025-02-26,Cooking Oil 1L,76,149,118,3,0
+2025-02-27,Cooking Oil 1L,56,149,118,3,0
+2025-02-28,Cooking Oil 1L,70,149,118,3,0
+2025-03-01,Cooking Oil 1L,72,149,118,3,0
+2025-03-02,Cooking Oil 1L,67,149,118,3,0
+2025-03-03,Cooking Oil 1L,65,149,118,3,0
+2025-03-04,Cooking Oil 1L,61,149,118,3,0
+2025-03-05,Cooking Oil 1L,62,149,118,3,0
+2025-03-06,Cooking Oil 1L,56,149,118,3,0
+2025-03-07,Cooking Oil 1L,50,149,118,3,0
+2025-03-08,Cooking Oil 1L,83,149,118,3,0
+2025-03-09,Cooking Oil 1L,75,149,118,3,0
+2025-03-10,Cooking Oil 1L,66,149,118,3,0
+2025-03-11,Cooking Oil 1L,72,149,118,3,0
+2025-03-12,Cooking Oil 1L,68,149,118,3,0
+2025-03-13,Cooking Oil 1L,59,149,118,3,0
+2025-03-14,Cooking Oil 1L,56,149,118,3,0
+2025-03-15,Cooking Oil 1L,70,149,118,3,0
+2025-03-16,Cooking Oil 1L,76,149,118,3,0
+2025-03-17,Cooking Oil 1L,61,149,118,3,0
+2025-03-18,Cooking Oil 1L,72,149,118,3,0
+2025-03-19,Cooking Oil 1L,74,149,118,3,0
+2025-03-20,Cooking Oil 1L,61,149,118,3,0
+2025-03-21,Cooking Oil 1L,67,149,118,3,0
+2025-03-22,Cooking Oil 1L,90,149,118,3,0
+2025-03-23,Cooking Oil 1L,78,149,118,3,0
+2025-03-24,Cooking Oil 1L,57,149,118,3,0
+2025-03-25,Cooking Oil 1L,66,149,118,3,0
+2025-03-26,Cooking Oil 1L,49,149,118,3,0
+2025-03-27,Cooking Oil 1L,53,149,118,3,0
+2025-03-28,Cooking Oil 1L,62,149,118,3,0
+2025-03-29,Cooking Oil 1L,88,149,118,3,0
+2025-03-30,Cooking Oil 1L,71,149,118,3,0
+2025-03-31,Cooking Oil 1L,69,149,118,3,0
+2025-04-01,Cooking Oil 1L,80,149,118,3,0
+2025-04-02,Cooking Oil 1L,60,149,118,3,0
+2025-04-03,Cooking Oil 1L,51,149,118,3,0
+2025-04-04,Cooking Oil 1L,55,149,118,3,0
+2025-04-05,Cooking Oil 1L,13,149,118,3,0
+2025-04-06,Cooking Oil 1L,67,149,118,3,0
+2025-04-07,Cooking Oil 1L,55,149,118,3,0
+2025-04-08,Cooking Oil 1L,56,149,118,3,0
+2025-04-09,Cooking Oil 1L,55,149,118,3,0
+2025-04-10,Cooking Oil 1L,52,149,118,3,0
+2025-04-11,Cooking Oil 1L,64,149,118,3,0
+2025-04-12,Cooking Oil 1L,76,149,118,3,0
+2025-04-13,Cooking Oil 1L,71,149,118,3,0
+2025-04-14,Cooking Oil 1L,50,149,118,3,0
+2025-04-15,Cooking Oil 1L,62,149,118,3,0
+2025-04-16,Cooking Oil 1L,59,149,118,3,0
+2025-04-17,Cooking Oil 1L,61,149,118,3,0
+2025-04-18,Cooking Oil 1L,53,149,118,3,0
+2025-04-19,Cooking Oil 1L,75,149,118,3,0
+2025-04-20,Cooking Oil 1L,72,149,118,3,0
+2025-04-21,Cooking Oil 1L,79,149,118,3,1
+2025-04-22,Cooking Oil 1L,55,149,118,3,0
+2025-04-23,Cooking Oil 1L,66,149,118,3,0
+2025-04-24,Cooking Oil 1L,64,149,118,3,0
+2025-04-25,Cooking Oil 1L,61,149,118,3,0
+2025-04-26,Cooking Oil 1L,85,149,118,3,0
+2025-04-27,Cooking Oil 1L,70,149,118,3,0
+2025-04-28,Cooking Oil 1L,79,149,118,3,0
+2025-04-29,Cooking Oil 1L,83,149,118,3,0
+2025-04-30,Cooking Oil 1L,68,149,118,3,0
+2025-05-01,Cooking Oil 1L,76,149,118,3,0
+2025-05-02,Cooking Oil 1L,59,149,118,3,0
+2025-05-03,Cooking Oil 1L,81,149,118,3,0
+2025-05-04,Cooking Oil 1L,77,149,118,3,0
+2025-05-05,Cooking Oil 1L,76,149,118,3,0
+2025-05-06,Cooking Oil 1L,74,149,118,3,0
+2025-05-07,Cooking Oil 1L,71,149,118,3,0
+2025-05-08,Cooking Oil 1L,78,149,118,3,0
+2025-05-09,Cooking Oil 1L,57,149,118,3,0
+2025-05-10,Cooking Oil 1L,74,149,118,3,0
+2025-05-11,Cooking Oil 1L,85,149,118,3,0
+2025-05-12,Cooking Oil 1L,89,149,118,3,1
+2025-05-13,Cooking Oil 1L,76,149,118,3,0
+2025-05-14,Cooking Oil 1L,84,149,118,3,0
+2025-05-15,Cooking Oil 1L,69,149,118,3,0
+2025-05-16,Cooking Oil 1L,65,149,118,3,0
+2025-05-17,Cooking Oil 1L,89,149,118,3,0
+2025-05-18,Cooking Oil 1L,71,149,118,3,0
+2025-05-19,Cooking Oil 1L,71,149,118,3,0
+2025-05-20,Cooking Oil 1L,58,149,118,3,0
+2025-05-21,Cooking Oil 1L,63,149,118,3,0
+2025-05-22,Cooking Oil 1L,66,149,118,3,0
+2025-05-23,Cooking Oil 1L,62,149,118,3,0
+2025-05-24,Cooking Oil 1L,102,149,118,3,1
+2025-05-25,Cooking Oil 1L,76,149,118,3,0
+2025-05-26,Cooking Oil 1L,82,149,118,3,0
+2025-05-27,Cooking Oil 1L,69,149,118,3,0
+2025-05-28,Cooking Oil 1L,57,149,118,3,0
+2025-05-29,Cooking Oil 1L,71,149,118,3,0
+2025-05-30,Cooking Oil 1L,55,149,118,3,0
+2025-05-31,Cooking Oil 1L,76,149,118,3,0
+2025-06-01,Cooking Oil 1L,84,149,118,3,0
+2025-06-02,Cooking Oil 1L,81,149,118,3,0
+2025-06-03,Cooking Oil 1L,71,149,118,3,0
+2025-06-04,Cooking Oil 1L,61,149,118,3,0
+2025-06-05,Cooking Oil 1L,52,149,118,3,0
+2025-06-06,Cooking Oil 1L,64,149,118,3,0
+2025-06-07,Cooking Oil 1L,91,149,118,3,0
+2025-06-08,Cooking Oil 1L,81,149,118,3,0
+2025-06-09,Cooking Oil 1L,198,149,118,3,0
+2025-06-10,Cooking Oil 1L,77,149,118,3,0
+2025-06-11,Cooking Oil 1L,65,149,118,3,0
+2025-06-12,Cooking Oil 1L,96,149,118,3,1
+2025-06-13,Cooking Oil 1L,54,149,118,3,0
+2025-06-14,Cooking Oil 1L,81,149,118,3,0
+2025-06-15,Cooking Oil 1L,96,149,118,3,0
+2025-06-16,Cooking Oil 1L,71,149,118,3,0
+2025-06-17,Cooking Oil 1L,67,149,118,3,0
+2025-06-18,Cooking Oil 1L,76,149,118,3,0
+2025-06-19,Cooking Oil 1L,72,149,118,3,0
+2025-06-20,Cooking Oil 1L,64,149,118,3,0
+2025-06-21,Cooking Oil 1L,78,149,118,3,0
+2025-06-22,Cooking Oil 1L,75,149,118,3,0
+2025-06-23,Cooking Oil 1L,73,149,118,3,0
+2025-06-24,Cooking Oil 1L,65,149,118,3,0
+2025-06-25,Cooking Oil 1L,67,149,118,3,0
+2025-06-26,Cooking Oil 1L,64,149,118,3,0
+2025-06-27,Cooking Oil 1L,49,149,118,3,0
+2025-06-28,Cooking Oil 1L,73,149,118,3,0
+2025-06-29,Cooking Oil 1L,75,149,118,3,0
+2025-06-30,Cooking Oil 1L,65,149,118,3,0
+2025-07-01,Cooking Oil 1L,60,149,118,3,0
+2025-07-02,Cooking Oil 1L,63,149,118,3,0
+2025-07-03,Cooking Oil 1L,64,149,118,3,0
+2025-07-04,Cooking Oil 1L,59,149,118,3,0
+2025-07-05,Cooking Oil 1L,83,149,118,3,0
+2025-07-06,Cooking Oil 1L,125,149,118,3,1
+2025-07-07,Cooking Oil 1L,57,149,118,3,0
+2025-07-08,Cooking Oil 1L,66,149,118,3,0
+2025-07-09,Cooking Oil 1L,74,149,118,3,0
+2025-07-10,Cooking Oil 1L,54,149,118,3,0
+2025-07-11,Cooking Oil 1L,63,149,118,3,0
+2025-07-12,Cooking Oil 1L,87,149,118,3,0
+2025-07-13,Cooking Oil 1L,91,149,118,3,0
+2025-07-14,Cooking Oil 1L,68,149,118,3,0
+2025-07-15,Cooking Oil 1L,78,149,118,3,0
+2025-07-16,Cooking Oil 1L,53,149,118,3,0
+2025-07-17,Cooking Oil 1L,72,149,118,3,0
+2025-07-18,Cooking Oil 1L,66,149,118,3,0
+2025-07-19,Cooking Oil 1L,88,149,118,3,0
+2025-07-20,Cooking Oil 1L,63,149,118,3,0
+2025-07-21,Cooking Oil 1L,59,149,118,3,0
+2025-07-22,Cooking Oil 1L,62,149,118,3,0
+2025-07-23,Cooking Oil 1L,53,149,118,3,0
+2025-07-24,Cooking Oil 1L,56,149,118,3,0
+2025-07-25,Cooking Oil 1L,67,149,118,3,0
+2025-07-26,Cooking Oil 1L,70,149,118,3,0
+2025-07-27,Cooking Oil 1L,92,149,118,3,0
+2025-07-28,Cooking Oil 1L,58,149,118,3,0
+2025-07-29,Cooking Oil 1L,73,149,118,3,0
+2025-07-30,Cooking Oil 1L,56,149,118,3,0
+2025-07-31,Cooking Oil 1L,74,149,118,3,0
+2025-08-01,Cooking Oil 1L,66,149,118,3,0
+2025-08-02,Cooking Oil 1L,89,149,118,3,0
+2025-08-03,Cooking Oil 1L,80,149,118,3,0
+2025-08-04,Cooking Oil 1L,60,149,118,3,0
+2025-08-05,Cooking Oil 1L,73,149,118,3,0
+2025-08-06,Cooking Oil 1L,55,149,118,3,0
+2025-08-07,Cooking Oil 1L,64,149,118,3,0
+2025-08-08,Cooking Oil 1L,48,149,118,3,0
+2025-08-09,Cooking Oil 1L,78,149,118,3,0
+2025-08-10,Cooking Oil 1L,92,149,118,3,0
+2025-08-11,Cooking Oil 1L,74,149,118,3,0
+2025-08-12,Cooking Oil 1L,88,149,118,3,1
+2025-08-13,Cooking Oil 1L,72,149,118,3,0
+2025-08-14,Cooking Oil 1L,62,149,118,3,0
+2025-08-15,Cooking Oil 1L,95,149,118,3,1
+2025-08-16,Cooking Oil 1L,81,149,118,3,1
+2025-08-17,Cooking Oil 1L,90,149,118,3,0
+2025-08-18,Cooking Oil 1L,70,149,118,3,0
+2025-08-19,Cooking Oil 1L,61,149,118,3,0
+2025-08-20,Cooking Oil 1L,53,149,118,3,0
+2025-08-21,Cooking Oil 1L,65,149,118,3,0
+2025-08-22,Cooking Oil 1L,46,149,118,3,0
+2025-08-23,Cooking Oil 1L,80,149,118,3,0
+2025-08-24,Cooking Oil 1L,102,149,118,3,1
+2025-08-25,Cooking Oil 1L,67,149,118,3,0
+2025-08-26,Cooking Oil 1L,68,149,118,3,0
+2025-08-27,Cooking Oil 1L,59,149,118,3,0
+2025-08-28,Cooking Oil 1L,51,149,118,3,0
+2025-08-29,Cooking Oil 1L,57,149,118,3,0
+2025-08-30,Cooking Oil 1L,81,149,118,3,0
+2025-08-31,Cooking Oil 1L,86,149,118,3,0
+2025-09-01,Cooking Oil 1L,73,149,118,3,0
+2025-09-02,Cooking Oil 1L,66,149,118,3,0
+2025-09-03,Cooking Oil 1L,60,149,118,3,0
+2025-09-04,Cooking Oil 1L,63,149,118,3,0
+2025-09-05,Cooking Oil 1L,44,149,118,3,0
+2025-09-06,Cooking Oil 1L,78,149,118,3,0
+2025-09-07,Cooking Oil 1L,83,149,118,3,0
+2025-09-08,Cooking Oil 1L,78,149,118,3,0
+2025-09-09,Cooking Oil 1L,79,149,118,3,0
+2025-09-10,Cooking Oil 1L,83,149,118,3,1
+2025-09-11,Cooking Oil 1L,46,149,118,3,0
+2025-09-12,Cooking Oil 1L,68,149,118,3,0
+2025-09-13,Cooking Oil 1L,65,149,118,3,0
+2025-09-14,Cooking Oil 1L,69,149,118,3,0
+2025-09-15,Cooking Oil 1L,81,149,118,3,0
+2025-09-16,Cooking Oil 1L,73,149,118,3,0
+2025-09-17,Cooking Oil 1L,70,149,118,3,0
+2025-09-18,Cooking Oil 1L,46,149,118,3,0
+2025-09-19,Cooking Oil 1L,55,149,118,3,0
+2025-09-20,Cooking Oil 1L,82,149,118,3,0
+2025-09-21,Cooking Oil 1L,77,149,118,3,0
+2025-09-22,Cooking Oil 1L,52,149,118,3,0
+2025-09-23,Cooking Oil 1L,64,149,118,3,0
+2025-09-24,Cooking Oil 1L,60,149,118,3,0
+2025-09-25,Cooking Oil 1L,49,149,118,3,0
+2025-09-26,Cooking Oil 1L,50,149,118,3,0
+2025-09-27,Cooking Oil 1L,66,149,118,3,0
+2025-09-28,Cooking Oil 1L,67,149,118,3,0
+2025-09-29,Cooking Oil 1L,58,149,118,3,0
+2025-09-30,Cooking Oil 1L,61,149,118,3,0
+2025-10-01,Cooking Oil 1L,74,149,118,3,0
+2024-01-01,Tea Powder 500g,27,215,165,5,0
+2024-01-02,Tea Powder 500g,32,215,165,5,0
+2024-01-03,Tea Powder 500g,31,215,165,5,0
+2024-01-04,Tea Powder 500g,20,215,165,5,0
+2024-01-05,Tea Powder 500g,21,215,165,5,0
+2024-01-06,Tea Powder 500g,28,215,165,5,0
+2024-01-07,Tea Powder 500g,28,215,165,5,0
+2024-01-08,Tea Powder 500g,27,215,165,5,0
+2024-01-09,Tea Powder 500g,40,215,165,5,1
+2024-01-10,Tea Powder 500g,25,215,165,5,0
+2024-01-11,Tea Powder 500g,26,215,165,5,0
+2024-01-12,Tea Powder 500g,18,215,165,5,0
+2024-01-13,Tea Powder 500g,30,215,165,5,0
+2024-01-14,Tea Powder 500g,44,215,165,5,0
+2024-01-15,Tea Powder 500g,28,215,165,5,0
+2024-01-16,Tea Powder 500g,22,215,165,5,0
+2024-01-17,Tea Powder 500g,22,215,165,5,0
+2024-01-18,Tea Powder 500g,33,215,165,5,1
+2024-01-19,Tea Powder 500g,24,215,165,5,0
+2024-01-20,Tea Powder 500g,32,215,165,5,0
+2024-01-21,Tea Powder 500g,28,215,165,5,0
+2024-01-22,Tea Powder 500g,26,215,165,5,0
+2024-01-23,Tea Powder 500g,36,215,165,5,0
+2024-01-24,Tea Powder 500g,40,215,165,5,1
+2024-01-25,Tea Powder 500g,46,215,165,5,1
+2024-01-26,Tea Powder 500g,23,215,165,5,0
+2024-01-27,Tea Powder 500g,33,215,165,5,0
+2024-01-28,Tea Powder 500g,39,215,165,5,0
+2024-01-29,Tea Powder 500g,28,215,165,5,0
+2024-01-30,Tea Powder 500g,33,215,165,5,0
+2024-01-31,Tea Powder 500g,21,215,165,5,0
+2024-02-01,Tea Powder 500g,26,215,165,5,0
+2024-02-02,Tea Powder 500g,20,215,165,5,0
+2024-02-03,Tea Powder 500g,38,215,165,5,0
+2024-02-04,Tea Powder 500g,24,215,165,5,0
+2024-02-05,Tea Powder 500g,40,215,165,5,1
+2024-02-06,Tea Powder 500g,27,215,165,5,0
+2024-02-07,Tea Powder 500g,28,215,165,5,0
+2024-02-08,Tea Powder 500g,26,215,165,5,0
+2024-02-09,Tea Powder 500g,23,215,165,5,0
+2024-02-10,Tea Powder 500g,32,215,165,5,0
+2024-02-11,Tea Powder 500g,46,215,165,5,0
+2024-02-12,Tea Powder 500g,18,215,165,5,0
+2024-02-13,Tea Powder 500g,24,215,165,5,0
+2024-02-14,Tea Powder 500g,30,215,165,5,0
+2024-02-15,Tea Powder 500g,25,215,165,5,0
+2024-02-16,Tea Powder 500g,45,215,165,5,1
+2024-02-17,Tea Powder 500g,47,215,165,5,0
+2024-02-18,Tea Powder 500g,41,215,165,5,0
+2024-02-19,Tea Powder 500g,29,215,165,5,0
+2024-02-20,Tea Powder 500g,18,215,165,5,0
+2024-02-21,Tea Powder 500g,26,215,165,5,0
+2024-02-22,Tea Powder 500g,27,215,165,5,0
+2024-02-23,Tea Powder 500g,20,215,165,5,0
+2024-02-24,Tea Powder 500g,42,215,165,5,0
+2024-02-25,Tea Powder 500g,50,215,165,5,1
+2024-02-26,Tea Powder 500g,23,215,165,5,0
+2024-02-27,Tea Powder 500g,33,215,165,5,0
+2024-02-28,Tea Powder 500g,35,215,165,5,0
+2024-02-29,Tea Powder 500g,23,215,165,5,0
+2024-03-01,Tea Powder 500g,23,215,165,5,0
+2024-03-02,Tea Powder 500g,40,215,165,5,0
+2024-03-03,Tea Powder 500g,43,215,165,5,0
+2024-03-04,Tea Powder 500g,39,215,165,5,0
+2024-03-05,Tea Powder 500g,43,215,165,5,1
+2024-03-06,Tea Powder 500g,22,215,165,5,0
+2024-03-07,Tea Powder 500g,28,215,165,5,0
+2024-03-08,Tea Powder 500g,33,215,165,5,0
+2024-03-09,Tea Powder 500g,36,215,165,5,0
+2024-03-10,Tea Powder 500g,34,215,165,5,0
+2024-03-11,Tea Powder 500g,26,215,165,5,0
+2024-03-12,Tea Powder 500g,21,215,165,5,0
+2024-03-13,Tea Powder 500g,30,215,165,5,0
+2024-03-14,Tea Powder 500g,28,215,165,5,0
+2024-03-15,Tea Powder 500g,27,215,165,5,0
+2024-03-16,Tea Powder 500g,38,215,165,5,0
+2024-03-17,Tea Powder 500g,32,215,165,5,0
+2024-03-18,Tea Powder 500g,24,215,165,5,0
+2024-03-19,Tea Powder 500g,32,215,165,5,0
+2024-03-20,Tea Powder 500g,34,215,165,5,1
+2024-03-21,Tea Powder 500g,25,215,165,5,0
+2024-03-22,Tea Powder 500g,28,215,165,5,0
+2024-03-23,Tea Powder 500g,47,215,165,5,0
+2024-03-24,Tea Powder 500g,36,215,165,5,0
+2024-03-25,Tea Powder 500g,32,215,165,5,0
+2024-03-26,Tea Powder 500g,25,215,165,5,0
+2024-03-27,Tea Powder 500g,29,215,165,5,0
+2024-03-28,Tea Powder 500g,31,215,165,5,0
+2024-03-29,Tea Powder 500g,31,215,165,5,0
+2024-03-30,Tea Powder 500g,34,215,165,5,0
+2024-03-31,Tea Powder 500g,44,215,165,5,0
+2024-04-01,Tea Powder 500g,30,215,165,5,0
+2024-04-02,Tea Powder 500g,35,215,165,5,0
+2024-04-03,Tea Powder 500g,31,215,165,5,0
+2024-04-04,Tea Powder 500g,34,215,165,5,0
+2024-04-05,Tea Powder 500g,25,215,165,5,0
+2024-04-06,Tea Powder 500g,42,215,165,5,0
+2024-04-07,Tea Powder 500g,41,215,165,5,0
+2024-04-08,Tea Powder 500g,45,215,165,5,0
+2024-04-09,Tea Powder 500g,32,215,165,5,0
+2024-04-10,Tea Powder 500g,35,215,165,5,0
+2024-04-11,Tea Powder 500g,26,215,165,5,0
+2024-04-12,Tea Powder 500g,46,215,165,5,0
+2024-04-13,Tea Powder 500g,39,215,165,5,0
+2024-04-14,Tea Powder 500g,52,215,165,5,0
+2024-04-15,Tea Powder 500g,32,215,165,5,0
+2024-04-16,Tea Powder 500g,43,215,165,5,1
+2024-04-17,Tea Powder 500g,41,215,165,5,0
+2024-04-18,Tea Powder 500g,38,215,165,5,0
+2024-04-19,Tea Powder 500g,28,215,165,5,0
+2024-04-20,Tea Powder 500g,47,215,165,5,0
+2024-04-21,Tea Powder 500g,51,215,165,5,0
+2024-04-22,Tea Powder 500g,29,215,165,5,0
+2024-04-23,Tea Powder 500g,34,215,165,5,0
+2024-04-24,Tea Powder 500g,32,215,165,5,0
+2024-04-25,Tea Powder 500g,31,215,165,5,0
+2024-04-26,Tea Powder 500g,31,215,165,5,0
+2024-04-27,Tea Powder 500g,36,215,165,5,0
+2024-04-28,Tea Powder 500g,56,215,165,5,0
+2024-04-29,Tea Powder 500g,29,215,165,5,0
+2024-04-30,Tea Powder 500g,37,215,165,5,0
+2024-05-01,Tea Powder 500g,34,215,165,5,0
+2024-05-02,Tea Powder 500g,39,215,165,5,0
+2024-05-03,Tea Powder 500g,29,215,165,5,0
+2024-05-04,Tea Powder 500g,45,215,165,5,0
+2024-05-05,Tea Powder 500g,52,215,165,5,0
+2024-05-06,Tea Powder 500g,138,215,165,5,0
+2024-05-07,Tea Powder 500g,33,215,165,5,0
+2024-05-08,Tea Powder 500g,43,215,165,5,0
+2024-05-09,Tea Powder 500g,31,215,165,5,0
+2024-05-10,Tea Powder 500g,38,215,165,5,0
+2024-05-11,Tea Powder 500g,51,215,165,5,0
+2024-05-12,Tea Powder 500g,59,215,165,5,0
+2024-05-13,Tea Powder 500g,40,215,165,5,0
+2024-05-14,Tea Powder 500g,38,215,165,5,0
+2024-05-15,Tea Powder 500g,33,215,165,5,0
+2024-05-16,Tea Powder 500g,37,215,165,5,0
+2024-05-17,Tea Powder 500g,27,215,165,5,0
+2024-05-18,Tea Powder 500g,47,215,165,5,0
+2024-05-19,Tea Powder 500g,56,215,165,5,0
+2024-05-20,Tea Powder 500g,40,215,165,5,0
+2024-05-21,Tea Powder 500g,32,215,165,5,0
+2024-05-22,Tea Powder 500g,30,215,165,5,0
+2024-05-23,Tea Powder 500g,29,215,165,5,0
+2024-05-24,Tea Powder 500g,39,215,165,5,0
+2024-05-25,Tea Powder 500g,138,215,165,5,0
+2024-05-26,Tea Powder 500g,52,215,165,5,1
+2024-05-27,Tea Powder 500g,50,215,165,5,1
+2024-05-28,Tea Powder 500g,38,215,165,5,0
+2024-05-29,Tea Powder 500g,35,215,165,5,0
+2024-05-30,Tea Powder 500g,32,215,165,5,0
+2024-05-31,Tea Powder 500g,37,215,165,5,0
+2024-06-01,Tea Powder 500g,53,215,165,5,0
+2024-06-02,Tea Powder 500g,46,215,165,5,0
+2024-06-03,Tea Powder 500g,38,215,165,5,0
+2024-06-04,Tea Powder 500g,34,215,165,5,0
+2024-06-05,Tea Powder 500g,31,215,165,5,0
+2024-06-06,Tea Powder 500g,31,215,165,5,0
+2024-06-07,Tea Powder 500g,43,215,165,5,1
+2024-06-08,Tea Powder 500g,54,215,165,5,0
+2024-06-09,Tea Powder 500g,40,215,165,5,0
+2024-06-10,Tea Powder 500g,35,215,165,5,0
+2024-06-11,Tea Powder 500g,42,215,165,5,0
+2024-06-12,Tea Powder 500g,47,215,165,5,0
+2024-06-13,Tea Powder 500g,60,215,165,5,1
+2024-06-14,Tea Powder 500g,32,215,165,5,0
+2024-06-15,Tea Powder 500g,52,215,165,5,0
+2024-06-16,Tea Powder 500g,54,215,165,5,0
+2024-06-17,Tea Powder 500g,44,215,165,5,0
+2024-06-18,Tea Powder 500g,49,215,165,5,0
+2024-06-19,Tea Powder 500g,28,215,165,5,0
+2024-06-20,Tea Powder 500g,41,215,165,5,0
+2024-06-21,Tea Powder 500g,49,215,165,5,0
+2024-06-22,Tea Powder 500g,74,215,165,5,1
+2024-06-23,Tea Powder 500g,49,215,165,5,0
+2024-06-24,Tea Powder 500g,42,215,165,5,0
+2024-06-25,Tea Powder 500g,48,215,165,5,0
+2024-06-26,Tea Powder 500g,29,215,165,5,0
+2024-06-27,Tea Powder 500g,29,215,165,5,0
+2024-06-28,Tea Powder 500g,37,215,165,5,0
+2024-06-29,Tea Powder 500g,38,215,165,5,0
+2024-06-30,Tea Powder 500g,55,215,165,5,0
+2024-07-01,Tea Powder 500g,37,215,165,5,0
+2024-07-02,Tea Powder 500g,39,215,165,5,0
+2024-07-03,Tea Powder 500g,48,215,165,5,0
+2024-07-04,Tea Powder 500g,38,215,165,5,0
+2024-07-05,Tea Powder 500g,28,215,165,5,0
+2024-07-06,Tea Powder 500g,25,215,165,5,0
+2024-07-07,Tea Powder 500g,45,215,165,5,0
+2024-07-08,Tea Powder 500g,45,215,165,5,0
+2024-07-09,Tea Powder 500g,34,215,165,5,0
+2024-07-10,Tea Powder 500g,32,215,165,5,0
+2024-07-11,Tea Powder 500g,29,215,165,5,0
+2024-07-12,Tea Powder 500g,41,215,165,5,0
+2024-07-13,Tea Powder 500g,66,215,165,5,0
+2024-07-14,Tea Powder 500g,40,215,165,5,0
+2024-07-15,Tea Powder 500g,28,215,165,5,0
+2024-07-16,Tea Powder 500g,44,215,165,5,0
+2024-07-17,Tea Powder 500g,28,215,165,5,0
+2024-07-18,Tea Powder 500g,39,215,165,5,0
+2024-07-19,Tea Powder 500g,24,215,165,5,0
+2024-07-20,Tea Powder 500g,46,215,165,5,0
+2024-07-21,Tea Powder 500g,39,215,165,5,0
+2024-07-22,Tea Powder 500g,29,215,165,5,0
+2024-07-23,Tea Powder 500g,34,215,165,5,0
+2024-07-24,Tea Powder 500g,33,215,165,5,0
+2024-07-25,Tea Powder 500g,30,215,165,5,0
+2024-07-26,Tea Powder 500g,30,215,165,5,0
+2024-07-27,Tea Powder 500g,47,215,165,5,0
+2024-07-28,Tea Powder 500g,54,215,165,5,0
+2024-07-29,Tea Powder 500g,32,215,165,5,0
+2024-07-30,Tea Powder 500g,32,215,165,5,0
+2024-07-31,Tea Powder 500g,49,215,165,5,0
+2024-08-01,Tea Powder 500g,35,215,165,5,0
+2024-08-02,Tea Powder 500g,33,215,165,5,0
+2024-08-03,Tea Powder 500g,49,215,165,5,0
+2024-08-04,Tea Powder 500g,41,215,165,5,0
+2024-08-05,Tea Powder 500g,32,215,165,5,0
+2024-08-06,Tea Powder 500g,37,215,165,5,0
+2024-08-07,Tea Powder 500g,30,215,165,5,0
+2024-08-08,Tea Powder 500g,35,215,165,5,0
+2024-08-09,Tea Powder 500g,42,215,165,5,0
+2024-08-10,Tea Powder 500g,35,215,165,5,0
+2024-08-11,Tea Powder 500g,58,215,165,5,0
+2024-08-12,Tea Powder 500g,37,215,165,5,0
+2024-08-13,Tea Powder 500g,28,215,165,5,0
+2024-08-14,Tea Powder 500g,26,215,165,5,0
+2024-08-15,Tea Powder 500g,6,215,165,5,0
+2024-08-16,Tea Powder 500g,28,215,165,5,0
+2024-08-17,Tea Powder 500g,52,215,165,5,0
+2024-08-18,Tea Powder 500g,48,215,165,5,0
+2024-08-19,Tea Powder 500g,31,215,165,5,0
+2024-08-20,Tea Powder 500g,34,215,165,5,0
+2024-08-21,Tea Powder 500g,32,215,165,5,0
+2024-08-22,Tea Powder 500g,30,215,165,5,0
+2024-08-23,Tea Powder 500g,32,215,165,5,0
+2024-08-24,Tea Powder 500g,45,215,165,5,0
+2024-08-25,Tea Powder 500g,54,215,165,5,0
+2024-08-26,Tea Powder 500g,34,215,165,5,0
+2024-08-27,Tea Powder 500g,33,215,165,5,0
+2024-08-28,Tea Powder 500g,32,215,165,5,0
+2024-08-29,Tea Powder 500g,28,215,165,5,1
+2024-08-30,Tea Powder 500g,29,215,165,5,0
+2024-08-31,Tea Powder 500g,38,215,165,5,0
+2024-09-01,Tea Powder 500g,45,215,165,5,0
+2024-09-02,Tea Powder 500g,32,215,165,5,0
+2024-09-03,Tea Powder 500g,33,215,165,5,0
+2024-09-04,Tea Powder 500g,41,215,165,5,1
+2024-09-05,Tea Powder 500g,32,215,165,5,0
+2024-09-06,Tea Powder 500g,44,215,165,5,1
+2024-09-07,Tea Powder 500g,29,215,165,5,0
+2024-09-08,Tea Powder 500g,40,215,165,5,0
+2024-09-09,Tea Powder 500g,31,215,165,5,0
+2024-09-10,Tea Powder 500g,23,215,165,5,0
+2024-09-11,Tea Powder 500g,26,215,165,5,0
+2024-09-12,Tea Powder 500g,28,215,165,5,0
+2024-09-13,Tea Powder 500g,34,215,165,5,0
+2024-09-14,Tea Powder 500g,43,215,165,5,0
+2024-09-15,Tea Powder 500g,42,215,165,5,0
+2024-09-16,Tea Powder 500g,30,215,165,5,0
+2024-09-17,Tea Powder 500g,38,215,165,5,0
+2024-09-18,Tea Powder 500g,31,215,165,5,0
+2024-09-19,Tea Powder 500g,25,215,165,5,0
+2024-09-20,Tea Powder 500g,37,215,165,5,0
+2024-09-21,Tea Powder 500g,32,215,165,5,0
+2024-09-22,Tea Powder 500g,39,215,165,5,0
+2024-09-23,Tea Powder 500g,31,215,165,5,0
+2024-09-24,Tea Powder 500g,25,215,165,5,0
+2024-09-25,Tea Powder 500g,25,215,165,5,0
+2024-09-26,Tea Powder 500g,31,215,165,5,0
+2024-09-27,Tea Powder 500g,29,215,165,5,0
+2024-09-28,Tea Powder 500g,37,215,165,5,0
+2024-09-29,Tea Powder 500g,40,215,165,5,0
+2024-09-30,Tea Powder 500g,24,215,165,5,0
+2024-10-01,Tea Powder 500g,34,215,165,5,0
+2024-10-02,Tea Powder 500g,115,215,165,5,0
+2024-10-03,Tea Powder 500g,22,215,165,5,0
+2024-10-04,Tea Powder 500g,26,215,165,5,0
+2024-10-05,Tea Powder 500g,39,215,165,5,1
+2024-10-06,Tea Powder 500g,39,215,165,5,0
+2024-10-07,Tea Powder 500g,30,215,165,5,0
+2024-10-08,Tea Powder 500g,33,215,165,5,0
+2024-10-09,Tea Powder 500g,35,215,165,5,0
+2024-10-10,Tea Powder 500g,33,215,165,5,0
+2024-10-11,Tea Powder 500g,17,215,165,5,0
+2024-10-12,Tea Powder 500g,39,215,165,5,0
+2024-10-13,Tea Powder 500g,25,215,165,5,0
+2024-10-14,Tea Powder 500g,45,215,165,5,1
+2024-10-15,Tea Powder 500g,20,215,165,5,0
+2024-10-16,Tea Powder 500g,20,215,165,5,0
+2024-10-17,Tea Powder 500g,31,215,165,5,0
+2024-10-18,Tea Powder 500g,29,215,165,5,0
+2024-10-19,Tea Powder 500g,47,215,165,5,0
+2024-10-20,Tea Powder 500g,33,215,165,5,0
+2024-10-21,Tea Powder 500g,31,215,165,5,0
+2024-10-22,Tea Powder 500g,37,215,165,5,0
+2024-10-23,Tea Powder 500g,31,215,165,5,0
+2024-10-24,Tea Powder 500g,29,215,165,5,0
+2024-10-25,Tea Powder 500g,30,215,165,5,0
+2024-10-26,Tea Powder 500g,27,215,165,5,0
+2024-10-27,Tea Powder 500g,29,215,165,5,0
+2024-10-28,Tea Powder 500g,24,215,165,5,0
+2024-10-29,Tea Powder 500g,19,215,165,5,0
+2024-10-30,Tea Powder 500g,27,215,165,5,0
+2024-10-31,Tea Powder 500g,24,215,165,5,0
+2024-11-01,Tea Powder 500g,23,215,165,5,0
+2024-11-02,Tea Powder 500g,32,215,165,5,0
+2024-11-03,Tea Powder 500g,31,215,165,5,0
+2024-11-04,Tea Powder 500g,32,215,165,5,0
+2024-11-05,Tea Powder 500g,31,215,165,5,0
+2024-11-06,Tea Powder 500g,26,215,165,5,0
+2024-11-07,Tea Powder 500g,22,215,165,5,0
+2024-11-08,Tea Powder 500g,32,215,165,5,0
+2024-11-09,Tea Powder 500g,43,215,165,5,0
+2024-11-10,Tea Powder 500g,43,215,165,5,0
+2024-11-11,Tea Powder 500g,21,215,165,5,0
+2024-11-12,Tea Powder 500g,32,215,165,5,0
+2024-11-13,Tea Powder 500g,27,215,165,5,0
+2024-11-14,Tea Powder 500g,28,215,165,5,0
+2024-11-15,Tea Powder 500g,24,215,165,5,0
+2024-11-16,Tea Powder 500g,41,215,165,5,0
+2024-11-17,Tea Powder 500g,36,215,165,5,0
+2024-11-18,Tea Powder 500g,31,215,165,5,0
+2024-11-19,Tea Powder 500g,27,215,165,5,0
+2024-11-20,Tea Powder 500g,29,215,165,5,0
+2024-11-21,Tea Powder 500g,26,215,165,5,0
+2024-11-22,Tea Powder 500g,22,215,165,5,0
+2024-11-23,Tea Powder 500g,33,215,165,5,0
+2024-11-24,Tea Powder 500g,40,215,165,5,0
+2024-11-25,Tea Powder 500g,31,215,165,5,0
+2024-11-26,Tea Powder 500g,25,215,165,5,0
+2024-11-27,Tea Powder 500g,29,215,165,5,0
+2024-11-28,Tea Powder 500g,26,215,165,5,0
+2024-11-29,Tea Powder 500g,28,215,165,5,0
+2024-11-30,Tea Powder 500g,33,215,165,5,0
+2024-12-01,Tea Powder 500g,37,215,165,5,0
+2024-12-02,Tea Powder 500g,35,215,165,5,0
+2024-12-03,Tea Powder 500g,27,215,165,5,0
+2024-12-04,Tea Powder 500g,25,215,165,5,0
+2024-12-05,Tea Powder 500g,22,215,165,5,0
+2024-12-06,Tea Powder 500g,25,215,165,5,0
+2024-12-07,Tea Powder 500g,49,215,165,5,0
+2024-12-08,Tea Powder 500g,27,215,165,5,0
+2024-12-09,Tea Powder 500g,39,215,165,5,1
+2024-12-10,Tea Powder 500g,28,215,165,5,0
+2024-12-11,Tea Powder 500g,28,215,165,5,0
+2024-12-12,Tea Powder 500g,28,215,165,5,0
+2024-12-13,Tea Powder 500g,28,215,165,5,0
+2024-12-14,Tea Powder 500g,43,215,165,5,0
+2024-12-15,Tea Powder 500g,29,215,165,5,0
+2024-12-16,Tea Powder 500g,30,215,165,5,0
+2024-12-17,Tea Powder 500g,29,215,165,5,1
+2024-12-18,Tea Powder 500g,21,215,165,5,0
+2024-12-19,Tea Powder 500g,28,215,165,5,0
+2024-12-20,Tea Powder 500g,29,215,165,5,0
+2024-12-21,Tea Powder 500g,34,215,165,5,0
+2024-12-22,Tea Powder 500g,37,215,165,5,0
+2024-12-23,Tea Powder 500g,25,215,165,5,0
+2024-12-24,Tea Powder 500g,34,215,165,5,0
+2024-12-25,Tea Powder 500g,28,215,165,5,0
+2024-12-26,Tea Powder 500g,27,215,165,5,0
+2024-12-27,Tea Powder 500g,32,215,165,5,0
+2024-12-28,Tea Powder 500g,30,215,165,5,0
+2024-12-29,Tea Powder 500g,37,215,165,5,0
+2024-12-30,Tea Powder 500g,31,215,165,5,0
+2024-12-31,Tea Powder 500g,25,215,165,5,0
+2025-01-01,Tea Powder 500g,41,215,165,5,0
+2025-01-02,Tea Powder 500g,28,215,165,5,0
+2025-01-03,Tea Powder 500g,23,215,165,5,0
+2025-01-04,Tea Powder 500g,44,215,165,5,0
+2025-01-05,Tea Powder 500g,46,215,165,5,0
+2025-01-06,Tea Powder 500g,29,215,165,5,0
+2025-01-07,Tea Powder 500g,33,215,165,5,0
+2025-01-08,Tea Powder 500g,29,215,165,5,0
+2025-01-09,Tea Powder 500g,35,215,165,5,0
+2025-01-10,Tea Powder 500g,24,215,165,5,0
+2025-01-11,Tea Powder 500g,34,215,165,5,0
+2025-01-12,Tea Powder 500g,34,215,165,5,0
+2025-01-13,Tea Powder 500g,43,215,165,5,1
+2025-01-14,Tea Powder 500g,33,215,165,5,0
+2025-01-15,Tea Powder 500g,26,215,165,5,1
+2025-01-16,Tea Powder 500g,26,215,165,5,0
+2025-01-17,Tea Powder 500g,25,215,165,5,0
+2025-01-18,Tea Powder 500g,39,215,165,5,0
+2025-01-19,Tea Powder 500g,38,215,165,5,0
+2025-01-20,Tea Powder 500g,31,215,165,5,0
+2025-01-21,Tea Powder 500g,33,215,165,5,0
+2025-01-22,Tea Powder 500g,29,215,165,5,0
+2025-01-23,Tea Powder 500g,32,215,165,5,0
+2025-01-24,Tea Powder 500g,33,215,165,5,0
+2025-01-25,Tea Powder 500g,43,215,165,5,0
+2025-01-26,Tea Powder 500g,38,215,165,5,0
+2025-01-27,Tea Powder 500g,48,215,165,5,0
+2025-01-28,Tea Powder 500g,35,215,165,5,0
+2025-01-29,Tea Powder 500g,24,215,165,5,0
+2025-01-30,Tea Powder 500g,29,215,165,5,0
+2025-01-31,Tea Powder 500g,35,215,165,5,0
+2025-02-01,Tea Powder 500g,60,215,165,5,1
+2025-02-02,Tea Powder 500g,26,215,165,5,0
+2025-02-03,Tea Powder 500g,9,215,165,5,0
+2025-02-04,Tea Powder 500g,23,215,165,5,0
+2025-02-05,Tea Powder 500g,32,215,165,5,0
+2025-02-06,Tea Powder 500g,31,215,165,5,0
+2025-02-07,Tea Powder 500g,36,215,165,5,0
+2025-02-08,Tea Powder 500g,42,215,165,5,0
+2025-02-09,Tea Powder 500g,44,215,165,5,0
+2025-02-10,Tea Powder 500g,21,215,165,5,0
+2025-02-11,Tea Powder 500g,35,215,165,5,0
+2025-02-12,Tea Powder 500g,48,215,165,5,1
+2025-02-13,Tea Powder 500g,35,215,165,5,0
+2025-02-14,Tea Powder 500g,23,215,165,5,0
+2025-02-15,Tea Powder 500g,36,215,165,5,0
+2025-02-16,Tea Powder 500g,36,215,165,5,0
+2025-02-17,Tea Powder 500g,44,215,165,5,0
+2025-02-18,Tea Powder 500g,31,215,165,5,0
+2025-02-19,Tea Powder 500g,25,215,165,5,0
+2025-02-20,Tea Powder 500g,41,215,165,5,0
+2025-02-21,Tea Powder 500g,26,215,165,5,0
+2025-02-22,Tea Powder 500g,44,215,165,5,0
+2025-02-23,Tea Powder 500g,45,215,165,5,0
+2025-02-24,Tea Powder 500g,33,215,165,5,0
+2025-02-25,Tea Powder 500g,41,215,165,5,1
+2025-02-26,Tea Powder 500g,32,215,165,5,0
+2025-02-27,Tea Powder 500g,39,215,165,5,0
+2025-02-28,Tea Powder 500g,14,215,165,5,0
+2025-03-01,Tea Powder 500g,37,215,165,5,0
+2025-03-02,Tea Powder 500g,48,215,165,5,0
+2025-03-03,Tea Powder 500g,28,215,165,5,0
+2025-03-04,Tea Powder 500g,32,215,165,5,0
+2025-03-05,Tea Powder 500g,34,215,165,5,0
+2025-03-06,Tea Powder 500g,29,215,165,5,0
+2025-03-07,Tea Powder 500g,42,215,165,5,0
+2025-03-08,Tea Powder 500g,54,215,165,5,0
+2025-03-09,Tea Powder 500g,49,215,165,5,0
+2025-03-10,Tea Powder 500g,30,215,165,5,0
+2025-03-11,Tea Powder 500g,37,215,165,5,0
+2025-03-12,Tea Powder 500g,35,215,165,5,0
+2025-03-13,Tea Powder 500g,31,215,165,5,0
+2025-03-14,Tea Powder 500g,22,215,165,5,0
+2025-03-15,Tea Powder 500g,50,215,165,5,0
+2025-03-16,Tea Powder 500g,35,215,165,5,0
+2025-03-17,Tea Powder 500g,39,215,165,5,0
+2025-03-18,Tea Powder 500g,37,215,165,5,0
+2025-03-19,Tea Powder 500g,47,215,165,5,1
+2025-03-20,Tea Powder 500g,32,215,165,5,0
+2025-03-21,Tea Powder 500g,24,215,165,5,0
+2025-03-22,Tea Powder 500g,44,215,165,5,0
+2025-03-23,Tea Powder 500g,47,215,165,5,0
+2025-03-24,Tea Powder 500g,36,215,165,5,0
+2025-03-25,Tea Powder 500g,45,215,165,5,0
+2025-03-26,Tea Powder 500g,24,215,165,5,0
+2025-03-27,Tea Powder 500g,39,215,165,5,0
+2025-03-28,Tea Powder 500g,24,215,165,5,0
+2025-03-29,Tea Powder 500g,44,215,165,5,0
+2025-03-30,Tea Powder 500g,51,215,165,5,0
+2025-03-31,Tea Powder 500g,34,215,165,5,0
+2025-04-01,Tea Powder 500g,42,215,165,5,0
+2025-04-02,Tea Powder 500g,34,215,165,5,0
+2025-04-03,Tea Powder 500g,51,215,165,5,0
+2025-04-04,Tea Powder 500g,29,215,165,5,0
+2025-04-05,Tea Powder 500g,44,215,165,5,0
+2025-04-06,Tea Powder 500g,40,215,165,5,0
+2025-04-07,Tea Powder 500g,41,215,165,5,0
+2025-04-08,Tea Powder 500g,44,215,165,5,0
+2025-04-09,Tea Powder 500g,63,215,165,5,1
+2025-04-10,Tea Powder 500g,43,215,165,5,0
+2025-04-11,Tea Powder 500g,34,215,165,5,0
+2025-04-12,Tea Powder 500g,50,215,165,5,0
+2025-04-13,Tea Powder 500g,51,215,165,5,0
+2025-04-14,Tea Powder 500g,44,215,165,5,0
+2025-04-15,Tea Powder 500g,36,215,165,5,0
+2025-04-16,Tea Powder 500g,47,215,165,5,0
+2025-04-17,Tea Powder 500g,39,215,165,5,0
+2025-04-18,Tea Powder 500g,34,215,165,5,0
+2025-04-19,Tea Powder 500g,50,215,165,5,0
+2025-04-20,Tea Powder 500g,57,215,165,5,0
+2025-04-21,Tea Powder 500g,38,215,165,5,0
+2025-04-22,Tea Powder 500g,46,215,165,5,0
+2025-04-23,Tea Powder 500g,33,215,165,5,0
+2025-04-24,Tea Powder 500g,42,215,165,5,0
+2025-04-25,Tea Powder 500g,39,215,165,5,0
+2025-04-26,Tea Powder 500g,62,215,165,5,0
+2025-04-27,Tea Powder 500g,46,215,165,5,0
+2025-04-28,Tea Powder 500g,26,215,165,5,0
+2025-04-29,Tea Powder 500g,46,215,165,5,0
+2025-04-30,Tea Powder 500g,40,215,165,5,0
+2025-05-01,Tea Powder 500g,40,215,165,5,0
+2025-05-02,Tea Powder 500g,30,215,165,5,0
+2025-05-03,Tea Powder 500g,52,215,165,5,0
+2025-05-04,Tea Powder 500g,51,215,165,5,0
+2025-05-05,Tea Powder 500g,37,215,165,5,0
+2025-05-06,Tea Powder 500g,41,215,165,5,0
+2025-05-07,Tea Powder 500g,34,215,165,5,0
+2025-05-08,Tea Powder 500g,38,215,165,5,0
+2025-05-09,Tea Powder 500g,39,215,165,5,0
+2025-05-10,Tea Powder 500g,55,215,165,5,0
+2025-05-11,Tea Powder 500g,54,215,165,5,0
+2025-05-12,Tea Powder 500g,41,215,165,5,0
+2025-05-13,Tea Powder 500g,51,215,165,5,0
+2025-05-14,Tea Powder 500g,47,215,165,5,0
+2025-05-15,Tea Powder 500g,37,215,165,5,0
+2025-05-16,Tea Powder 500g,37,215,165,5,0
+2025-05-17,Tea Powder 500g,63,215,165,5,0
+2025-05-18,Tea Powder 500g,58,215,165,5,0
+2025-05-19,Tea Powder 500g,35,215,165,5,0
+2025-05-20,Tea Powder 500g,44,215,165,5,0
+2025-05-21,Tea Powder 500g,48,215,165,5,0
+2025-05-22,Tea Powder 500g,38,215,165,5,0
+2025-05-23,Tea Powder 500g,41,215,165,5,0
+2025-05-24,Tea Powder 500g,55,215,165,5,0
+2025-05-25,Tea Powder 500g,66,215,165,5,0
+2025-05-26,Tea Powder 500g,29,215,165,5,0
+2025-05-27,Tea Powder 500g,41,215,165,5,0
+2025-05-28,Tea Powder 500g,24,215,165,5,0
+2025-05-29,Tea Powder 500g,39,215,165,5,0
+2025-05-30,Tea Powder 500g,41,215,165,5,0
+2025-05-31,Tea Powder 500g,49,215,165,5,0
+2025-06-01,Tea Powder 500g,61,215,165,5,0
+2025-06-02,Tea Powder 500g,48,215,165,5,0
+2025-06-03,Tea Powder 500g,40,215,165,5,0
+2025-06-04,Tea Powder 500g,48,215,165,5,0
+2025-06-05,Tea Powder 500g,37,215,165,5,0
+2025-06-06,Tea Powder 500g,31,215,165,5,0
+2025-06-07,Tea Powder 500g,63,215,165,5,0
+2025-06-08,Tea Powder 500g,48,215,165,5,0
+2025-06-09,Tea Powder 500g,43,215,165,5,0
+2025-06-10,Tea Powder 500g,46,215,165,5,0
+2025-06-11,Tea Powder 500g,38,215,165,5,0
+2025-06-12,Tea Powder 500g,54,215,165,5,0
+2025-06-13,Tea Powder 500g,42,215,165,5,0
+2025-06-14,Tea Powder 500g,56,215,165,5,0
+2025-06-15,Tea Powder 500g,55,215,165,5,0
+2025-06-16,Tea Powder 500g,37,215,165,5,0
+2025-06-17,Tea Powder 500g,50,215,165,5,0
+2025-06-18,Tea Powder 500g,43,215,165,5,0
+2025-06-19,Tea Powder 500g,47,215,165,5,0
+2025-06-20,Tea Powder 500g,37,215,165,5,0
+2025-06-21,Tea Powder 500g,54,215,165,5,0
+2025-06-22,Tea Powder 500g,55,215,165,5,0
+2025-06-23,Tea Powder 500g,47,215,165,5,0
+2025-06-24,Tea Powder 500g,40,215,165,5,0
+2025-06-25,Tea Powder 500g,33,215,165,5,0
+2025-06-26,Tea Powder 500g,48,215,165,5,0
+2025-06-27,Tea Powder 500g,34,215,165,5,0
+2025-06-28,Tea Powder 500g,55,215,165,5,0
+2025-06-29,Tea Powder 500g,61,215,165,5,0
+2025-06-30,Tea Powder 500g,38,215,165,5,0
+2025-07-01,Tea Powder 500g,52,215,165,5,1
+2025-07-02,Tea Powder 500g,40,215,165,5,0
+2025-07-03,Tea Powder 500g,36,215,165,5,0
+2025-07-04,Tea Powder 500g,39,215,165,5,0
+2025-07-05,Tea Powder 500g,64,215,165,5,0
+2025-07-06,Tea Powder 500g,53,215,165,5,0
+2025-07-07,Tea Powder 500g,43,215,165,5,0
+2025-07-08,Tea Powder 500g,50,215,165,5,0
+2025-07-09,Tea Powder 500g,36,215,165,5,0
+2025-07-10,Tea Powder 500g,35,215,165,5,0
+2025-07-11,Tea Powder 500g,34,215,165,5,0
+2025-07-12,Tea Powder 500g,58,215,165,5,0
+2025-07-13,Tea Powder 500g,49,215,165,5,0
+2025-07-14,Tea Powder 500g,33,215,165,5,0
+2025-07-15,Tea Powder 500g,37,215,165,5,0
+2025-07-16,Tea Powder 500g,41,215,165,5,0
+2025-07-17,Tea Powder 500g,44,215,165,5,0
+2025-07-18,Tea Powder 500g,39,215,165,5,0
+2025-07-19,Tea Powder 500g,45,215,165,5,0
+2025-07-20,Tea Powder 500g,46,215,165,5,0
+2025-07-21,Tea Powder 500g,58,215,165,5,0
+2025-07-22,Tea Powder 500g,43,215,165,5,0
+2025-07-23,Tea Powder 500g,38,215,165,5,0
+2025-07-24,Tea Powder 500g,39,215,165,5,0
+2025-07-25,Tea Powder 500g,49,215,165,5,1
+2025-07-26,Tea Powder 500g,63,215,165,5,0
+2025-07-27,Tea Powder 500g,49,215,165,5,0
+2025-07-28,Tea Powder 500g,58,215,165,5,1
+2025-07-29,Tea Powder 500g,29,215,165,5,0
+2025-07-30,Tea Powder 500g,30,215,165,5,0
+2025-07-31,Tea Powder 500g,37,215,165,5,0
+2025-08-01,Tea Powder 500g,35,215,165,5,0
+2025-08-02,Tea Powder 500g,42,215,165,5,0
+2025-08-03,Tea Powder 500g,54,215,165,5,0
+2025-08-04,Tea Powder 500g,40,215,165,5,0
+2025-08-05,Tea Powder 500g,47,215,165,5,0
+2025-08-06,Tea Powder 500g,38,215,165,5,0
+2025-08-07,Tea Powder 500g,32,215,165,5,0
+2025-08-08,Tea Powder 500g,39,215,165,5,0
+2025-08-09,Tea Powder 500g,55,215,165,5,0
+2025-08-10,Tea Powder 500g,47,215,165,5,0
+2025-08-11,Tea Powder 500g,39,215,165,5,0
+2025-08-12,Tea Powder 500g,41,215,165,5,0
+2025-08-13,Tea Powder 500g,37,215,165,5,0
+2025-08-14,Tea Powder 500g,36,215,165,5,0
+2025-08-15,Tea Powder 500g,30,215,165,5,0
+2025-08-16,Tea Powder 500g,55,215,165,5,0
+2025-08-17,Tea Powder 500g,51,215,165,5,0
+2025-08-18,Tea Powder 500g,34,215,165,5,0
+2025-08-19,Tea Powder 500g,49,215,165,5,1
+2025-08-20,Tea Powder 500g,28,215,165,5,0
+2025-08-21,Tea Powder 500g,41,215,165,5,0
+2025-08-22,Tea Powder 500g,30,215,165,5,0
+2025-08-23,Tea Powder 500g,55,215,165,5,0
+2025-08-24,Tea Powder 500g,58,215,165,5,0
+2025-08-25,Tea Powder 500g,33,215,165,5,0
+2025-08-26,Tea Powder 500g,32,215,165,5,0
+2025-08-27,Tea Powder 500g,43,215,165,5,0
+2025-08-28,Tea Powder 500g,42,215,165,5,0
+2025-08-29,Tea Powder 500g,33,215,165,5,0
+2025-08-30,Tea Powder 500g,46,215,165,5,0
+2025-08-31,Tea Powder 500g,60,215,165,5,0
+2025-09-01,Tea Powder 500g,39,215,165,5,0
+2025-09-02,Tea Powder 500g,55,215,165,5,1
+2025-09-03,Tea Powder 500g,47,215,165,5,0
+2025-09-04,Tea Powder 500g,36,215,165,5,0
+2025-09-05,Tea Powder 500g,39,215,165,5,0
+2025-09-06,Tea Powder 500g,40,215,165,5,0
+2025-09-07,Tea Powder 500g,39,215,165,5,0
+2025-09-08,Tea Powder 500g,41,215,165,5,0
+2025-09-09,Tea Powder 500g,30,215,165,5,0
+2025-09-10,Tea Powder 500g,20,215,165,5,0
+2025-09-11,Tea Powder 500g,30,215,165,5,0
+2025-09-12,Tea Powder 500g,33,215,165,5,0
+2025-09-13,Tea Powder 500g,51,215,165,5,0
+2025-09-14,Tea Powder 500g,45,215,165,5,0
+2025-09-15,Tea Powder 500g,28,215,165,5,0
+2025-09-16,Tea Powder 500g,35,215,165,5,0
+2025-09-17,Tea Powder 500g,42,215,165,5,0
+2025-09-18,Tea Powder 500g,43,215,165,5,0
+2025-09-19,Tea Powder 500g,28,215,165,5,0
+2025-09-20,Tea Powder 500g,50,215,165,5,0
+2025-09-21,Tea Powder 500g,54,215,165,5,0
+2025-09-22,Tea Powder 500g,42,215,165,5,0
+2025-09-23,Tea Powder 500g,27,215,165,5,0
+2025-09-24,Tea Powder 500g,40,215,165,5,0
+2025-09-25,Tea Powder 500g,40,215,165,5,0
+2025-09-26,Tea Powder 500g,31,215,165,5,0
+2025-09-27,Tea Powder 500g,59,215,165,5,1
+2025-09-28,Tea Powder 500g,62,215,165,5,1
+2025-09-29,Tea Powder 500g,36,215,165,5,0
+2025-09-30,Tea Powder 500g,49,215,165,5,1
+2025-10-01,Tea Powder 500g,35,215,165,5,0
+2024-01-01,Notebook A4,11,45,28,7,0
+2024-01-02,Notebook A4,10,45,28,7,0
+2024-01-03,Notebook A4,9,45,28,7,0
+2024-01-04,Notebook A4,12,45,28,7,0
+2024-01-05,Notebook A4,11,45,28,7,0
+2024-01-06,Notebook A4,22,45,28,7,1
+2024-01-07,Notebook A4,22,45,28,7,0
+2024-01-08,Notebook A4,17,45,28,7,0
+2024-01-09,Notebook A4,20,45,28,7,0
+2024-01-10,Notebook A4,13,45,28,7,0
+2024-01-11,Notebook A4,20,45,28,7,0
+2024-01-12,Notebook A4,17,45,28,7,0
+2024-01-13,Notebook A4,19,45,28,7,0
+2024-01-14,Notebook A4,20,45,28,7,0
+2024-01-15,Notebook A4,23,45,28,7,0
+2024-01-16,Notebook A4,21,45,28,7,0
+2024-01-17,Notebook A4,8,45,28,7,0
+2024-01-18,Notebook A4,15,45,28,7,0
+2024-01-19,Notebook A4,23,45,28,7,0
+2024-01-20,Notebook A4,22,45,28,7,1
+2024-01-21,Notebook A4,24,45,28,7,0
+2024-01-22,Notebook A4,20,45,28,7,0
+2024-01-23,Notebook A4,21,45,28,7,0
+2024-01-24,Notebook A4,10,45,28,7,0
+2024-01-25,Notebook A4,24,45,28,7,0
+2024-01-26,Notebook A4,11,45,28,7,0
+2024-01-27,Notebook A4,16,45,28,7,0
+2024-01-28,Notebook A4,18,45,28,7,0
+2024-01-29,Notebook A4,19,45,28,7,1
+2024-01-30,Notebook A4,20,45,28,7,0
+2024-01-31,Notebook A4,18,45,28,7,0
+2024-02-01,Notebook A4,18,45,28,7,0
+2024-02-02,Notebook A4,22,45,28,7,0
+2024-02-03,Notebook A4,21,45,28,7,0
+2024-02-04,Notebook A4,19,45,28,7,0
+2024-02-05,Notebook A4,21,45,28,7,0
+2024-02-06,Notebook A4,17,45,28,7,0
+2024-02-07,Notebook A4,28,45,28,7,0
+2024-02-08,Notebook A4,18,45,28,7,0
+2024-02-09,Notebook A4,19,45,28,7,0
+2024-02-10,Notebook A4,23,45,28,7,0
+2024-02-11,Notebook A4,41,45,28,7,1
+2024-02-12,Notebook A4,23,45,28,7,0
+2024-02-13,Notebook A4,37,45,28,7,1
+2024-02-14,Notebook A4,21,45,28,7,0
+2024-02-15,Notebook A4,28,45,28,7,0
+2024-02-16,Notebook A4,18,45,28,7,0
+2024-02-17,Notebook A4,15,45,28,7,0
+2024-02-18,Notebook A4,26,45,28,7,0
+2024-02-19,Notebook A4,22,45,28,7,0
+2024-02-20,Notebook A4,16,45,28,7,0
+2024-02-21,Notebook A4,23,45,28,7,0
+2024-02-22,Notebook A4,21,45,28,7,0
+2024-02-23,Notebook A4,16,45,28,7,0
+2024-02-24,Notebook A4,29,45,28,7,0
+2024-02-25,Notebook A4,33,45,28,7,0
+2024-02-26,Notebook A4,16,45,28,7,0
+2024-02-27,Notebook A4,7,45,28,7,0
+2024-02-28,Notebook A4,29,45,28,7,0
+2024-02-29,Notebook A4,38,45,28,7,1
+2024-03-01,Notebook A4,18,45,28,7,0
+2024-03-02,Notebook A4,42,45,28,7,0
+2024-03-03,Notebook A4,26,45,28,7,0
+2024-03-04,Notebook A4,15,45,28,7,0
+2024-03-05,Notebook A4,30,45,28,7,0
+2024-03-06,Notebook A4,18,45,28,7,0
+2024-03-07,Notebook A4,29,45,28,7,1
+2024-03-08,Notebook A4,33,45,28,7,0
+2024-03-09,Notebook A4,35,45,28,7,0
+2024-03-10,Notebook A4,26,45,28,7,0
+2024-03-11,Notebook A4,27,45,28,7,0
+2024-03-12,Notebook A4,28,45,28,7,0
+2024-03-13,Notebook A4,22,45,28,7,0
+2024-03-14,Notebook A4,30,45,28,7,0
+2024-03-15,Notebook A4,28,45,28,7,0
+2024-03-16,Notebook A4,38,45,28,7,0
+2024-03-17,Notebook A4,40,45,28,7,0
+2024-03-18,Notebook A4,20,45,28,7,0
+2024-03-19,Notebook A4,23,45,28,7,0
+2024-03-20,Notebook A4,28,45,28,7,0
+2024-03-21,Notebook A4,22,45,28,7,0
+2024-03-22,Notebook A4,37,45,28,7,0
+2024-03-23,Notebook A4,36,45,28,7,0
+2024-03-24,Notebook A4,26,45,28,7,0
+2024-03-25,Notebook A4,28,45,28,7,0
+2024-03-26,Notebook A4,27,45,28,7,0
+2024-03-27,Notebook A4,38,45,28,7,0
+2024-03-28,Notebook A4,35,45,28,7,0
+2024-03-29,Notebook A4,22,45,28,7,0
+2024-03-30,Notebook A4,38,45,28,7,0
+2024-03-31,Notebook A4,33,45,28,7,0
+2024-04-01,Notebook A4,30,45,28,7,0
+2024-04-02,Notebook A4,27,45,28,7,0
+2024-04-03,Notebook A4,31,45,28,7,0
+2024-04-04,Notebook A4,36,45,28,7,0
+2024-04-05,Notebook A4,32,45,28,7,0
+2024-04-06,Notebook A4,38,45,28,7,0
+2024-04-07,Notebook A4,42,45,28,7,1
+2024-04-08,Notebook A4,33,45,28,7,0
+2024-04-09,Notebook A4,37,45,28,7,0
+2024-04-10,Notebook A4,31,45,28,7,0
+2024-04-11,Notebook A4,32,45,28,7,0
+2024-04-12,Notebook A4,27,45,28,7,0
+2024-04-13,Notebook A4,47,45,28,7,0
+2024-04-14,Notebook A4,48,45,28,7,0
+2024-04-15,Notebook A4,38,45,28,7,0
+2024-04-16,Notebook A4,38,45,28,7,0
+2024-04-17,Notebook A4,37,45,28,7,0
+2024-04-18,Notebook A4,32,45,28,7,0
+2024-04-19,Notebook A4,36,45,28,7,0
+2024-04-20,Notebook A4,51,45,28,7,1
+2024-04-21,Notebook A4,46,45,28,7,0
+2024-04-22,Notebook A4,35,45,28,7,0
+2024-04-23,Notebook A4,34,45,28,7,0
+2024-04-24,Notebook A4,37,45,28,7,0
+2024-04-25,Notebook A4,33,45,28,7,0
+2024-04-26,Notebook A4,36,45,28,7,0
+2024-04-27,Notebook A4,37,45,28,7,0
+2024-04-28,Notebook A4,33,45,28,7,0
+2024-04-29,Notebook A4,30,45,28,7,0
+2024-04-30,Notebook A4,40,45,28,7,0
+2024-05-01,Notebook A4,28,45,28,7,0
+2024-05-02,Notebook A4,24,45,28,7,0
+2024-05-03,Notebook A4,20,45,28,7,0
+2024-05-04,Notebook A4,57,45,28,7,0
+2024-05-05,Notebook A4,48,45,28,7,0
+2024-05-06,Notebook A4,33,45,28,7,0
+2024-05-07,Notebook A4,32,45,28,7,0
+2024-05-08,Notebook A4,22,45,28,7,0
+2024-05-09,Notebook A4,38,45,28,7,0
+2024-05-10,Notebook A4,29,45,28,7,0
+2024-05-11,Notebook A4,52,45,28,7,0
+2024-05-12,Notebook A4,38,45,28,7,0
+2024-05-13,Notebook A4,32,45,28,7,0
+2024-05-14,Notebook A4,35,45,28,7,0
+2024-05-15,Notebook A4,44,45,28,7,0
+2024-05-16,Notebook A4,37,45,28,7,0
+2024-05-17,Notebook A4,48,45,28,7,0
+2024-05-18,Notebook A4,39,45,28,7,0
+2024-05-19,Notebook A4,21,45,28,7,0
+2024-05-20,Notebook A4,34,45,28,7,0
+2024-05-21,Notebook A4,43,45,28,7,0
+2024-05-22,Notebook A4,41,45,28,7,0
+2024-05-23,Notebook A4,33,45,28,7,0
+2024-05-24,Notebook A4,34,45,28,7,0
+2024-05-25,Notebook A4,69,45,28,7,1
+2024-05-26,Notebook A4,49,45,28,7,0
+2024-05-27,Notebook A4,45,45,28,7,0
+2024-05-28,Notebook A4,40,45,28,7,0
+2024-05-29,Notebook A4,37,45,28,7,0
+2024-05-30,Notebook A4,24,45,28,7,0
+2024-05-31,Notebook A4,44,45,28,7,0
+2024-06-01,Notebook A4,47,45,28,7,0
+2024-06-02,Notebook A4,41,45,28,7,0
+2024-06-03,Notebook A4,43,45,28,7,0
+2024-06-04,Notebook A4,53,45,28,7,1
+2024-06-05,Notebook A4,43,45,28,7,0
+2024-06-06,Notebook A4,40,45,28,7,0
+2024-06-07,Notebook A4,28,45,28,7,0
+2024-06-08,Notebook A4,52,45,28,7,0
+2024-06-09,Notebook A4,50,45,28,7,0
+2024-06-10,Notebook A4,38,45,28,7,0
+2024-06-11,Notebook A4,65,45,28,7,1
+2024-06-12,Notebook A4,34,45,28,7,0
+2024-06-13,Notebook A4,45,45,28,7,0
+2024-06-14,Notebook A4,39,45,28,7,0
+2024-06-15,Notebook A4,37,45,28,7,0
+2024-06-16,Notebook A4,40,45,28,7,0
+2024-06-17,Notebook A4,40,45,28,7,0
+2024-06-18,Notebook A4,43,45,28,7,1
+2024-06-19,Notebook A4,21,45,28,7,0
+2024-06-20,Notebook A4,40,45,28,7,0
+2024-06-21,Notebook A4,40,45,28,7,0
+2024-06-22,Notebook A4,43,45,28,7,0
+2024-06-23,Notebook A4,54,45,28,7,0
+2024-06-24,Notebook A4,35,45,28,7,0
+2024-06-25,Notebook A4,33,45,28,7,0
+2024-06-26,Notebook A4,33,45,28,7,0
+2024-06-27,Notebook A4,35,45,28,7,0
+2024-06-28,Notebook A4,50,45,28,7,1
+2024-06-29,Notebook A4,49,45,28,7,0
+2024-06-30,Notebook A4,48,45,28,7,0
+2024-07-01,Notebook A4,39,45,28,7,0
+2024-07-02,Notebook A4,33,45,28,7,0
+2024-07-03,Notebook A4,33,45,28,7,0
+2024-07-04,Notebook A4,29,45,28,7,0
+2024-07-05,Notebook A4,35,45,28,7,0
+2024-07-06,Notebook A4,47,45,28,7,0
+2024-07-07,Notebook A4,42,45,28,7,0
+2024-07-08,Notebook A4,35,45,28,7,0
+2024-07-09,Notebook A4,37,45,28,7,0
+2024-07-10,Notebook A4,34,45,28,7,0
+2024-07-11,Notebook A4,33,45,28,7,0
+2024-07-12,Notebook A4,36,45,28,7,0
+2024-07-13,Notebook A4,45,45,28,7,0
+2024-07-14,Notebook A4,34,45,28,7,0
+2024-07-15,Notebook A4,33,45,28,7,0
+2024-07-16,Notebook A4,41,45,28,7,0
+2024-07-17,Notebook A4,31,45,28,7,0
+2024-07-18,Notebook A4,31,45,28,7,0
+2024-07-19,Notebook A4,28,45,28,7,0
+2024-07-20,Notebook A4,31,45,28,7,0
+2024-07-21,Notebook A4,37,45,28,7,0
+2024-07-22,Notebook A4,28,45,28,7,0
+2024-07-23,Notebook A4,31,45,28,7,0
+2024-07-24,Notebook A4,31,45,28,7,0
+2024-07-25,Notebook A4,31,45,28,7,0
+2024-07-26,Notebook A4,30,45,28,7,0
+2024-07-27,Notebook A4,47,45,28,7,0
+2024-07-28,Notebook A4,38,45,28,7,0
+2024-07-29,Notebook A4,34,45,28,7,0
+2024-07-30,Notebook A4,38,45,28,7,0
+2024-07-31,Notebook A4,40,45,28,7,0
+2024-08-01,Notebook A4,32,45,28,7,0
+2024-08-02,Notebook A4,41,45,28,7,0
+2024-08-03,Notebook A4,32,45,28,7,0
+2024-08-04,Notebook A4,39,45,28,7,0
+2024-08-05,Notebook A4,22,45,28,7,0
+2024-08-06,Notebook A4,43,45,28,7,0
+2024-08-07,Notebook A4,29,45,28,7,0
+2024-08-08,Notebook A4,37,45,28,7,0
+2024-08-09,Notebook A4,32,45,28,7,0
+2024-08-10,Notebook A4,31,45,28,7,0
+2024-08-11,Notebook A4,29,45,28,7,0
+2024-08-12,Notebook A4,36,45,28,7,0
+2024-08-13,Notebook A4,25,45,28,7,0
+2024-08-14,Notebook A4,29,45,28,7,0
+2024-08-15,Notebook A4,27,45,28,7,0
+2024-08-16,Notebook A4,31,45,28,7,0
+2024-08-17,Notebook A4,41,45,28,7,0
+2024-08-18,Notebook A4,29,45,28,7,0
+2024-08-19,Notebook A4,34,45,28,7,0
+2024-08-20,Notebook A4,28,45,28,7,0
+2024-08-21,Notebook A4,30,45,28,7,0
+2024-08-22,Notebook A4,28,45,28,7,0
+2024-08-23,Notebook A4,22,45,28,7,0
+2024-08-24,Notebook A4,28,45,28,7,0
+2024-08-25,Notebook A4,30,45,28,7,0
+2024-08-26,Notebook A4,28,45,28,7,0
+2024-08-27,Notebook A4,22,45,28,7,0
+2024-08-28,Notebook A4,20,45,28,7,0
+2024-08-29,Notebook A4,28,45,28,7,0
+2024-08-30,Notebook A4,37,45,28,7,1
+2024-08-31,Notebook A4,27,45,28,7,0
+2024-09-01,Notebook A4,33,45,28,7,0
+2024-09-02,Notebook A4,31,45,28,7,1
+2024-09-03,Notebook A4,21,45,28,7,0
+2024-09-04,Notebook A4,26,45,28,7,0
+2024-09-05,Notebook A4,21,45,28,7,0
+2024-09-06,Notebook A4,20,45,28,7,0
+2024-09-07,Notebook A4,32,45,28,7,0
+2024-09-08,Notebook A4,34,45,28,7,0
+2024-09-09,Notebook A4,24,45,28,7,0
+2024-09-10,Notebook A4,28,45,28,7,0
+2024-09-11,Notebook A4,27,45,28,7,0
+2024-09-12,Notebook A4,17,45,28,7,1
+2024-09-13,Notebook A4,22,45,28,7,0
+2024-09-14,Notebook A4,26,45,28,7,0
+2024-09-15,Notebook A4,21,45,28,7,0
+2024-09-16,Notebook A4,26,45,28,7,0
+2024-09-17,Notebook A4,11,45,28,7,0
+2024-09-18,Notebook A4,14,45,28,7,0
+2024-09-19,Notebook A4,15,45,28,7,0
+2024-09-20,Notebook A4,31,45,28,7,0
+2024-09-21,Notebook A4,29,45,28,7,0
+2024-09-22,Notebook A4,23,45,28,7,0
+2024-09-23,Notebook A4,17,45,28,7,0
+2024-09-24,Notebook A4,23,45,28,7,0
+2024-09-25,Notebook A4,28,45,28,7,0
+2024-09-26,Notebook A4,15,45,28,7,0
+2024-09-27,Notebook A4,22,45,28,7,0
+2024-09-28,Notebook A4,21,45,28,7,0
+2024-09-29,Notebook A4,19,45,28,7,0
+2024-09-30,Notebook A4,25,45,28,7,0
+2024-10-01,Notebook A4,14,45,28,7,0
+2024-10-02,Notebook A4,19,45,28,7,0
+2024-10-03,Notebook A4,18,45,28,7,0
+2024-10-04,Notebook A4,20,45,28,7,0
+2024-10-05,Notebook A4,18,45,28,7,0
+2024-10-06,Notebook A4,21,45,28,7,0
+2024-10-07,Notebook A4,22,45,28,7,0
+2024-10-08,Notebook A4,20,45,28,7,0
+2024-10-09,Notebook A4,14,45,28,7,0
+2024-10-10,Notebook A4,16,45,28,7,0
+2024-10-11,Notebook A4,14,45,28,7,0
+2024-10-12,Notebook A4,23,45,28,7,0
+2024-10-13,Notebook A4,26,45,28,7,1
+2024-10-14,Notebook A4,18,45,28,7,0
+2024-10-15,Notebook A4,15,45,28,7,0
+2024-10-16,Notebook A4,16,45,28,7,0
+2024-10-17,Notebook A4,24,45,28,7,0
+2024-10-18,Notebook A4,18,45,28,7,0
+2024-10-19,Notebook A4,23,45,28,7,0
+2024-10-20,Notebook A4,17,45,28,7,0
+2024-10-21,Notebook A4,26,45,28,7,0
+2024-10-22,Notebook A4,19,45,28,7,1
+2024-10-23,Notebook A4,19,45,28,7,0
+2024-10-24,Notebook A4,21,45,28,7,0
+2024-10-25,Notebook A4,21,45,28,7,0
+2024-10-26,Notebook A4,14,45,28,7,0
+2024-10-27,Notebook A4,18,45,28,7,0
+2024-10-28,Notebook A4,13,45,28,7,0
+2024-10-29,Notebook A4,25,45,28,7,0
+2024-10-30,Notebook A4,21,45,28,7,0
+2024-10-31,Notebook A4,24,45,28,7,0
+2024-11-01,Notebook A4,20,45,28,7,0
+2024-11-02,Notebook A4,16,45,28,7,0
+2024-11-03,Notebook A4,18,45,28,7,0
+2024-11-04,Notebook A4,25,45,28,7,0
+2024-11-05,Notebook A4,22,45,28,7,0
+2024-11-06,Notebook A4,18,45,28,7,0
+2024-11-07,Notebook A4,18,45,28,7,0
+2024-11-08,Notebook A4,13,45,28,7,0
+2024-11-09,Notebook A4,14,45,28,7,0
+2024-11-10,Notebook A4,21,45,28,7,0
+2024-11-11,Notebook A4,17,45,28,7,0
+2024-11-12,Notebook A4,19,45,28,7,1
+2024-11-13,Notebook A4,15,45,28,7,0
+2024-11-14,Notebook A4,16,45,28,7,0
+2024-11-15,Notebook A4,13,45,28,7,0
+2024-11-16,Notebook A4,15,45,28,7,0
+2024-11-17,Notebook A4,23,45,28,7,0
+2024-11-18,Notebook A4,15,45,28,7,0
+2024-11-19,Notebook A4,19,45,28,7,0
+2024-11-20,Notebook A4,14,45,28,7,0
+2024-11-21,Notebook A4,14,45,28,7,0
+2024-11-22,Notebook A4,11,45,28,7,0
+2024-11-23,Notebook A4,20,45,28,7,0
+2024-11-24,Notebook A4,18,45,28,7,0
+2024-11-25,Notebook A4,13,45,28,7,0
+2024-11-26,Notebook A4,20,45,28,7,0
+2024-11-27,Notebook A4,11,45,28,7,0
+2024-11-28,Notebook A4,10,45,28,7,0
+2024-11-29,Notebook A4,13,45,28,7,0
+2024-11-30,Notebook A4,18,45,28,7,0
+2024-12-01,Notebook A4,17,45,28,7,0
+2024-12-02,Notebook A4,16,45,28,7,0
+2024-12-03,Notebook A4,16,45,28,7,0
+2024-12-04,Notebook A4,10,45,28,7,0
+2024-12-05,Notebook A4,9,45,28,7,0
+2024-12-06,Notebook A4,7,45,28,7,0
+2024-12-07,Notebook A4,23,45,28,7,0
+2024-12-08,Notebook A4,18,45,28,7,0
+2024-12-09,Notebook A4,22,45,28,7,0
+2024-12-10,Notebook A4,11,45,28,7,0
+2024-12-11,Notebook A4,18,45,28,7,0
+2024-12-12,Notebook A4,19,45,28,7,0
+2024-12-13,Notebook A4,16,45,28,7,0
+2024-12-14,Notebook A4,21,45,28,7,0
+2024-12-15,Notebook A4,26,45,28,7,0
+2024-12-16,Notebook A4,42,45,28,7,0
+2024-12-17,Notebook A4,18,45,28,7,0
+2024-12-18,Notebook A4,16,45,28,7,0
+2024-12-19,Notebook A4,42,45,28,7,0
+2024-12-20,Notebook A4,18,45,28,7,0
+2024-12-21,Notebook A4,18,45,28,7,0
+2024-12-22,Notebook A4,25,45,28,7,0
+2024-12-23,Notebook A4,20,45,28,7,0
+2024-12-24,Notebook A4,15,45,28,7,0
+2024-12-25,Notebook A4,14,45,28,7,0
+2024-12-26,Notebook A4,13,45,28,7,0
+2024-12-27,Notebook A4,14,45,28,7,0
+2024-12-28,Notebook A4,20,45,28,7,0
+2024-12-29,Notebook A4,15,45,28,7,0
+2024-12-30,Notebook A4,10,45,28,7,0
+2024-12-31,Notebook A4,17,45,28,7,0
+2025-01-01,Notebook A4,4,45,28,7,0
+2025-01-02,Notebook A4,13,45,28,7,0
+2025-01-03,Notebook A4,14,45,28,7,0
+2025-01-04,Notebook A4,21,45,28,7,0
+2025-01-05,Notebook A4,16,45,28,7,0
+2025-01-06,Notebook A4,20,45,28,7,0
+2025-01-07,Notebook A4,20,45,28,7,0
+2025-01-08,Notebook A4,18,45,28,7,0
+2025-01-09,Notebook A4,24,45,28,7,0
+2025-01-10,Notebook A4,18,45,28,7,0
+2025-01-11,Notebook A4,20,45,28,7,0
+2025-01-12,Notebook A4,25,45,28,7,0
+2025-01-13,Notebook A4,26,45,28,7,0
+2025-01-14,Notebook A4,17,45,28,7,0
+2025-01-15,Notebook A4,23,45,28,7,0
+2025-01-16,Notebook A4,24,45,28,7,0
+2025-01-17,Notebook A4,19,45,28,7,0
+2025-01-18,Notebook A4,18,45,28,7,0
+2025-01-19,Notebook A4,18,45,28,7,0
+2025-01-20,Notebook A4,21,45,28,7,0
+2025-01-21,Notebook A4,18,45,28,7,0
+2025-01-22,Notebook A4,17,45,28,7,0
+2025-01-23,Notebook A4,31,45,28,7,0
+2025-01-24,Notebook A4,21,45,28,7,0
+2025-01-25,Notebook A4,25,45,28,7,0
+2025-01-26,Notebook A4,29,45,28,7,0
+2025-01-27,Notebook A4,25,45,28,7,0
+2025-01-28,Notebook A4,29,45,28,7,0
+2025-01-29,Notebook A4,21,45,28,7,1
+2025-01-30,Notebook A4,23,45,28,7,0
+2025-01-31,Notebook A4,22,45,28,7,0
+2025-02-01,Notebook A4,26,45,28,7,0
+2025-02-02,Notebook A4,24,45,28,7,0
+2025-02-03,Notebook A4,17,45,28,7,0
+2025-02-04,Notebook A4,14,45,28,7,0
+2025-02-05,Notebook A4,12,45,28,7,0
+2025-02-06,Notebook A4,16,45,28,7,0
+2025-02-07,Notebook A4,27,45,28,7,0
+2025-02-08,Notebook A4,22,45,28,7,0
+2025-02-09,Notebook A4,23,45,28,7,0
+2025-02-10,Notebook A4,33,45,28,7,1
+2025-02-11,Notebook A4,23,45,28,7,1
+2025-02-12,Notebook A4,43,45,28,7,1
+2025-02-13,Notebook A4,19,45,28,7,0
+2025-02-14,Notebook A4,21,45,28,7,0
+2025-02-15,Notebook A4,32,45,28,7,0
+2025-02-16,Notebook A4,27,45,28,7,0
+2025-02-17,Notebook A4,23,45,28,7,0
+2025-02-18,Notebook A4,27,45,28,7,0
+2025-02-19,Notebook A4,25,45,28,7,0
+2025-02-20,Notebook A4,19,45,28,7,0
+2025-02-21,Notebook A4,33,45,28,7,0
+2025-02-22,Notebook A4,26,45,28,7,0
+2025-02-23,Notebook A4,43,45,28,7,0
+2025-02-24,Notebook A4,83,45,28,7,0
+2025-02-25,Notebook A4,23,45,28,7,0
+2025-02-26,Notebook A4,24,45,28,7,0
+2025-02-27,Notebook A4,25,45,28,7,0
+2025-02-28,Notebook A4,26,45,28,7,0
+2025-03-01,Notebook A4,24,45,28,7,0
+2025-03-02,Notebook A4,47,45,28,7,1
+2025-03-03,Notebook A4,35,45,28,7,1
+2025-03-04,Notebook A4,25,45,28,7,0
+2025-03-05,Notebook A4,29,45,28,7,0
+2025-03-06,Notebook A4,35,45,28,7,0
+2025-03-07,Notebook A4,37,45,28,7,1
+2025-03-08,Notebook A4,35,45,28,7,0
+2025-03-09,Notebook A4,29,45,28,7,0
+2025-03-10,Notebook A4,31,45,28,7,0
+2025-03-11,Notebook A4,30,45,28,7,0
+2025-03-12,Notebook A4,43,45,28,7,1
+2025-03-13,Notebook A4,42,45,28,7,1
+2025-03-14,Notebook A4,33,45,28,7,0
+2025-03-15,Notebook A4,27,45,28,7,0
+2025-03-16,Notebook A4,40,45,28,7,0
+2025-03-17,Notebook A4,33,45,28,7,0
+2025-03-18,Notebook A4,29,45,28,7,0
+2025-03-19,Notebook A4,32,45,28,7,0
+2025-03-20,Notebook A4,24,45,28,7,0
+2025-03-21,Notebook A4,26,45,28,7,0
+2025-03-22,Notebook A4,44,45,28,7,0
+2025-03-23,Notebook A4,31,45,28,7,0
+2025-03-24,Notebook A4,42,45,28,7,0
+2025-03-25,Notebook A4,42,45,28,7,1
+2025-03-26,Notebook A4,37,45,28,7,0
+2025-03-27,Notebook A4,25,45,28,7,0
+2025-03-28,Notebook A4,33,45,28,7,0
+2025-03-29,Notebook A4,38,45,28,7,0
+2025-03-30,Notebook A4,41,45,28,7,0
+2025-03-31,Notebook A4,41,45,28,7,0
+2025-04-01,Notebook A4,33,45,28,7,0
+2025-04-02,Notebook A4,35,45,28,7,0
+2025-04-03,Notebook A4,31,45,28,7,0
+2025-04-04,Notebook A4,32,45,28,7,0
+2025-04-05,Notebook A4,42,45,28,7,0
+2025-04-06,Notebook A4,42,45,28,7,0
+2025-04-07,Notebook A4,35,45,28,7,0
+2025-04-08,Notebook A4,39,45,28,7,0
+2025-04-09,Notebook A4,36,45,28,7,0
+2025-04-10,Notebook A4,41,45,28,7,0
+2025-04-11,Notebook A4,28,45,28,7,0
+2025-04-12,Notebook A4,49,45,28,7,0
+2025-04-13,Notebook A4,46,45,28,7,0
+2025-04-14,Notebook A4,37,45,28,7,0
+2025-04-15,Notebook A4,33,45,28,7,0
+2025-04-16,Notebook A4,44,45,28,7,0
+2025-04-17,Notebook A4,27,45,28,7,0
+2025-04-18,Notebook A4,43,45,28,7,0
+2025-04-19,Notebook A4,63,45,28,7,0
+2025-04-20,Notebook A4,45,45,28,7,0
+2025-04-21,Notebook A4,40,45,28,7,0
+2025-04-22,Notebook A4,41,45,28,7,0
+2025-04-23,Notebook A4,43,45,28,7,0
+2025-04-24,Notebook A4,31,45,28,7,0
+2025-04-25,Notebook A4,46,45,28,7,1
+2025-04-26,Notebook A4,43,45,28,7,0
+2025-04-27,Notebook A4,49,45,28,7,0
+2025-04-28,Notebook A4,29,45,28,7,0
+2025-04-29,Notebook A4,60,45,28,7,0
+2025-04-30,Notebook A4,48,45,28,7,0
+2025-05-01,Notebook A4,39,45,28,7,0
+2025-05-02,Notebook A4,41,45,28,7,0
+2025-05-03,Notebook A4,54,45,28,7,0
+2025-05-04,Notebook A4,46,45,28,7,0
+2025-05-05,Notebook A4,40,45,28,7,0
+2025-05-06,Notebook A4,37,45,28,7,0
+2025-05-07,Notebook A4,46,45,28,7,0
+2025-05-08,Notebook A4,34,45,28,7,0
+2025-05-09,Notebook A4,38,45,28,7,0
+2025-05-10,Notebook A4,54,45,28,7,0
+2025-05-11,Notebook A4,40,45,28,7,0
+2025-05-12,Notebook A4,42,45,28,7,0
+2025-05-13,Notebook A4,45,45,28,7,0
+2025-05-14,Notebook A4,52,45,28,7,0
+2025-05-15,Notebook A4,49,45,28,7,0
+2025-05-16,Notebook A4,40,45,28,7,0
+2025-05-17,Notebook A4,59,45,28,7,0
+2025-05-18,Notebook A4,54,45,28,7,0
+2025-05-19,Notebook A4,43,45,28,7,0
+2025-05-20,Notebook A4,37,45,28,7,0
+2025-05-21,Notebook A4,49,45,28,7,0
+2025-05-22,Notebook A4,41,45,28,7,0
+2025-05-23,Notebook A4,56,45,28,7,0
+2025-05-24,Notebook A4,49,45,28,7,0
+2025-05-25,Notebook A4,40,45,28,7,0
+2025-05-26,Notebook A4,32,45,28,7,0
+2025-05-27,Notebook A4,39,45,28,7,0
+2025-05-28,Notebook A4,39,45,28,7,0
+2025-05-29,Notebook A4,44,45,28,7,0
+2025-05-30,Notebook A4,35,45,28,7,0
+2025-05-31,Notebook A4,30,45,28,7,0
+2025-06-01,Notebook A4,61,45,28,7,0
+2025-06-02,Notebook A4,50,45,28,7,1
+2025-06-03,Notebook A4,56,45,28,7,0
+2025-06-04,Notebook A4,36,45,28,7,0
+2025-06-05,Notebook A4,41,45,28,7,0
+2025-06-06,Notebook A4,41,45,28,7,0
+2025-06-07,Notebook A4,52,45,28,7,0
+2025-06-08,Notebook A4,69,45,28,7,1
+2025-06-09,Notebook A4,46,45,28,7,0
+2025-06-10,Notebook A4,34,45,28,7,0
+2025-06-11,Notebook A4,46,45,28,7,0
+2025-06-12,Notebook A4,49,45,28,7,0
+2025-06-13,Notebook A4,35,45,28,7,0
+2025-06-14,Notebook A4,43,45,28,7,0
+2025-06-15,Notebook A4,45,45,28,7,0
+2025-06-16,Notebook A4,41,45,28,7,0
+2025-06-17,Notebook A4,47,45,28,7,0
+2025-06-18,Notebook A4,54,45,28,7,0
+2025-06-19,Notebook A4,38,45,28,7,0
+2025-06-20,Notebook A4,40,45,28,7,0
+2025-06-21,Notebook A4,42,45,28,7,0
+2025-06-22,Notebook A4,39,45,28,7,0
+2025-06-23,Notebook A4,39,45,28,7,0
+2025-06-24,Notebook A4,52,45,28,7,1
+2025-06-25,Notebook A4,39,45,28,7,0
+2025-06-26,Notebook A4,42,45,28,7,0
+2025-06-27,Notebook A4,38,45,28,7,0
+2025-06-28,Notebook A4,53,45,28,7,0
+2025-06-29,Notebook A4,50,45,28,7,0
+2025-06-30,Notebook A4,39,45,28,7,0
+2025-07-01,Notebook A4,26,45,28,7,0
+2025-07-02,Notebook A4,38,45,28,7,0
+2025-07-03,Notebook A4,44,45,28,7,0
+2025-07-04,Notebook A4,31,45,28,7,0
+2025-07-05,Notebook A4,51,45,28,7,0
+2025-07-06,Notebook A4,33,45,28,7,0
+2025-07-07,Notebook A4,42,45,28,7,0
+2025-07-08,Notebook A4,43,45,28,7,0
+2025-07-09,Notebook A4,41,45,28,7,0
+2025-07-10,Notebook A4,42,45,28,7,0
+2025-07-11,Notebook A4,24,45,28,7,0
+2025-07-12,Notebook A4,56,45,28,7,0
+2025-07-13,Notebook A4,54,45,28,7,0
+2025-07-14,Notebook A4,39,45,28,7,0
+2025-07-15,Notebook A4,41,45,28,7,0
+2025-07-16,Notebook A4,37,45,28,7,0
+2025-07-17,Notebook A4,35,45,28,7,0
+2025-07-18,Notebook A4,33,45,28,7,0
+2025-07-19,Notebook A4,42,45,28,7,0
+2025-07-20,Notebook A4,39,45,28,7,0
+2025-07-21,Notebook A4,41,45,28,7,0
+2025-07-22,Notebook A4,29,45,28,7,0
+2025-07-23,Notebook A4,31,45,28,7,0
+2025-07-24,Notebook A4,36,45,28,7,0
+2025-07-25,Notebook A4,34,45,28,7,0
+2025-07-26,Notebook A4,54,45,28,7,0
+2025-07-27,Notebook A4,45,45,28,7,0
+2025-07-28,Notebook A4,40,45,28,7,0
+2025-07-29,Notebook A4,45,45,28,7,0
+2025-07-30,Notebook A4,29,45,28,7,0
+2025-07-31,Notebook A4,39,45,28,7,0
+2025-08-01,Notebook A4,37,45,28,7,0
+2025-08-02,Notebook A4,45,45,28,7,0
+2025-08-03,Notebook A4,43,45,28,7,0
+2025-08-04,Notebook A4,43,45,28,7,0
+2025-08-05,Notebook A4,27,45,28,7,0
+2025-08-06,Notebook A4,30,45,28,7,0
+2025-08-07,Notebook A4,40,45,28,7,0
+2025-08-08,Notebook A4,30,45,28,7,0
+2025-08-09,Notebook A4,39,45,28,7,0
+2025-08-10,Notebook A4,37,45,28,7,0
+2025-08-11,Notebook A4,36,45,28,7,1
+2025-08-12,Notebook A4,34,45,28,7,0
+2025-08-13,Notebook A4,30,45,28,7,0
+2025-08-14,Notebook A4,31,45,28,7,0
+2025-08-15,Notebook A4,17,45,28,7,0
+2025-08-16,Notebook A4,35,45,28,7,0
+2025-08-17,Notebook A4,42,45,28,7,1
+2025-08-18,Notebook A4,36,45,28,7,0
+2025-08-19,Notebook A4,20,45,28,7,0
+2025-08-20,Notebook A4,31,45,28,7,0
+2025-08-21,Notebook A4,35,45,28,7,0
+2025-08-22,Notebook A4,28,45,28,7,0
+2025-08-23,Notebook A4,34,45,28,7,0
+2025-08-24,Notebook A4,36,45,28,7,0
+2025-08-25,Notebook A4,31,45,28,7,0
+2025-08-26,Notebook A4,27,45,28,7,0
+2025-08-27,Notebook A4,27,45,28,7,0
+2025-08-28,Notebook A4,32,45,28,7,0
+2025-08-29,Notebook A4,31,45,28,7,0
+2025-08-30,Notebook A4,38,45,28,7,0
+2025-08-31,Notebook A4,32,45,28,7,0
+2025-09-01,Notebook A4,36,45,28,7,0
+2025-09-02,Notebook A4,30,45,28,7,0
+2025-09-03,Notebook A4,27,45,28,7,0
+2025-09-04,Notebook A4,34,45,28,7,0
+2025-09-05,Notebook A4,23,45,28,7,0
+2025-09-06,Notebook A4,26,45,28,7,0
+2025-09-07,Notebook A4,27,45,28,7,0
+2025-09-08,Notebook A4,20,45,28,7,0
+2025-09-09,Notebook A4,30,45,28,7,0
+2025-09-10,Notebook A4,26,45,28,7,0
+2025-09-11,Notebook A4,17,45,28,7,0
+2025-09-12,Notebook A4,30,45,28,7,0
+2025-09-13,Notebook A4,35,45,28,7,1
+2025-09-14,Notebook A4,26,45,28,7,0
+2025-09-15,Notebook A4,22,45,28,7,0
+2025-09-16,Notebook A4,21,45,28,7,0
+2025-09-17,Notebook A4,28,45,28,7,0
+2025-09-18,Notebook A4,41,45,28,7,1
+2025-09-19,Notebook A4,28,45,28,7,0
+2025-09-20,Notebook A4,31,45,28,7,0
+2025-09-21,Notebook A4,30,45,28,7,0
+2025-09-22,Notebook A4,24,45,28,7,0
+2025-09-23,Notebook A4,21,45,28,7,0
+2025-09-24,Notebook A4,19,45,28,7,0
+2025-09-25,Notebook A4,24,45,28,7,0
+2025-09-26,Notebook A4,20,45,28,7,0
+2025-09-27,Notebook A4,32,45,28,7,0
+2025-09-28,Notebook A4,35,45,28,7,0
+2025-09-29,Notebook A4,22,45,28,7,0
+2025-09-30,Notebook A4,35,45,28,7,0
+2025-10-01,Notebook A4,33,45,28,7,0
+2024-01-01,LED Bulb 9W,14,99,62,6,0
+2024-01-02,LED Bulb 9W,27,99,62,6,0
+2024-01-03,LED Bulb 9W,19,99,62,6,0
+2024-01-04,LED Bulb 9W,18,99,62,6,0
+2024-01-05,LED Bulb 9W,21,99,62,6,0
+2024-01-06,LED Bulb 9W,11,99,62,6,0
+2024-01-07,LED Bulb 9W,10,99,62,6,0
+2024-01-08,LED Bulb 9W,19,99,62,6,0
+2024-01-09,LED Bulb 9W,18,99,62,6,0
+2024-01-10,LED Bulb 9W,17,99,62,6,0
+2024-01-11,LED Bulb 9W,17,99,62,6,0
+2024-01-12,LED Bulb 9W,19,99,62,6,0
+2024-01-13,LED Bulb 9W,19,99,62,6,0
+2024-01-14,LED Bulb 9W,15,99,62,6,0
+2024-01-15,LED Bulb 9W,22,99,62,6,0
+2024-01-16,LED Bulb 9W,14,99,62,6,0
+2024-01-17,LED Bulb 9W,23,99,62,6,0
+2024-01-18,LED Bulb 9W,10,99,62,6,0
+2024-01-19,LED Bulb 9W,16,99,62,6,0
+2024-01-20,LED Bulb 9W,23,99,62,6,0
+2024-01-21,LED Bulb 9W,19,99,62,6,0
+2024-01-22,LED Bulb 9W,27,99,62,6,0
+2024-01-23,LED Bulb 9W,24,99,62,6,0
+2024-01-24,LED Bulb 9W,22,99,62,6,0
+2024-01-25,LED Bulb 9W,19,99,62,6,0
+2024-01-26,LED Bulb 9W,16,99,62,6,0
+2024-01-27,LED Bulb 9W,20,99,62,6,0
+2024-01-28,LED Bulb 9W,21,99,62,6,0
+2024-01-29,LED Bulb 9W,17,99,62,6,0
+2024-01-30,LED Bulb 9W,24,99,62,6,0
+2024-01-31,LED Bulb 9W,18,99,62,6,0
+2024-02-01,LED Bulb 9W,12,99,62,6,0
+2024-02-02,LED Bulb 9W,15,99,62,6,0
+2024-02-03,LED Bulb 9W,19,99,62,6,0
+2024-02-04,LED Bulb 9W,28,99,62,6,1
+2024-02-05,LED Bulb 9W,9,99,62,6,0
+2024-02-06,LED Bulb 9W,26,99,62,6,1
+2024-02-07,LED Bulb 9W,14,99,62,6,0
+2024-02-08,LED Bulb 9W,10,99,62,6,0
+2024-02-09,LED Bulb 9W,11,99,62,6,0
+2024-02-10,LED Bulb 9W,18,99,62,6,0
+2024-02-11,LED Bulb 9W,10,99,62,6,0
+2024-02-12,LED Bulb 9W,12,99,62,6,0
+2024-02-13,LED Bulb 9W,12,99,62,6,0
+2024-02-14,LED Bulb 9W,20,99,62,6,0
+2024-02-15,LED Bulb 9W,19,99,62,6,1
+2024-02-16,LED Bulb 9W,15,99,62,6,0
+2024-02-17,LED Bulb 9W,24,99,62,6,0
+2024-02-18,LED Bulb 9W,30,99,62,6,1
+2024-02-19,LED Bulb 9W,25,99,62,6,0
+2024-02-20,LED Bulb 9W,18,99,62,6,0
+2024-02-21,LED Bulb 9W,19,99,62,6,1
+2024-02-22,LED Bulb 9W,21,99,62,6,0
+2024-02-23,LED Bulb 9W,18,99,62,6,0
+2024-02-24,LED Bulb 9W,23,99,62,6,0
+2024-02-25,LED Bulb 9W,20,99,62,6,0
+2024-02-26,LED Bulb 9W,27,99,62,6,0
+2024-02-27,LED Bulb 9W,20,99,62,6,0
+2024-02-28,LED Bulb 9W,9,99,62,6,0
+2024-02-29,LED Bulb 9W,19,99,62,6,0
+2024-03-01,LED Bulb 9W,13,99,62,6,0
+2024-03-02,LED Bulb 9W,30,99,62,6,0
+2024-03-03,LED Bulb 9W,16,99,62,6,0
+2024-03-04,LED Bulb 9W,28,99,62,6,0
+2024-03-05,LED Bulb 9W,15,99,62,6,0
+2024-03-06,LED Bulb 9W,20,99,62,6,0
+2024-03-07,LED Bulb 9W,19,99,62,6,0
+2024-03-08,LED Bulb 9W,20,99,62,6,0
+2024-03-09,LED Bulb 9W,24,99,62,6,0
+2024-03-10,LED Bulb 9W,27,99,62,6,0
+2024-03-11,LED Bulb 9W,24,99,62,6,0
+2024-03-12,LED Bulb 9W,18,99,62,6,0
+2024-03-13,LED Bulb 9W,14,99,62,6,0
+2024-03-14,LED Bulb 9W,14,99,62,6,0
+2024-03-15,LED Bulb 9W,17,99,62,6,0
+2024-03-16,LED Bulb 9W,30,99,62,6,0
+2024-03-17,LED Bulb 9W,19,99,62,6,0
+2024-03-18,LED Bulb 9W,16,99,62,6,0
+2024-03-19,LED Bulb 9W,27,99,62,6,0
+2024-03-20,LED Bulb 9W,18,99,62,6,0
+2024-03-21,LED Bulb 9W,20,99,62,6,0
+2024-03-22,LED Bulb 9W,17,99,62,6,0
+2024-03-23,LED Bulb 9W,22,99,62,6,0
+2024-03-24,LED Bulb 9W,33,99,62,6,0
+2024-03-25,LED Bulb 9W,20,99,62,6,1
+2024-03-26,LED Bulb 9W,12,99,62,6,0
+2024-03-27,LED Bulb 9W,19,99,62,6,0
+2024-03-28,LED Bulb 9W,22,99,62,6,0
+2024-03-29,LED Bulb 9W,20,99,62,6,0
+2024-03-30,LED Bulb 9W,21,99,62,6,0
+2024-03-31,LED Bulb 9W,16,99,62,6,0
+2024-04-01,LED Bulb 9W,11,99,62,6,0
+2024-04-02,LED Bulb 9W,17,99,62,6,0
+2024-04-03,LED Bulb 9W,24,99,62,6,0
+2024-04-04,LED Bulb 9W,24,99,62,6,0
+2024-04-05,LED Bulb 9W,16,99,62,6,0
+2024-04-06,LED Bulb 9W,28,99,62,6,0
+2024-04-07,LED Bulb 9W,22,99,62,6,0
+2024-04-08,LED Bulb 9W,21,99,62,6,0
+2024-04-09,LED Bulb 9W,23,99,62,6,1
+2024-04-10,LED Bulb 9W,17,99,62,6,0
+2024-04-11,LED Bulb 9W,12,99,62,6,0
+2024-04-12,LED Bulb 9W,21,99,62,6,0
+2024-04-13,LED Bulb 9W,22,99,62,6,0
+2024-04-14,LED Bulb 9W,23,99,62,6,0
+2024-04-15,LED Bulb 9W,25,99,62,6,0
+2024-04-16,LED Bulb 9W,18,99,62,6,0
+2024-04-17,LED Bulb 9W,21,99,62,6,0
+2024-04-18,LED Bulb 9W,31,99,62,6,1
+2024-04-19,LED Bulb 9W,12,99,62,6,0
+2024-04-20,LED Bulb 9W,29,99,62,6,0
+2024-04-21,LED Bulb 9W,26,99,62,6,0
+2024-04-22,LED Bulb 9W,20,99,62,6,0
+2024-04-23,LED Bulb 9W,17,99,62,6,0
+2024-04-24,LED Bulb 9W,23,99,62,6,0
+2024-04-25,LED Bulb 9W,18,99,62,6,0
+2024-04-26,LED Bulb 9W,23,99,62,6,0
+2024-04-27,LED Bulb 9W,27,99,62,6,0
+2024-04-28,LED Bulb 9W,16,99,62,6,0
+2024-04-29,LED Bulb 9W,23,99,62,6,0
+2024-04-30,LED Bulb 9W,22,99,62,6,1
+2024-05-01,LED Bulb 9W,23,99,62,6,0
+2024-05-02,LED Bulb 9W,21,99,62,6,0
+2024-05-03,LED Bulb 9W,16,99,62,6,0
+2024-05-04,LED Bulb 9W,19,99,62,6,0
+2024-05-05,LED Bulb 9W,19,99,62,6,0
+2024-05-06,LED Bulb 9W,8,99,62,6,0
+2024-05-07,LED Bulb 9W,16,99,62,6,0
+2024-05-08,LED Bulb 9W,11,99,62,6,0
+2024-05-09,LED Bulb 9W,23,99,62,6,0
+2024-05-10,LED Bulb 9W,23,99,62,6,0
+2024-05-11,LED Bulb 9W,22,99,62,6,0
+2024-05-12,LED Bulb 9W,20,99,62,6,0
+2024-05-13,LED Bulb 9W,23,99,62,6,0
+2024-05-14,LED Bulb 9W,34,99,62,6,0
+2024-05-15,LED Bulb 9W,11,99,62,6,1
+2024-05-16,LED Bulb 9W,19,99,62,6,0
+2024-05-17,LED Bulb 9W,21,99,62,6,0
+2024-05-18,LED Bulb 9W,30,99,62,6,1
+2024-05-19,LED Bulb 9W,31,99,62,6,0
+2024-05-20,LED Bulb 9W,21,99,62,6,0
+2024-05-21,LED Bulb 9W,25,99,62,6,0
+2024-05-22,LED Bulb 9W,24,99,62,6,0
+2024-05-23,LED Bulb 9W,26,99,62,6,0
+2024-05-24,LED Bulb 9W,16,99,62,6,0
+2024-05-25,LED Bulb 9W,25,99,62,6,0
+2024-05-26,LED Bulb 9W,18,99,62,6,0
+2024-05-27,LED Bulb 9W,17,99,62,6,0
+2024-05-28,LED Bulb 9W,26,99,62,6,0
+2024-05-29,LED Bulb 9W,19,99,62,6,0
+2024-05-30,LED Bulb 9W,24,99,62,6,1
+2024-05-31,LED Bulb 9W,19,99,62,6,0
+2024-06-01,LED Bulb 9W,16,99,62,6,0
+2024-06-02,LED Bulb 9W,26,99,62,6,0
+2024-06-03,LED Bulb 9W,22,99,62,6,0
+2024-06-04,LED Bulb 9W,16,99,62,6,0
+2024-06-05,LED Bulb 9W,12,99,62,6,0
+2024-06-06,LED Bulb 9W,23,99,62,6,0
+2024-06-07,LED Bulb 9W,16,99,62,6,0
+2024-06-08,LED Bulb 9W,18,99,62,6,0
+2024-06-09,LED Bulb 9W,19,99,62,6,0
+2024-06-10,LED Bulb 9W,23,99,62,6,0
+2024-06-11,LED Bulb 9W,25,99,62,6,0
+2024-06-12,LED Bulb 9W,22,99,62,6,0
+2024-06-13,LED Bulb 9W,21,99,62,6,0
+2024-06-14,LED Bulb 9W,30,99,62,6,1
+2024-06-15,LED Bulb 9W,27,99,62,6,1
+2024-06-16,LED Bulb 9W,27,99,62,6,0
+2024-06-17,LED Bulb 9W,23,99,62,6,0
+2024-06-18,LED Bulb 9W,22,99,62,6,0
+2024-06-19,LED Bulb 9W,18,99,62,6,0
+2024-06-20,LED Bulb 9W,20,99,62,6,1
+2024-06-21,LED Bulb 9W,27,99,62,6,0
+2024-06-22,LED Bulb 9W,21,99,62,6,0
+2024-06-23,LED Bulb 9W,24,99,62,6,0
+2024-06-24,LED Bulb 9W,17,99,62,6,0
+2024-06-25,LED Bulb 9W,22,99,62,6,0
+2024-06-26,LED Bulb 9W,23,99,62,6,0
+2024-06-27,LED Bulb 9W,25,99,62,6,0
+2024-06-28,LED Bulb 9W,13,99,62,6,0
+2024-06-29,LED Bulb 9W,23,99,62,6,0
+2024-06-30,LED Bulb 9W,30,99,62,6,0
+2024-07-01,LED Bulb 9W,18,99,62,6,0
+2024-07-02,LED Bulb 9W,25,99,62,6,0
+2024-07-03,LED Bulb 9W,28,99,62,6,0
+2024-07-04,LED Bulb 9W,25,99,62,6,0
+2024-07-05,LED Bulb 9W,18,99,62,6,0
+2024-07-06,LED Bulb 9W,28,99,62,6,0
+2024-07-07,LED Bulb 9W,25,99,62,6,0
+2024-07-08,LED Bulb 9W,26,99,62,6,0
+2024-07-09,LED Bulb 9W,31,99,62,6,1
+2024-07-10,LED Bulb 9W,24,99,62,6,0
+2024-07-11,LED Bulb 9W,20,99,62,6,0
+2024-07-12,LED Bulb 9W,20,99,62,6,0
+2024-07-13,LED Bulb 9W,21,99,62,6,0
+2024-07-14,LED Bulb 9W,18,99,62,6,0
+2024-07-15,LED Bulb 9W,24,99,62,6,0
+2024-07-16,LED Bulb 9W,23,99,62,6,0
+2024-07-17,LED Bulb 9W,14,99,62,6,0
+2024-07-18,LED Bulb 9W,17,99,62,6,0
+2024-07-19,LED Bulb 9W,25,99,62,6,0
+2024-07-20,LED Bulb 9W,28,99,62,6,1
+2024-07-21,LED Bulb 9W,20,99,62,6,0
+2024-07-22,LED Bulb 9W,19,99,62,6,0
+2024-07-23,LED Bulb 9W,19,99,62,6,0
+2024-07-24,LED Bulb 9W,18,99,62,6,0
+2024-07-25,LED Bulb 9W,19,99,62,6,0
+2024-07-26,LED Bulb 9W,23,99,62,6,0
+2024-07-27,LED Bulb 9W,18,99,62,6,0
+2024-07-28,LED Bulb 9W,20,99,62,6,0
+2024-07-29,LED Bulb 9W,16,99,62,6,0
+2024-07-30,LED Bulb 9W,24,99,62,6,0
+2024-07-31,LED Bulb 9W,10,99,62,6,0
+2024-08-01,LED Bulb 9W,29,99,62,6,0
+2024-08-02,LED Bulb 9W,22,99,62,6,0
+2024-08-03,LED Bulb 9W,19,99,62,6,0
+2024-08-04,LED Bulb 9W,17,99,62,6,0
+2024-08-05,LED Bulb 9W,16,99,62,6,0
+2024-08-06,LED Bulb 9W,28,99,62,6,0
+2024-08-07,LED Bulb 9W,26,99,62,6,0
+2024-08-08,LED Bulb 9W,28,99,62,6,1
+2024-08-09,LED Bulb 9W,23,99,62,6,0
+2024-08-10,LED Bulb 9W,29,99,62,6,0
+2024-08-11,LED Bulb 9W,23,99,62,6,0
+2024-08-12,LED Bulb 9W,22,99,62,6,0
+2024-08-13,LED Bulb 9W,18,99,62,6,0
+2024-08-14,LED Bulb 9W,22,99,62,6,0
+2024-08-15,LED Bulb 9W,22,99,62,6,0
+2024-08-16,LED Bulb 9W,25,99,62,6,0
+2024-08-17,LED Bulb 9W,29,99,62,6,0
+2024-08-18,LED Bulb 9W,27,99,62,6,0
+2024-08-19,LED Bulb 9W,21,99,62,6,0
+2024-08-20,LED Bulb 9W,16,99,62,6,0
+2024-08-21,LED Bulb 9W,20,99,62,6,0
+2024-08-22,LED Bulb 9W,17,99,62,6,0
+2024-08-23,LED Bulb 9W,14,99,62,6,0
+2024-08-24,LED Bulb 9W,23,99,62,6,0
+2024-08-25,LED Bulb 9W,25,99,62,6,0
+2024-08-26,LED Bulb 9W,20,99,62,6,0
+2024-08-27,LED Bulb 9W,22,99,62,6,0
+2024-08-28,LED Bulb 9W,29,99,62,6,1
+2024-08-29,LED Bulb 9W,14,99,62,6,0
+2024-08-30,LED Bulb 9W,21,99,62,6,0
+2024-08-31,LED Bulb 9W,16,99,62,6,0
+2024-09-01,LED Bulb 9W,28,99,62,6,0
+2024-09-02,LED Bulb 9W,14,99,62,6,0
+2024-09-03,LED Bulb 9W,36,99,62,6,1
+2024-09-04,LED Bulb 9W,21,99,62,6,0
+2024-09-05,LED Bulb 9W,17,99,62,6,0
+2024-09-06,LED Bulb 9W,24,99,62,6,0
+2024-09-07,LED Bulb 9W,20,99,62,6,0
+2024-09-08,LED Bulb 9W,19,99,62,6,0
+2024-09-09,LED Bulb 9W,28,99,62,6,0
+2024-09-10,LED Bulb 9W,18,99,62,6,0
+2024-09-11,LED Bulb 9W,11,99,62,6,0
+2024-09-12,LED Bulb 9W,12,99,62,6,0
+2024-09-13,LED Bulb 9W,14,99,62,6,0
+2024-09-14,LED Bulb 9W,15,99,62,6,0
+2024-09-15,LED Bulb 9W,27,99,62,6,0
+2024-09-16,LED Bulb 9W,19,99,62,6,0
+2024-09-17,LED Bulb 9W,20,99,62,6,0
+2024-09-18,LED Bulb 9W,22,99,62,6,0
+2024-09-19,LED Bulb 9W,17,99,62,6,0
+2024-09-20,LED Bulb 9W,16,99,62,6,0
+2024-09-21,LED Bulb 9W,21,99,62,6,0
+2024-09-22,LED Bulb 9W,20,99,62,6,0
+2024-09-23,LED Bulb 9W,19,99,62,6,0
+2024-09-24,LED Bulb 9W,17,99,62,6,0
+2024-09-25,LED Bulb 9W,18,99,62,6,0
+2024-09-26,LED Bulb 9W,16,99,62,6,0
+2024-09-27,LED Bulb 9W,13,99,62,6,0
+2024-09-28,LED Bulb 9W,19,99,62,6,0
+2024-09-29,LED Bulb 9W,27,99,62,6,0
+2024-09-30,LED Bulb 9W,19,99,62,6,0
+2024-10-01,LED Bulb 9W,25,99,62,6,0
+2024-10-02,LED Bulb 9W,14,99,62,6,0
+2024-10-03,LED Bulb 9W,15,99,62,6,0
+2024-10-04,LED Bulb 9W,24,99,62,6,0
+2024-10-05,LED Bulb 9W,16,99,62,6,0
+2024-10-06,LED Bulb 9W,10,99,62,6,0
+2024-10-07,LED Bulb 9W,20,99,62,6,0
+2024-10-08,LED Bulb 9W,15,99,62,6,0
+2024-10-09,LED Bulb 9W,27,99,62,6,0
+2024-10-10,LED Bulb 9W,15,99,62,6,0
+2024-10-11,LED Bulb 9W,11,99,62,6,0
+2024-10-12,LED Bulb 9W,22,99,62,6,0
+2024-10-13,LED Bulb 9W,22,99,62,6,0
+2024-10-14,LED Bulb 9W,17,99,62,6,0
+2024-10-15,LED Bulb 9W,21,99,62,6,0
+2024-10-16,LED Bulb 9W,18,99,62,6,0
+2024-10-17,LED Bulb 9W,15,99,62,6,0
+2024-10-18,LED Bulb 9W,20,99,62,6,0
+2024-10-19,LED Bulb 9W,23,99,62,6,0
+2024-10-20,LED Bulb 9W,24,99,62,6,0
+2024-10-21,LED Bulb 9W,20,99,62,6,0
+2024-10-22,LED Bulb 9W,21,99,62,6,0
+2024-10-23,LED Bulb 9W,28,99,62,6,1
+2024-10-24,LED Bulb 9W,9,99,62,6,0
+2024-10-25,LED Bulb 9W,18,99,62,6,0
+2024-10-26,LED Bulb 9W,18,99,62,6,0
+2024-10-27,LED Bulb 9W,24,99,62,6,0
+2024-10-28,LED Bulb 9W,23,99,62,6,0
+2024-10-29,LED Bulb 9W,16,99,62,6,0
+2024-10-30,LED Bulb 9W,15,99,62,6,0
+2024-10-31,LED Bulb 9W,14,99,62,6,0
+2024-11-01,LED Bulb 9W,15,99,62,6,0
+2024-11-02,LED Bulb 9W,15,99,62,6,1
+2024-11-03,LED Bulb 9W,27,99,62,6,0
+2024-11-04,LED Bulb 9W,20,99,62,6,0
+2024-11-05,LED Bulb 9W,24,99,62,6,0
+2024-11-06,LED Bulb 9W,16,99,62,6,0
+2024-11-07,LED Bulb 9W,10,99,62,6,0
+2024-11-08,LED Bulb 9W,15,99,62,6,0
+2024-11-09,LED Bulb 9W,19,99,62,6,0
+2024-11-10,LED Bulb 9W,24,99,62,6,0
+2024-11-11,LED Bulb 9W,20,99,62,6,0
+2024-11-12,LED Bulb 9W,19,99,62,6,0
+2024-11-13,LED Bulb 9W,13,99,62,6,0
+2024-11-14,LED Bulb 9W,21,99,62,6,0
+2024-11-15,LED Bulb 9W,17,99,62,6,0
+2024-11-16,LED Bulb 9W,15,99,62,6,0
+2024-11-17,LED Bulb 9W,20,99,62,6,0
+2024-11-18,LED Bulb 9W,15,99,62,6,0
+2024-11-19,LED Bulb 9W,23,99,62,6,0
+2024-11-20,LED Bulb 9W,21,99,62,6,0
+2024-11-21,LED Bulb 9W,14,99,62,6,0
+2024-11-22,LED Bulb 9W,19,99,62,6,0
+2024-11-23,LED Bulb 9W,26,99,62,6,0
+2024-11-24,LED Bulb 9W,20,99,62,6,0
+2024-11-25,LED Bulb 9W,21,99,62,6,0
+2024-11-26,LED Bulb 9W,16,99,62,6,0
+2024-11-27,LED Bulb 9W,22,99,62,6,0
+2024-11-28,LED Bulb 9W,14,99,62,6,0
+2024-11-29,LED Bulb 9W,14,99,62,6,0
+2024-11-30,LED Bulb 9W,22,99,62,6,1
+2024-12-01,LED Bulb 9W,18,99,62,6,0
+2024-12-02,LED Bulb 9W,16,99,62,6,0
+2024-12-03,LED Bulb 9W,18,99,62,6,0
+2024-12-04,LED Bulb 9W,15,99,62,6,0
+2024-12-05,LED Bulb 9W,16,99,62,6,0
+2024-12-06,LED Bulb 9W,18,99,62,6,0
+2024-12-07,LED Bulb 9W,24,99,62,6,1
+2024-12-08,LED Bulb 9W,16,99,62,6,0
+2024-12-09,LED Bulb 9W,19,99,62,6,0
+2024-12-10,LED Bulb 9W,18,99,62,6,0
+2024-12-11,LED Bulb 9W,18,99,62,6,0
+2024-12-12,LED Bulb 9W,20,99,62,6,0
+2024-12-13,LED Bulb 9W,22,99,62,6,0
+2024-12-14,LED Bulb 9W,15,99,62,6,0
+2024-12-15,LED Bulb 9W,12,99,62,6,0
+2024-12-16,LED Bulb 9W,22,99,62,6,0
+2024-12-17,LED Bulb 9W,14,99,62,6,0
+2024-12-18,LED Bulb 9W,12,99,62,6,0
+2024-12-19,LED Bulb 9W,19,99,62,6,0
+2024-12-20,LED Bulb 9W,18,99,62,6,0
+2024-12-21,LED Bulb 9W,23,99,62,6,0
+2024-12-22,LED Bulb 9W,24,99,62,6,0
+2024-12-23,LED Bulb 9W,20,99,62,6,0
+2024-12-24,LED Bulb 9W,13,99,62,6,0
+2024-12-25,LED Bulb 9W,19,99,62,6,0
+2024-12-26,LED Bulb 9W,20,99,62,6,0
+2024-12-27,LED Bulb 9W,9,99,62,6,0
+2024-12-28,LED Bulb 9W,27,99,62,6,0
+2024-12-29,LED Bulb 9W,28,99,62,6,0
+2024-12-30,LED Bulb 9W,18,99,62,6,0
+2024-12-31,LED Bulb 9W,14,99,62,6,0
+2025-01-01,LED Bulb 9W,29,99,62,6,1
+2025-01-02,LED Bulb 9W,20,99,62,6,0
+2025-01-03,LED Bulb 9W,18,99,62,6,0
+2025-01-04,LED Bulb 9W,14,99,62,6,0
+2025-01-05,LED Bulb 9W,20,99,62,6,0
+2025-01-06,LED Bulb 9W,14,99,62,6,0
+2025-01-07,LED Bulb 9W,18,99,62,6,0
+2025-01-08,LED Bulb 9W,20,99,62,6,0
+2025-01-09,LED Bulb 9W,12,99,62,6,0
+2025-01-10,LED Bulb 9W,17,99,62,6,0
+2025-01-11,LED Bulb 9W,24,99,62,6,1
+2025-01-12,LED Bulb 9W,17,99,62,6,0
+2025-01-13,LED Bulb 9W,26,99,62,6,0
+2025-01-14,LED Bulb 9W,16,99,62,6,0
+2025-01-15,LED Bulb 9W,19,99,62,6,0
+2025-01-16,LED Bulb 9W,24,99,62,6,0
+2025-01-17,LED Bulb 9W,9,99,62,6,0
+2025-01-18,LED Bulb 9W,21,99,62,6,0
+2025-01-19,LED Bulb 9W,25,99,62,6,0
+2025-01-20,LED Bulb 9W,17,99,62,6,0
+2025-01-21,LED Bulb 9W,26,99,62,6,1
+2025-01-22,LED Bulb 9W,18,99,62,6,0
+2025-01-23,LED Bulb 9W,17,99,62,6,0
+2025-01-24,LED Bulb 9W,18,99,62,6,0
+2025-01-25,LED Bulb 9W,17,99,62,6,0
+2025-01-26,LED Bulb 9W,4,99,62,6,0
+2025-01-27,LED Bulb 9W,19,99,62,6,0
+2025-01-28,LED Bulb 9W,34,99,62,6,0
+2025-01-29,LED Bulb 9W,23,99,62,6,0
+2025-01-30,LED Bulb 9W,16,99,62,6,0
+2025-01-31,LED Bulb 9W,13,99,62,6,0
+2025-02-01,LED Bulb 9W,18,99,62,6,0
+2025-02-02,LED Bulb 9W,32,99,62,6,0
+2025-02-03,LED Bulb 9W,18,99,62,6,0
+2025-02-04,LED Bulb 9W,22,99,62,6,0
+2025-02-05,LED Bulb 9W,18,99,62,6,0
+2025-02-06,LED Bulb 9W,15,99,62,6,0
+2025-02-07,LED Bulb 9W,23,99,62,6,0
+2025-02-08,LED Bulb 9W,31,99,62,6,1
+2025-02-09,LED Bulb 9W,23,99,62,6,0
+2025-02-10,LED Bulb 9W,15,99,62,6,0
+2025-02-11,LED Bulb 9W,28,99,62,6,0
+2025-02-12,LED Bulb 9W,11,99,62,6,0
+2025-02-13,LED Bulb 9W,27,99,62,6,0
+2025-02-14,LED Bulb 9W,26,99,62,6,0
+2025-02-15,LED Bulb 9W,15,99,62,6,0
+2025-02-16,LED Bulb 9W,25,99,62,6,0
+2025-02-17,LED Bulb 9W,18,99,62,6,0
+2025-02-18,LED Bulb 9W,15,99,62,6,0
+2025-02-19,LED Bulb 9W,23,99,62,6,0
+2025-02-20,LED Bulb 9W,28,99,62,6,0
+2025-02-21,LED Bulb 9W,15,99,62,6,0
+2025-02-22,LED Bulb 9W,19,99,62,6,0
+2025-02-23,LED Bulb 9W,24,99,62,6,0
+2025-02-24,LED Bulb 9W,22,99,62,6,0
+2025-02-25,LED Bulb 9W,29,99,62,6,0
+2025-02-26,LED Bulb 9W,29,99,62,6,0
+2025-02-27,LED Bulb 9W,19,99,62,6,0
+2025-02-28,LED Bulb 9W,58,99,62,6,0
+2025-03-01,LED Bulb 9W,28,99,62,6,0
+2025-03-02,LED Bulb 9W,25,99,62,6,0
+2025-03-03,LED Bulb 9W,16,99,62,6,0
+2025-03-04,LED Bulb 9W,19,99,62,6,0
+2025-03-05,LED Bulb 9W,22,99,62,6,0
+2025-03-06,LED Bulb 9W,20,99,62,6,0
+2025-03-07,LED Bulb 9W,25,99,62,6,0
+2025-03-08,LED Bulb 9W,28,99,62,6,0
+2025-03-09,LED Bulb 9W,20,99,62,6,0
+2025-03-10,LED Bulb 9W,26,99,62,6,0
+2025-03-11,LED Bulb 9W,21,99,62,6,0
+2025-03-12,LED Bulb 9W,20,99,62,6,0
+2025-03-13,LED Bulb 9W,22,99,62,6,1
+2025-03-14,LED Bulb 9W,23,99,62,6,0
+2025-03-15,LED Bulb 9W,38,99,62,6,1
+2025-03-16,LED Bulb 9W,20,99,62,6,0
+2025-03-17,LED Bulb 9W,25,99,62,6,0
+2025-03-18,LED Bulb 9W,21,99,62,6,0
+2025-03-19,LED Bulb 9W,20,99,62,6,0
+2025-03-20,LED Bulb 9W,17,99,62,6,0
+2025-03-21,LED Bulb 9W,28,99,62,6,0
+2025-03-22,LED Bulb 9W,25,99,62,6,0
+2025-03-23,LED Bulb 9W,21,99,62,6,0
+2025-03-24,LED Bulb 9W,22,99,62,6,0
+2025-03-25,LED Bulb 9W,30,99,62,6,0
+2025-03-26,LED Bulb 9W,22,99,62,6,0
+2025-03-27,LED Bulb 9W,18,99,62,6,0
+2025-03-28,LED Bulb 9W,27,99,62,6,0
+2025-03-29,LED Bulb 9W,19,99,62,6,0
+2025-03-30,LED Bulb 9W,27,99,62,6,0
+2025-03-31,LED Bulb 9W,23,99,62,6,0
+2025-04-01,LED Bulb 9W,25,99,62,6,0
+2025-04-02,LED Bulb 9W,24,99,62,6,0
+2025-04-03,LED Bulb 9W,22,99,62,6,0
+2025-04-04,LED Bulb 9W,19,99,62,6,0
+2025-04-05,LED Bulb 9W,28,99,62,6,0
+2025-04-06,LED Bulb 9W,30,99,62,6,0
+2025-04-07,LED Bulb 9W,20,99,62,6,0
+2025-04-08,LED Bulb 9W,26,99,62,6,0
+2025-04-09,LED Bulb 9W,22,99,62,6,0
+2025-04-10,LED Bulb 9W,16,99,62,6,0
+2025-04-11,LED Bulb 9W,25,99,62,6,1
+2025-04-12,LED Bulb 9W,22,99,62,6,0
+2025-04-13,LED Bulb 9W,20,99,62,6,0
+2025-04-14,LED Bulb 9W,18,99,62,6,0
+2025-04-15,LED Bulb 9W,20,99,62,6,0
+2025-04-16,LED Bulb 9W,33,99,62,6,0
+2025-04-17,LED Bulb 9W,22,99,62,6,0
+2025-04-18,LED Bulb 9W,15,99,62,6,0
+2025-04-19,LED Bulb 9W,26,99,62,6,0
+2025-04-20,LED Bulb 9W,29,99,62,6,0
+2025-04-21,LED Bulb 9W,30,99,62,6,0
+2025-04-22,LED Bulb 9W,14,99,62,6,0
+2025-04-23,LED Bulb 9W,27,99,62,6,0
+2025-04-24,LED Bulb 9W,22,99,62,6,0
+2025-04-25,LED Bulb 9W,29,99,62,6,0
+2025-04-26,LED Bulb 9W,30,99,62,6,0
+2025-04-27,LED Bulb 9W,20,99,62,6,0
+2025-04-28,LED Bulb 9W,18,99,62,6,0
+2025-04-29,LED Bulb 9W,26,99,62,6,0
+2025-04-30,LED Bulb 9W,29,99,62,6,0
+2025-05-01,LED Bulb 9W,23,99,62,6,0
+2025-05-02,LED Bulb 9W,25,99,62,6,0
+2025-05-03,LED Bulb 9W,26,99,62,6,0
+2025-05-04,LED Bulb 9W,29,99,62,6,1
+2025-05-05,LED Bulb 9W,36,99,62,6,1
+2025-05-06,LED Bulb 9W,24,99,62,6,0
+2025-05-07,LED Bulb 9W,20,99,62,6,0
+2025-05-08,LED Bulb 9W,29,99,62,6,1
+2025-05-09,LED Bulb 9W,26,99,62,6,0
+2025-05-10,LED Bulb 9W,31,99,62,6,0
+2025-05-11,LED Bulb 9W,26,99,62,6,0
+2025-05-12,LED Bulb 9W,23,99,62,6,0
+2025-05-13,LED Bulb 9W,21,99,62,6,0
+2025-05-14,LED Bulb 9W,26,99,62,6,0
+2025-05-15,LED Bulb 9W,26,99,62,6,0
+2025-05-16,LED Bulb 9W,29,99,62,6,0
+2025-05-17,LED Bulb 9W,30,99,62,6,1
+2025-05-18,LED Bulb 9W,30,99,62,6,1
+2025-05-19,LED Bulb 9W,26,99,62,6,0
+2025-05-20,LED Bulb 9W,20,99,62,6,0
+2025-05-21,LED Bulb 9W,23,99,62,6,0
+2025-05-22,LED Bulb 9W,18,99,62,6,0
+2025-05-23,LED Bulb 9W,30,99,62,6,0
+2025-05-24,LED Bulb 9W,31,99,62,6,0
+2025-05-25,LED Bulb 9W,26,99,62,6,0
+2025-05-26,LED Bulb 9W,28,99,62,6,1
+2025-05-27,LED Bulb 9W,28,99,62,6,0
+2025-05-28,LED Bulb 9W,33,99,62,6,0
+2025-05-29,LED Bulb 9W,18,99,62,6,0
+2025-05-30,LED Bulb 9W,18,99,62,6,0
+2025-05-31,LED Bulb 9W,37,99,62,6,0
+2025-06-01,LED Bulb 9W,19,99,62,6,0
+2025-06-02,LED Bulb 9W,26,99,62,6,0
+2025-06-03,LED Bulb 9W,25,99,62,6,0
+2025-06-04,LED Bulb 9W,21,99,62,6,0
+2025-06-05,LED Bulb 9W,22,99,62,6,0
+2025-06-06,LED Bulb 9W,21,99,62,6,0
+2025-06-07,LED Bulb 9W,19,99,62,6,0
+2025-06-08,LED Bulb 9W,31,99,62,6,0
+2025-06-09,LED Bulb 9W,21,99,62,6,0
+2025-06-10,LED Bulb 9W,36,99,62,6,0
+2025-06-11,LED Bulb 9W,19,99,62,6,0
+2025-06-12,LED Bulb 9W,20,99,62,6,0
+2025-06-13,LED Bulb 9W,26,99,62,6,0
+2025-06-14,LED Bulb 9W,28,99,62,6,0
+2025-06-15,LED Bulb 9W,31,99,62,6,0
+2025-06-16,LED Bulb 9W,21,99,62,6,0
+2025-06-17,LED Bulb 9W,22,99,62,6,0
+2025-06-18,LED Bulb 9W,22,99,62,6,0
+2025-06-19,LED Bulb 9W,17,99,62,6,0
+2025-06-20,LED Bulb 9W,28,99,62,6,0
+2025-06-21,LED Bulb 9W,22,99,62,6,0
+2025-06-22,LED Bulb 9W,30,99,62,6,0
+2025-06-23,LED Bulb 9W,29,99,62,6,0
+2025-06-24,LED Bulb 9W,23,99,62,6,0
+2025-06-25,LED Bulb 9W,25,99,62,6,0
+2025-06-26,LED Bulb 9W,31,99,62,6,0
+2025-06-27,LED Bulb 9W,25,99,62,6,0
+2025-06-28,LED Bulb 9W,29,99,62,6,0
+2025-06-29,LED Bulb 9W,25,99,62,6,0
+2025-06-30,LED Bulb 9W,21,99,62,6,0
+2025-07-01,LED Bulb 9W,25,99,62,6,0
+2025-07-02,LED Bulb 9W,10,99,62,6,0
+2025-07-03,LED Bulb 9W,23,99,62,6,0
+2025-07-04,LED Bulb 9W,29,99,62,6,0
+2025-07-05,LED Bulb 9W,31,99,62,6,1
+2025-07-06,LED Bulb 9W,24,99,62,6,0
+2025-07-07,LED Bulb 9W,17,99,62,6,0
+2025-07-08,LED Bulb 9W,31,99,62,6,0
+2025-07-09,LED Bulb 9W,24,99,62,6,0
+2025-07-10,LED Bulb 9W,22,99,62,6,0
+2025-07-11,LED Bulb 9W,20,99,62,6,0
+2025-07-12,LED Bulb 9W,33,99,62,6,0
+2025-07-13,LED Bulb 9W,23,99,62,6,0
+2025-07-14,LED Bulb 9W,18,99,62,6,0
+2025-07-15,LED Bulb 9W,22,99,62,6,0
+2025-07-16,LED Bulb 9W,20,99,62,6,0
+2025-07-17,LED Bulb 9W,26,99,62,6,0
+2025-07-18,LED Bulb 9W,83,99,62,6,0
+2025-07-19,LED Bulb 9W,29,99,62,6,0
+2025-07-20,LED Bulb 9W,25,99,62,6,0
+2025-07-21,LED Bulb 9W,29,99,62,6,0
+2025-07-22,LED Bulb 9W,24,99,62,6,0
+2025-07-23,LED Bulb 9W,27,99,62,6,0
+2025-07-24,LED Bulb 9W,4,99,62,6,0
+2025-07-25,LED Bulb 9W,24,99,62,6,0
+2025-07-26,LED Bulb 9W,34,99,62,6,0
+2025-07-27,LED Bulb 9W,22,99,62,6,0
+2025-07-28,LED Bulb 9W,27,99,62,6,0
+2025-07-29,LED Bulb 9W,22,99,62,6,0
+2025-07-30,LED Bulb 9W,28,99,62,6,0
+2025-07-31,LED Bulb 9W,21,99,62,6,0
+2025-08-01,LED Bulb 9W,22,99,62,6,0
+2025-08-02,LED Bulb 9W,25,99,62,6,0
+2025-08-03,LED Bulb 9W,5,99,62,6,0
+2025-08-04,LED Bulb 9W,21,99,62,6,0
+2025-08-05,LED Bulb 9W,43,99,62,6,1
+2025-08-06,LED Bulb 9W,26,99,62,6,1
+2025-08-07,LED Bulb 9W,23,99,62,6,0
+2025-08-08,LED Bulb 9W,24,99,62,6,0
+2025-08-09,LED Bulb 9W,26,99,62,6,0
+2025-08-10,LED Bulb 9W,34,99,62,6,0
+2025-08-11,LED Bulb 9W,25,99,62,6,0
+2025-08-12,LED Bulb 9W,22,99,62,6,0
+2025-08-13,LED Bulb 9W,23,99,62,6,0
+2025-08-14,LED Bulb 9W,20,99,62,6,0
+2025-08-15,LED Bulb 9W,17,99,62,6,0
+2025-08-16,LED Bulb 9W,28,99,62,6,0
+2025-08-17,LED Bulb 9W,27,99,62,6,0
+2025-08-18,LED Bulb 9W,24,99,62,6,0
+2025-08-19,LED Bulb 9W,20,99,62,6,0
+2025-08-20,LED Bulb 9W,23,99,62,6,0
+2025-08-21,LED Bulb 9W,27,99,62,6,0
+2025-08-22,LED Bulb 9W,26,99,62,6,0
+2025-08-23,LED Bulb 9W,30,99,62,6,0
+2025-08-24,LED Bulb 9W,22,99,62,6,0
+2025-08-25,LED Bulb 9W,23,99,62,6,0
+2025-08-26,LED Bulb 9W,25,99,62,6,0
+2025-08-27,LED Bulb 9W,22,99,62,6,0
+2025-08-28,LED Bulb 9W,16,99,62,6,0
+2025-08-29,LED Bulb 9W,21,99,62,6,0
+2025-08-30,LED Bulb 9W,21,99,62,6,0
+2025-08-31,LED Bulb 9W,24,99,62,6,0
+2025-09-01,LED Bulb 9W,21,99,62,6,0
+2025-09-02,LED Bulb 9W,22,99,62,6,0
+2025-09-03,LED Bulb 9W,23,99,62,6,0
+2025-09-04,LED Bulb 9W,34,99,62,6,0
+2025-09-05,LED Bulb 9W,25,99,62,6,0
+2025-09-06,LED Bulb 9W,26,99,62,6,0
+2025-09-07,LED Bulb 9W,31,99,62,6,0
+2025-09-08,LED Bulb 9W,20,99,62,6,0
+2025-09-09,LED Bulb 9W,16,99,62,6,0
+2025-09-10,LED Bulb 9W,28,99,62,6,0
+2025-09-11,LED Bulb 9W,19,99,62,6,0
+2025-09-12,LED Bulb 9W,17,99,62,6,0
+2025-09-13,LED Bulb 9W,33,99,62,6,0
+2025-09-14,LED Bulb 9W,23,99,62,6,0
+2025-09-15,LED Bulb 9W,25,99,62,6,1
+2025-09-16,LED Bulb 9W,17,99,62,6,0
+2025-09-17,LED Bulb 9W,28,99,62,6,0
+2025-09-18,LED Bulb 9W,20,99,62,6,0
+2025-09-19,LED Bulb 9W,33,99,62,6,0
+2025-09-20,LED Bulb 9W,30,99,62,6,0
+2025-09-21,LED Bulb 9W,35,99,62,6,0
+2025-09-22,LED Bulb 9W,14,99,62,6,0
+2025-09-23,LED Bulb 9W,17,99,62,6,0
+2025-09-24,LED Bulb 9W,23,99,62,6,0
+2025-09-25,LED Bulb 9W,16,99,62,6,0
+2025-09-26,LED Bulb 9W,32,99,62,6,1
+2025-09-27,LED Bulb 9W,30,99,62,6,0
+2025-09-28,LED Bulb 9W,24,99,62,6,0
+2025-09-29,LED Bulb 9W,24,99,62,6,0
+2025-09-30,LED Bulb 9W,16,99,62,6,0
+2025-10-01,LED Bulb 9W,27,99,62,6,0
+2024-01-01,Detergent 1kg,23,110,78,4,0
+2024-01-02,Detergent 1kg,32,110,78,4,0
+2024-01-03,Detergent 1kg,28,110,78,4,0
+2024-01-04,Detergent 1kg,31,110,78,4,0
+2024-01-05,Detergent 1kg,29,110,78,4,0
+2024-01-06,Detergent 1kg,27,110,78,4,0
+2024-01-07,Detergent 1kg,43,110,78,4,0
+2024-01-08,Detergent 1kg,26,110,78,4,0
+2024-01-09,Detergent 1kg,31,110,78,4,0
+2024-01-10,Detergent 1kg,33,110,78,4,0
+2024-01-11,Detergent 1kg,11,110,78,4,0
+2024-01-12,Detergent 1kg,27,110,78,4,0
+2024-01-13,Detergent 1kg,52,110,78,4,0
+2024-01-14,Detergent 1kg,39,110,78,4,0
+2024-01-15,Detergent 1kg,35,110,78,4,0
+2024-01-16,Detergent 1kg,28,110,78,4,0
+2024-01-17,Detergent 1kg,25,110,78,4,0
+2024-01-18,Detergent 1kg,32,110,78,4,0
+2024-01-19,Detergent 1kg,24,110,78,4,0
+2024-01-20,Detergent 1kg,44,110,78,4,0
+2024-01-21,Detergent 1kg,36,110,78,4,0
+2024-01-22,Detergent 1kg,28,110,78,4,0
+2024-01-23,Detergent 1kg,30,110,78,4,0
+2024-01-24,Detergent 1kg,35,110,78,4,0
+2024-01-25,Detergent 1kg,34,110,78,4,0
+2024-01-26,Detergent 1kg,31,110,78,4,0
+2024-01-27,Detergent 1kg,39,110,78,4,0
+2024-01-28,Detergent 1kg,44,110,78,4,0
+2024-01-29,Detergent 1kg,28,110,78,4,0
+2024-01-30,Detergent 1kg,31,110,78,4,0
+2024-01-31,Detergent 1kg,29,110,78,4,0
+2024-02-01,Detergent 1kg,34,110,78,4,0
+2024-02-02,Detergent 1kg,27,110,78,4,0
+2024-02-03,Detergent 1kg,33,110,78,4,0
+2024-02-04,Detergent 1kg,42,110,78,4,1
+2024-02-05,Detergent 1kg,28,110,78,4,0
+2024-02-06,Detergent 1kg,32,110,78,4,0
+2024-02-07,Detergent 1kg,39,110,78,4,0
+2024-02-08,Detergent 1kg,54,110,78,4,1
+2024-02-09,Detergent 1kg,38,110,78,4,0
+2024-02-10,Detergent 1kg,41,110,78,4,0
+2024-02-11,Detergent 1kg,40,110,78,4,0
+2024-02-12,Detergent 1kg,34,110,78,4,0
+2024-02-13,Detergent 1kg,21,110,78,4,0
+2024-02-14,Detergent 1kg,28,110,78,4,0
+2024-02-15,Detergent 1kg,40,110,78,4,0
+2024-02-16,Detergent 1kg,39,110,78,4,1
+2024-02-17,Detergent 1kg,42,110,78,4,0
+2024-02-18,Detergent 1kg,42,110,78,4,0
+2024-02-19,Detergent 1kg,40,110,78,4,0
+2024-02-20,Detergent 1kg,35,110,78,4,0
+2024-02-21,Detergent 1kg,38,110,78,4,0
+2024-02-22,Detergent 1kg,27,110,78,4,0
+2024-02-23,Detergent 1kg,34,110,78,4,0
+2024-02-24,Detergent 1kg,40,110,78,4,0
+2024-02-25,Detergent 1kg,25,110,78,4,0
+2024-02-26,Detergent 1kg,37,110,78,4,0
+2024-02-27,Detergent 1kg,53,110,78,4,1
+2024-02-28,Detergent 1kg,46,110,78,4,0
+2024-02-29,Detergent 1kg,25,110,78,4,0
+2024-03-01,Detergent 1kg,26,110,78,4,0
+2024-03-02,Detergent 1kg,49,110,78,4,0
+2024-03-03,Detergent 1kg,7,110,78,4,0
+2024-03-04,Detergent 1kg,30,110,78,4,0
+2024-03-05,Detergent 1kg,48,110,78,4,0
+2024-03-06,Detergent 1kg,33,110,78,4,0
+2024-03-07,Detergent 1kg,30,110,78,4,0
+2024-03-08,Detergent 1kg,37,110,78,4,0
+2024-03-09,Detergent 1kg,50,110,78,4,0
+2024-03-10,Detergent 1kg,45,110,78,4,0
+2024-03-11,Detergent 1kg,35,110,78,4,0
+2024-03-12,Detergent 1kg,39,110,78,4,0
+2024-03-13,Detergent 1kg,52,110,78,4,1
+2024-03-14,Detergent 1kg,31,110,78,4,0
+2024-03-15,Detergent 1kg,38,110,78,4,0
+2024-03-16,Detergent 1kg,51,110,78,4,0
+2024-03-17,Detergent 1kg,46,110,78,4,0
+2024-03-18,Detergent 1kg,38,110,78,4,0
+2024-03-19,Detergent 1kg,38,110,78,4,0
+2024-03-20,Detergent 1kg,39,110,78,4,0
+2024-03-21,Detergent 1kg,34,110,78,4,0
+2024-03-22,Detergent 1kg,29,110,78,4,0
+2024-03-23,Detergent 1kg,47,110,78,4,0
+2024-03-24,Detergent 1kg,43,110,78,4,0
+2024-03-25,Detergent 1kg,35,110,78,4,0
+2024-03-26,Detergent 1kg,35,110,78,4,0
+2024-03-27,Detergent 1kg,38,110,78,4,0
+2024-03-28,Detergent 1kg,38,110,78,4,1
+2024-03-29,Detergent 1kg,29,110,78,4,0
+2024-03-30,Detergent 1kg,38,110,78,4,0
+2024-03-31,Detergent 1kg,40,110,78,4,0
+2024-04-01,Detergent 1kg,28,110,78,4,0
+2024-04-02,Detergent 1kg,33,110,78,4,0
+2024-04-03,Detergent 1kg,33,110,78,4,0
+2024-04-04,Detergent 1kg,32,110,78,4,0
+2024-04-05,Detergent 1kg,30,110,78,4,0
+2024-04-06,Detergent 1kg,45,110,78,4,0
+2024-04-07,Detergent 1kg,55,110,78,4,0
+2024-04-08,Detergent 1kg,32,110,78,4,0
+2024-04-09,Detergent 1kg,31,110,78,4,0
+2024-04-10,Detergent 1kg,33,110,78,4,0
+2024-04-11,Detergent 1kg,31,110,78,4,0
+2024-04-12,Detergent 1kg,33,110,78,4,0
+2024-04-13,Detergent 1kg,53,110,78,4,0
+2024-04-14,Detergent 1kg,44,110,78,4,0
+2024-04-15,Detergent 1kg,40,110,78,4,0
+2024-04-16,Detergent 1kg,35,110,78,4,0
+2024-04-17,Detergent 1kg,32,110,78,4,0
+2024-04-18,Detergent 1kg,46,110,78,4,0
+2024-04-19,Detergent 1kg,35,110,78,4,0
+2024-04-20,Detergent 1kg,33,110,78,4,0
+2024-04-21,Detergent 1kg,58,110,78,4,0
+2024-04-22,Detergent 1kg,33,110,78,4,0
+2024-04-23,Detergent 1kg,37,110,78,4,0
+2024-04-24,Detergent 1kg,39,110,78,4,0
+2024-04-25,Detergent 1kg,36,110,78,4,0
+2024-04-26,Detergent 1kg,36,110,78,4,0
+2024-04-27,Detergent 1kg,50,110,78,4,0
+2024-04-28,Detergent 1kg,39,110,78,4,0
+2024-04-29,Detergent 1kg,47,110,78,4,0
+2024-04-30,Detergent 1kg,39,110,78,4,0
+2024-05-01,Detergent 1kg,39,110,78,4,0
+2024-05-02,Detergent 1kg,24,110,78,4,0
+2024-05-03,Detergent 1kg,53,110,78,4,1
+2024-05-04,Detergent 1kg,45,110,78,4,0
+2024-05-05,Detergent 1kg,52,110,78,4,0
+2024-05-06,Detergent 1kg,99,110,78,4,0
+2024-05-07,Detergent 1kg,37,110,78,4,0
+2024-05-08,Detergent 1kg,39,110,78,4,0
+2024-05-09,Detergent 1kg,47,110,78,4,0
+2024-05-10,Detergent 1kg,37,110,78,4,0
+2024-05-11,Detergent 1kg,53,110,78,4,0
+2024-05-12,Detergent 1kg,54,110,78,4,0
+2024-05-13,Detergent 1kg,38,110,78,4,0
+2024-05-14,Detergent 1kg,56,110,78,4,0
+2024-05-15,Detergent 1kg,41,110,78,4,0
+2024-05-16,Detergent 1kg,30,110,78,4,0
+2024-05-17,Detergent 1kg,35,110,78,4,0
+2024-05-18,Detergent 1kg,57,110,78,4,0
+2024-05-19,Detergent 1kg,54,110,78,4,0
+2024-05-20,Detergent 1kg,32,110,78,4,0
+2024-05-21,Detergent 1kg,41,110,78,4,0
+2024-05-22,Detergent 1kg,33,110,78,4,0
+2024-05-23,Detergent 1kg,36,110,78,4,0
+2024-05-24,Detergent 1kg,35,110,78,4,0
+2024-05-25,Detergent 1kg,50,110,78,4,0
+2024-05-26,Detergent 1kg,63,110,78,4,1
+2024-05-27,Detergent 1kg,41,110,78,4,0
+2024-05-28,Detergent 1kg,42,110,78,4,0
+2024-05-29,Detergent 1kg,29,110,78,4,0
+2024-05-30,Detergent 1kg,36,110,78,4,0
+2024-05-31,Detergent 1kg,30,110,78,4,0
+2024-06-01,Detergent 1kg,44,110,78,4,0
+2024-06-02,Detergent 1kg,53,110,78,4,0
+2024-06-03,Detergent 1kg,37,110,78,4,0
+2024-06-04,Detergent 1kg,43,110,78,4,0
+2024-06-05,Detergent 1kg,45,110,78,4,0
+2024-06-06,Detergent 1kg,41,110,78,4,0
+2024-06-07,Detergent 1kg,45,110,78,4,0
+2024-06-08,Detergent 1kg,57,110,78,4,1
+2024-06-09,Detergent 1kg,49,110,78,4,0
+2024-06-10,Detergent 1kg,45,110,78,4,0
+2024-06-11,Detergent 1kg,42,110,78,4,0
+2024-06-12,Detergent 1kg,31,110,78,4,0
+2024-06-13,Detergent 1kg,25,110,78,4,0
+2024-06-14,Detergent 1kg,42,110,78,4,0
+2024-06-15,Detergent 1kg,49,110,78,4,0
+2024-06-16,Detergent 1kg,59,110,78,4,0
+2024-06-17,Detergent 1kg,40,110,78,4,0
+2024-06-18,Detergent 1kg,30,110,78,4,0
+2024-06-19,Detergent 1kg,42,110,78,4,0
+2024-06-20,Detergent 1kg,63,110,78,4,0
+2024-06-21,Detergent 1kg,39,110,78,4,0
+2024-06-22,Detergent 1kg,53,110,78,4,0
+2024-06-23,Detergent 1kg,36,110,78,4,0
+2024-06-24,Detergent 1kg,42,110,78,4,0
+2024-06-25,Detergent 1kg,46,110,78,4,0
+2024-06-26,Detergent 1kg,39,110,78,4,0
+2024-06-27,Detergent 1kg,35,110,78,4,0
+2024-06-28,Detergent 1kg,46,110,78,4,0
+2024-06-29,Detergent 1kg,46,110,78,4,0
+2024-06-30,Detergent 1kg,51,110,78,4,0
+2024-07-01,Detergent 1kg,37,110,78,4,0
+2024-07-02,Detergent 1kg,32,110,78,4,0
+2024-07-03,Detergent 1kg,29,110,78,4,0
+2024-07-04,Detergent 1kg,30,110,78,4,0
+2024-07-05,Detergent 1kg,35,110,78,4,0
+2024-07-06,Detergent 1kg,40,110,78,4,0
+2024-07-07,Detergent 1kg,43,110,78,4,0
+2024-07-08,Detergent 1kg,44,110,78,4,0
+2024-07-09,Detergent 1kg,44,110,78,4,0
+2024-07-10,Detergent 1kg,48,110,78,4,0
+2024-07-11,Detergent 1kg,40,110,78,4,0
+2024-07-12,Detergent 1kg,34,110,78,4,0
+2024-07-13,Detergent 1kg,40,110,78,4,0
+2024-07-14,Detergent 1kg,57,110,78,4,0
+2024-07-15,Detergent 1kg,28,110,78,4,0
+2024-07-16,Detergent 1kg,36,110,78,4,0
+2024-07-17,Detergent 1kg,41,110,78,4,0
+2024-07-18,Detergent 1kg,51,110,78,4,1
+2024-07-19,Detergent 1kg,41,110,78,4,0
+2024-07-20,Detergent 1kg,42,110,78,4,0
+2024-07-21,Detergent 1kg,48,110,78,4,0
+2024-07-22,Detergent 1kg,41,110,78,4,0
+2024-07-23,Detergent 1kg,49,110,78,4,0
+2024-07-24,Detergent 1kg,27,110,78,4,0
+2024-07-25,Detergent 1kg,46,110,78,4,0
+2024-07-26,Detergent 1kg,41,110,78,4,0
+2024-07-27,Detergent 1kg,57,110,78,4,1
+2024-07-28,Detergent 1kg,49,110,78,4,0
+2024-07-29,Detergent 1kg,42,110,78,4,0
+2024-07-30,Detergent 1kg,37,110,78,4,0
+2024-07-31,Detergent 1kg,29,110,78,4,0
+2024-08-01,Detergent 1kg,46,110,78,4,0
+2024-08-02,Detergent 1kg,41,110,78,4,0
+2024-08-03,Detergent 1kg,9,110,78,4,0
+2024-08-04,Detergent 1kg,40,110,78,4,0
+2024-08-05,Detergent 1kg,29,110,78,4,0
+2024-08-06,Detergent 1kg,43,110,78,4,1
+2024-08-07,Detergent 1kg,30,110,78,4,0
+2024-08-08,Detergent 1kg,29,110,78,4,0
+2024-08-09,Detergent 1kg,35,110,78,4,0
+2024-08-10,Detergent 1kg,50,110,78,4,0
+2024-08-11,Detergent 1kg,50,110,78,4,0
+2024-08-12,Detergent 1kg,34,110,78,4,0
+2024-08-13,Detergent 1kg,31,110,78,4,0
+2024-08-14,Detergent 1kg,46,110,78,4,1
+2024-08-15,Detergent 1kg,40,110,78,4,0
+2024-08-16,Detergent 1kg,38,110,78,4,0
+2024-08-17,Detergent 1kg,29,110,78,4,0
+2024-08-18,Detergent 1kg,38,110,78,4,0
+2024-08-19,Detergent 1kg,37,110,78,4,0
+2024-08-20,Detergent 1kg,36,110,78,4,0
+2024-08-21,Detergent 1kg,34,110,78,4,0
+2024-08-22,Detergent 1kg,42,110,78,4,0
+2024-08-23,Detergent 1kg,32,110,78,4,0
+2024-08-24,Detergent 1kg,46,110,78,4,0
+2024-08-25,Detergent 1kg,45,110,78,4,0
+2024-08-26,Detergent 1kg,48,110,78,4,1
+2024-08-27,Detergent 1kg,37,110,78,4,0
+2024-08-28,Detergent 1kg,44,110,78,4,0
+2024-08-29,Detergent 1kg,46,110,78,4,1
+2024-08-30,Detergent 1kg,32,110,78,4,0
+2024-08-31,Detergent 1kg,53,110,78,4,1
+2024-09-01,Detergent 1kg,37,110,78,4,0
+2024-09-02,Detergent 1kg,38,110,78,4,0
+2024-09-03,Detergent 1kg,39,110,78,4,0
+2024-09-04,Detergent 1kg,32,110,78,4,0
+2024-09-05,Detergent 1kg,35,110,78,4,0
+2024-09-06,Detergent 1kg,35,110,78,4,0
+2024-09-07,Detergent 1kg,47,110,78,4,0
+2024-09-08,Detergent 1kg,59,110,78,4,0
+2024-09-09,Detergent 1kg,45,110,78,4,0
+2024-09-10,Detergent 1kg,35,110,78,4,0
+2024-09-11,Detergent 1kg,35,110,78,4,0
+2024-09-12,Detergent 1kg,37,110,78,4,0
+2024-09-13,Detergent 1kg,33,110,78,4,0
+2024-09-14,Detergent 1kg,45,110,78,4,0
+2024-09-15,Detergent 1kg,54,110,78,4,0
+2024-09-16,Detergent 1kg,31,110,78,4,0
+2024-09-17,Detergent 1kg,31,110,78,4,0
+2024-09-18,Detergent 1kg,29,110,78,4,0
+2024-09-19,Detergent 1kg,28,110,78,4,0
+2024-09-20,Detergent 1kg,41,110,78,4,0
+2024-09-21,Detergent 1kg,39,110,78,4,0
+2024-09-22,Detergent 1kg,42,110,78,4,0
+2024-09-23,Detergent 1kg,33,110,78,4,0
+2024-09-24,Detergent 1kg,33,110,78,4,0
+2024-09-25,Detergent 1kg,36,110,78,4,0
+2024-09-26,Detergent 1kg,39,110,78,4,0
+2024-09-27,Detergent 1kg,34,110,78,4,0
+2024-09-28,Detergent 1kg,30,110,78,4,0
+2024-09-29,Detergent 1kg,41,110,78,4,0
+2024-09-30,Detergent 1kg,33,110,78,4,0
+2024-10-01,Detergent 1kg,37,110,78,4,0
+2024-10-02,Detergent 1kg,40,110,78,4,0
+2024-10-03,Detergent 1kg,32,110,78,4,0
+2024-10-04,Detergent 1kg,37,110,78,4,0
+2024-10-05,Detergent 1kg,37,110,78,4,0
+2024-10-06,Detergent 1kg,45,110,78,4,0
+2024-10-07,Detergent 1kg,49,110,78,4,0
+2024-10-08,Detergent 1kg,28,110,78,4,0
+2024-10-09,Detergent 1kg,31,110,78,4,0
+2024-10-10,Detergent 1kg,33,110,78,4,0
+2024-10-11,Detergent 1kg,40,110,78,4,0
+2024-10-12,Detergent 1kg,43,110,78,4,0
+2024-10-13,Detergent 1kg,41,110,78,4,0
+2024-10-14,Detergent 1kg,38,110,78,4,0
+2024-10-15,Detergent 1kg,29,110,78,4,0
+2024-10-16,Detergent 1kg,27,110,78,4,0
+2024-10-17,Detergent 1kg,35,110,78,4,0
+2024-10-18,Detergent 1kg,32,110,78,4,0
+2024-10-19,Detergent 1kg,50,110,78,4,0
+2024-10-20,Detergent 1kg,47,110,78,4,0
+2024-10-21,Detergent 1kg,43,110,78,4,0
+2024-10-22,Detergent 1kg,33,110,78,4,0
+2024-10-23,Detergent 1kg,26,110,78,4,0
+2024-10-24,Detergent 1kg,31,110,78,4,0
+2024-10-25,Detergent 1kg,23,110,78,4,0
+2024-10-26,Detergent 1kg,48,110,78,4,0
+2024-10-27,Detergent 1kg,33,110,78,4,0
+2024-10-28,Detergent 1kg,29,110,78,4,0
+2024-10-29,Detergent 1kg,29,110,78,4,0
+2024-10-30,Detergent 1kg,37,110,78,4,0
+2024-10-31,Detergent 1kg,33,110,78,4,0
+2024-11-01,Detergent 1kg,35,110,78,4,0
+2024-11-02,Detergent 1kg,49,110,78,4,0
+2024-11-03,Detergent 1kg,45,110,78,4,0
+2024-11-04,Detergent 1kg,34,110,78,4,0
+2024-11-05,Detergent 1kg,29,110,78,4,0
+2024-11-06,Detergent 1kg,29,110,78,4,0
+2024-11-07,Detergent 1kg,39,110,78,4,0
+2024-11-08,Detergent 1kg,42,110,78,4,0
+2024-11-09,Detergent 1kg,40,110,78,4,0
+2024-11-10,Detergent 1kg,36,110,78,4,0
+2024-11-11,Detergent 1kg,24,110,78,4,0
+2024-11-12,Detergent 1kg,42,110,78,4,0
+2024-11-13,Detergent 1kg,34,110,78,4,0
+2024-11-14,Detergent 1kg,36,110,78,4,0
+2024-11-15,Detergent 1kg,27,110,78,4,0
+2024-11-16,Detergent 1kg,46,110,78,4,0
+2024-11-17,Detergent 1kg,47,110,78,4,0
+2024-11-18,Detergent 1kg,43,110,78,4,1
+2024-11-19,Detergent 1kg,28,110,78,4,0
+2024-11-20,Detergent 1kg,34,110,78,4,0
+2024-11-21,Detergent 1kg,28,110,78,4,0
+2024-11-22,Detergent 1kg,25,110,78,4,0
+2024-11-23,Detergent 1kg,35,110,78,4,0
+2024-11-24,Detergent 1kg,43,110,78,4,0
+2024-11-25,Detergent 1kg,34,110,78,4,0
+2024-11-26,Detergent 1kg,48,110,78,4,0
+2024-11-27,Detergent 1kg,34,110,78,4,0
+2024-11-28,Detergent 1kg,36,110,78,4,0
+2024-11-29,Detergent 1kg,33,110,78,4,0
+2024-11-30,Detergent 1kg,58,110,78,4,1
+2024-12-01,Detergent 1kg,36,110,78,4,0
+2024-12-02,Detergent 1kg,45,110,78,4,1
+2024-12-03,Detergent 1kg,32,110,78,4,0
+2024-12-04,Detergent 1kg,7,110,78,4,0
+2024-12-05,Detergent 1kg,31,110,78,4,0
+2024-12-06,Detergent 1kg,29,110,78,4,0
+2024-12-07,Detergent 1kg,37,110,78,4,0
+2024-12-08,Detergent 1kg,39,110,78,4,0
+2024-12-09,Detergent 1kg,47,110,78,4,0
+2024-12-10,Detergent 1kg,28,110,78,4,0
+2024-12-11,Detergent 1kg,33,110,78,4,0
+2024-12-12,Detergent 1kg,56,110,78,4,1
+2024-12-13,Detergent 1kg,28,110,78,4,0
+2024-12-14,Detergent 1kg,55,110,78,4,1
+2024-12-15,Detergent 1kg,42,110,78,4,0
+2024-12-16,Detergent 1kg,40,110,78,4,1
+2024-12-17,Detergent 1kg,39,110,78,4,0
+2024-12-18,Detergent 1kg,31,110,78,4,0
+2024-12-19,Detergent 1kg,33,110,78,4,0
+2024-12-20,Detergent 1kg,38,110,78,4,0
+2024-12-21,Detergent 1kg,40,110,78,4,0
+2024-12-22,Detergent 1kg,41,110,78,4,0
+2024-12-23,Detergent 1kg,33,110,78,4,0
+2024-12-24,Detergent 1kg,44,110,78,4,0
+2024-12-25,Detergent 1kg,27,110,78,4,0
+2024-12-26,Detergent 1kg,38,110,78,4,0
+2024-12-27,Detergent 1kg,42,110,78,4,0
+2024-12-28,Detergent 1kg,51,110,78,4,0
+2024-12-29,Detergent 1kg,51,110,78,4,1
+2024-12-30,Detergent 1kg,39,110,78,4,0
+2024-12-31,Detergent 1kg,54,110,78,4,1
+2025-01-01,Detergent 1kg,46,110,78,4,1
+2025-01-02,Detergent 1kg,39,110,78,4,0
+2025-01-03,Detergent 1kg,35,110,78,4,0
+2025-01-04,Detergent 1kg,39,110,78,4,0
+2025-01-05,Detergent 1kg,49,110,78,4,0
+2025-01-06,Detergent 1kg,35,110,78,4,0
+2025-01-07,Detergent 1kg,38,110,78,4,0
+2025-01-08,Detergent 1kg,40,110,78,4,0
+2025-01-09,Detergent 1kg,34,110,78,4,0
+2025-01-10,Detergent 1kg,34,110,78,4,0
+2025-01-11,Detergent 1kg,40,110,78,4,0
+2025-01-12,Detergent 1kg,54,110,78,4,0
+2025-01-13,Detergent 1kg,33,110,78,4,0
+2025-01-14,Detergent 1kg,34,110,78,4,0
+2025-01-15,Detergent 1kg,40,110,78,4,0
+2025-01-16,Detergent 1kg,38,110,78,4,0
+2025-01-17,Detergent 1kg,45,110,78,4,1
+2025-01-18,Detergent 1kg,56,110,78,4,1
+2025-01-19,Detergent 1kg,49,110,78,4,0
+2025-01-20,Detergent 1kg,36,110,78,4,0
+2025-01-21,Detergent 1kg,40,110,78,4,0
+2025-01-22,Detergent 1kg,58,110,78,4,1
+2025-01-23,Detergent 1kg,46,110,78,4,0
+2025-01-24,Detergent 1kg,36,110,78,4,0
+2025-01-25,Detergent 1kg,38,110,78,4,0
+2025-01-26,Detergent 1kg,48,110,78,4,0
+2025-01-27,Detergent 1kg,34,110,78,4,0
+2025-01-28,Detergent 1kg,29,110,78,4,0
+2025-01-29,Detergent 1kg,35,110,78,4,0
+2025-01-30,Detergent 1kg,32,110,78,4,0
+2025-01-31,Detergent 1kg,37,110,78,4,0
+2025-02-01,Detergent 1kg,47,110,78,4,0
+2025-02-02,Detergent 1kg,57,110,78,4,1
+2025-02-03,Detergent 1kg,44,110,78,4,0
+2025-02-04,Detergent 1kg,42,110,78,4,0
+2025-02-05,Detergent 1kg,37,110,78,4,0
+2025-02-06,Detergent 1kg,40,110,78,4,0
+2025-02-07,Detergent 1kg,39,110,78,4,0
+2025-02-08,Detergent 1kg,54,110,78,4,0
+2025-02-09,Detergent 1kg,39,110,78,4,0
+2025-02-10,Detergent 1kg,33,110,78,4,0
+2025-02-11,Detergent 1kg,32,110,78,4,0
+2025-02-12,Detergent 1kg,37,110,78,4,0
+2025-02-13,Detergent 1kg,32,110,78,4,0
+2025-02-14,Detergent 1kg,40,110,78,4,0
+2025-02-15,Detergent 1kg,41,110,78,4,0
+2025-02-16,Detergent 1kg,51,110,78,4,1
+2025-02-17,Detergent 1kg,59,110,78,4,0
+2025-02-18,Detergent 1kg,42,110,78,4,1
+2025-02-19,Detergent 1kg,41,110,78,4,0
+2025-02-20,Detergent 1kg,28,110,78,4,0
+2025-02-21,Detergent 1kg,44,110,78,4,0
+2025-02-22,Detergent 1kg,62,110,78,4,0
+2025-02-23,Detergent 1kg,52,110,78,4,0
+2025-02-24,Detergent 1kg,32,110,78,4,0
+2025-02-25,Detergent 1kg,40,110,78,4,0
+2025-02-26,Detergent 1kg,48,110,78,4,1
+2025-02-27,Detergent 1kg,47,110,78,4,1
+2025-02-28,Detergent 1kg,29,110,78,4,0
+2025-03-01,Detergent 1kg,176,110,78,4,0
+2025-03-02,Detergent 1kg,44,110,78,4,0
+2025-03-03,Detergent 1kg,38,110,78,4,0
+2025-03-04,Detergent 1kg,40,110,78,4,0
+2025-03-05,Detergent 1kg,43,110,78,4,0
+2025-03-06,Detergent 1kg,30,110,78,4,0
+2025-03-07,Detergent 1kg,34,110,78,4,0
+2025-03-08,Detergent 1kg,56,110,78,4,1
+2025-03-09,Detergent 1kg,44,110,78,4,0
+2025-03-10,Detergent 1kg,27,110,78,4,0
+2025-03-11,Detergent 1kg,45,110,78,4,0
+2025-03-12,Detergent 1kg,44,110,78,4,0
+2025-03-13,Detergent 1kg,39,110,78,4,0
+2025-03-14,Detergent 1kg,35,110,78,4,0
+2025-03-15,Detergent 1kg,56,110,78,4,0
+2025-03-16,Detergent 1kg,45,110,78,4,0
+2025-03-17,Detergent 1kg,33,110,78,4,0
+2025-03-18,Detergent 1kg,43,110,78,4,0
+2025-03-19,Detergent 1kg,26,110,78,4,0
+2025-03-20,Detergent 1kg,42,110,78,4,0
+2025-03-21,Detergent 1kg,31,110,78,4,0
+2025-03-22,Detergent 1kg,46,110,78,4,0
+2025-03-23,Detergent 1kg,54,110,78,4,0
+2025-03-24,Detergent 1kg,37,110,78,4,0
+2025-03-25,Detergent 1kg,49,110,78,4,0
+2025-03-26,Detergent 1kg,41,110,78,4,0
+2025-03-27,Detergent 1kg,35,110,78,4,0
+2025-03-28,Detergent 1kg,42,110,78,4,0
+2025-03-29,Detergent 1kg,43,110,78,4,0
+2025-03-30,Detergent 1kg,42,110,78,4,0
+2025-03-31,Detergent 1kg,42,110,78,4,0
+2025-04-01,Detergent 1kg,34,110,78,4,0
+2025-04-02,Detergent 1kg,37,110,78,4,0
+2025-04-03,Detergent 1kg,39,110,78,4,0
+2025-04-04,Detergent 1kg,34,110,78,4,0
+2025-04-05,Detergent 1kg,53,110,78,4,0
+2025-04-06,Detergent 1kg,59,110,78,4,0
+2025-04-07,Detergent 1kg,45,110,78,4,0
+2025-04-08,Detergent 1kg,63,110,78,4,0
+2025-04-09,Detergent 1kg,44,110,78,4,0
+2025-04-10,Detergent 1kg,42,110,78,4,0
+2025-04-11,Detergent 1kg,49,110,78,4,0
+2025-04-12,Detergent 1kg,44,110,78,4,0
+2025-04-13,Detergent 1kg,63,110,78,4,0
+2025-04-14,Detergent 1kg,47,110,78,4,0
+2025-04-15,Detergent 1kg,33,110,78,4,0
+2025-04-16,Detergent 1kg,47,110,78,4,0
+2025-04-17,Detergent 1kg,39,110,78,4,0
+2025-04-18,Detergent 1kg,34,110,78,4,0
+2025-04-19,Detergent 1kg,49,110,78,4,0
+2025-04-20,Detergent 1kg,57,110,78,4,0
+2025-04-21,Detergent 1kg,51,110,78,4,0
+2025-04-22,Detergent 1kg,42,110,78,4,0
+2025-04-23,Detergent 1kg,49,110,78,4,0
+2025-04-24,Detergent 1kg,33,110,78,4,0
+2025-04-25,Detergent 1kg,43,110,78,4,0
+2025-04-26,Detergent 1kg,55,110,78,4,0
+2025-04-27,Detergent 1kg,50,110,78,4,0
+2025-04-28,Detergent 1kg,49,110,78,4,0
+2025-04-29,Detergent 1kg,59,110,78,4,0
+2025-04-30,Detergent 1kg,52,110,78,4,0
+2025-05-01,Detergent 1kg,46,110,78,4,0
+2025-05-02,Detergent 1kg,37,110,78,4,0
+2025-05-03,Detergent 1kg,67,110,78,4,0
+2025-05-04,Detergent 1kg,68,110,78,4,0
+2025-05-05,Detergent 1kg,52,110,78,4,0
+2025-05-06,Detergent 1kg,46,110,78,4,0
+2025-05-07,Detergent 1kg,55,110,78,4,0
+2025-05-08,Detergent 1kg,32,110,78,4,0
+2025-05-09,Detergent 1kg,29,110,78,4,0
+2025-05-10,Detergent 1kg,56,110,78,4,0
+2025-05-11,Detergent 1kg,56,110,78,4,0
+2025-05-12,Detergent 1kg,40,110,78,4,0
+2025-05-13,Detergent 1kg,40,110,78,4,0
+2025-05-14,Detergent 1kg,40,110,78,4,0
+2025-05-15,Detergent 1kg,56,110,78,4,1
+2025-05-16,Detergent 1kg,49,110,78,4,0
+2025-05-17,Detergent 1kg,54,110,78,4,0
+2025-05-18,Detergent 1kg,55,110,78,4,0
+2025-05-19,Detergent 1kg,53,110,78,4,0
+2025-05-20,Detergent 1kg,35,110,78,4,0
+2025-05-21,Detergent 1kg,44,110,78,4,0
+2025-05-22,Detergent 1kg,39,110,78,4,0
+2025-05-23,Detergent 1kg,40,110,78,4,0
+2025-05-24,Detergent 1kg,64,110,78,4,0
+2025-05-25,Detergent 1kg,57,110,78,4,0
+2025-05-26,Detergent 1kg,51,110,78,4,0
+2025-05-27,Detergent 1kg,49,110,78,4,0
+2025-05-28,Detergent 1kg,37,110,78,4,0
+2025-05-29,Detergent 1kg,40,110,78,4,0
+2025-05-30,Detergent 1kg,40,110,78,4,0
+2025-05-31,Detergent 1kg,64,110,78,4,0
+2025-06-01,Detergent 1kg,41,110,78,4,0
+2025-06-02,Detergent 1kg,45,110,78,4,0
+2025-06-03,Detergent 1kg,51,110,78,4,0
+2025-06-04,Detergent 1kg,32,110,78,4,0
+2025-06-05,Detergent 1kg,45,110,78,4,0
+2025-06-06,Detergent 1kg,36,110,78,4,0
+2025-06-07,Detergent 1kg,53,110,78,4,0
+2025-06-08,Detergent 1kg,48,110,78,4,0
+2025-06-09,Detergent 1kg,43,110,78,4,0
+2025-06-10,Detergent 1kg,41,110,78,4,0
+2025-06-11,Detergent 1kg,45,110,78,4,0
+2025-06-12,Detergent 1kg,47,110,78,4,0
+2025-06-13,Detergent 1kg,42,110,78,4,0
+2025-06-14,Detergent 1kg,57,110,78,4,0
+2025-06-15,Detergent 1kg,53,110,78,4,0
+2025-06-16,Detergent 1kg,43,110,78,4,0
+2025-06-17,Detergent 1kg,39,110,78,4,0
+2025-06-18,Detergent 1kg,37,110,78,4,0
+2025-06-19,Detergent 1kg,42,110,78,4,0
+2025-06-20,Detergent 1kg,36,110,78,4,0
+2025-06-21,Detergent 1kg,54,110,78,4,0
+2025-06-22,Detergent 1kg,44,110,78,4,0
+2025-06-23,Detergent 1kg,32,110,78,4,0
+2025-06-24,Detergent 1kg,44,110,78,4,0
+2025-06-25,Detergent 1kg,41,110,78,4,0
+2025-06-26,Detergent 1kg,40,110,78,4,0
+2025-06-27,Detergent 1kg,33,110,78,4,0
+2025-06-28,Detergent 1kg,58,110,78,4,0
+2025-06-29,Detergent 1kg,54,110,78,4,0
+2025-06-30,Detergent 1kg,51,110,78,4,0
+2025-07-01,Detergent 1kg,32,110,78,4,0
+2025-07-02,Detergent 1kg,51,110,78,4,0
+2025-07-03,Detergent 1kg,40,110,78,4,0
+2025-07-04,Detergent 1kg,37,110,78,4,0
+2025-07-05,Detergent 1kg,56,110,78,4,0
+2025-07-06,Detergent 1kg,56,110,78,4,0
+2025-07-07,Detergent 1kg,59,110,78,4,0
+2025-07-08,Detergent 1kg,61,110,78,4,0
+2025-07-09,Detergent 1kg,50,110,78,4,0
+2025-07-10,Detergent 1kg,45,110,78,4,0
+2025-07-11,Detergent 1kg,34,110,78,4,0
+2025-07-12,Detergent 1kg,49,110,78,4,0
+2025-07-13,Detergent 1kg,64,110,78,4,0
+2025-07-14,Detergent 1kg,51,110,78,4,0
+2025-07-15,Detergent 1kg,42,110,78,4,0
+2025-07-16,Detergent 1kg,45,110,78,4,0
+2025-07-17,Detergent 1kg,47,110,78,4,0
+2025-07-18,Detergent 1kg,49,110,78,4,0
+2025-07-19,Detergent 1kg,78,110,78,4,1
+2025-07-20,Detergent 1kg,60,110,78,4,0
+2025-07-21,Detergent 1kg,45,110,78,4,0
+2025-07-22,Detergent 1kg,36,110,78,4,0
+2025-07-23,Detergent 1kg,40,110,78,4,0
+2025-07-24,Detergent 1kg,35,110,78,4,0
+2025-07-25,Detergent 1kg,46,110,78,4,0
+2025-07-26,Detergent 1kg,59,110,78,4,0
+2025-07-27,Detergent 1kg,50,110,78,4,0
+2025-07-28,Detergent 1kg,35,110,78,4,0
+2025-07-29,Detergent 1kg,33,110,78,4,0
+2025-07-30,Detergent 1kg,30,110,78,4,0
+2025-07-31,Detergent 1kg,49,110,78,4,0
+2025-08-01,Detergent 1kg,55,110,78,4,0
+2025-08-02,Detergent 1kg,56,110,78,4,0
+2025-08-03,Detergent 1kg,54,110,78,4,0
+2025-08-04,Detergent 1kg,37,110,78,4,0
+2025-08-05,Detergent 1kg,46,110,78,4,0
+2025-08-06,Detergent 1kg,33,110,78,4,0
+2025-08-07,Detergent 1kg,48,110,78,4,0
+2025-08-08,Detergent 1kg,41,110,78,4,0
+2025-08-09,Detergent 1kg,67,110,78,4,0
+2025-08-10,Detergent 1kg,46,110,78,4,0
+2025-08-11,Detergent 1kg,50,110,78,4,0
+2025-08-12,Detergent 1kg,48,110,78,4,0
+2025-08-13,Detergent 1kg,34,110,78,4,0
+2025-08-14,Detergent 1kg,36,110,78,4,0
+2025-08-15,Detergent 1kg,46,110,78,4,0
+2025-08-16,Detergent 1kg,56,110,78,4,0
+2025-08-17,Detergent 1kg,60,110,78,4,0
+2025-08-18,Detergent 1kg,42,110,78,4,0
+2025-08-19,Detergent 1kg,24,110,78,4,0
+2025-08-20,Detergent 1kg,35,110,78,4,0
+2025-08-21,Detergent 1kg,33,110,78,4,0
+2025-08-22,Detergent 1kg,42,110,78,4,0
+2025-08-23,Detergent 1kg,48,110,78,4,0
+2025-08-24,Detergent 1kg,44,110,78,4,0
+2025-08-25,Detergent 1kg,57,110,78,4,1
+2025-08-26,Detergent 1kg,33,110,78,4,0
+2025-08-27,Detergent 1kg,38,110,78,4,0
+2025-08-28,Detergent 1kg,56,110,78,4,0
+2025-08-29,Detergent 1kg,51,110,78,4,0
+2025-08-30,Detergent 1kg,44,110,78,4,0
+2025-08-31,Detergent 1kg,46,110,78,4,0
+2025-09-01,Detergent 1kg,32,110,78,4,0
+2025-09-02,Detergent 1kg,46,110,78,4,0
+2025-09-03,Detergent 1kg,38,110,78,4,0
+2025-09-04,Detergent 1kg,40,110,78,4,0
+2025-09-05,Detergent 1kg,46,110,78,4,0
+2025-09-06,Detergent 1kg,49,110,78,4,0
+2025-09-07,Detergent 1kg,63,110,78,4,1
+2025-09-08,Detergent 1kg,55,110,78,4,1
+2025-09-09,Detergent 1kg,50,110,78,4,0
+2025-09-10,Detergent 1kg,50,110,78,4,0
+2025-09-11,Detergent 1kg,37,110,78,4,0
+2025-09-12,Detergent 1kg,37,110,78,4,0
+2025-09-13,Detergent 1kg,52,110,78,4,0
+2025-09-14,Detergent 1kg,51,110,78,4,0
+2025-09-15,Detergent 1kg,45,110,78,4,0
+2025-09-16,Detergent 1kg,35,110,78,4,0
+2025-09-17,Detergent 1kg,37,110,78,4,0
+2025-09-18,Detergent 1kg,40,110,78,4,0
+2025-09-19,Detergent 1kg,43,110,78,4,0
+2025-09-20,Detergent 1kg,51,110,78,4,0
+2025-09-21,Detergent 1kg,53,110,78,4,0
+2025-09-22,Detergent 1kg,35,110,78,4,0
+2025-09-23,Detergent 1kg,43,110,78,4,0
+2025-09-24,Detergent 1kg,31,110,78,4,0
+2025-09-25,Detergent 1kg,31,110,78,4,0
+2025-09-26,Detergent 1kg,33,110,78,4,0
+2025-09-27,Detergent 1kg,41,110,78,4,0
+2025-09-28,Detergent 1kg,44,110,78,4,0
+2025-09-29,Detergent 1kg,44,110,78,4,0
+2025-09-30,Detergent 1kg,49,110,78,4,0
+2025-10-01,Detergent 1kg,32,110,78,4,0

@@ -1,0 +1,144 @@
+{
+  "current": {
+    "Basmati Rice 5kg": {
+      "product": "Basmati Rice 5kg",
+      "model": "gbm",
+      "backtest_wape": 0.11044667593445763,
+      "scores": {
+        "seasonal_naive": 0.16017357946270003,
+        "moving_average": 0.11551218948635217,
+        "holt_winters": 0.11582395005409862,
+        "gbm": 0.11044667593445763
+      },
+      "trained_at": "2026-10-22T22:26:52",
+      "trained_through": "2025-08-22",
+      "n_obs": 600
+    },
+    "Cooking Oil 1L": {
+      "product": "Cooking Oil 1L",
+      "model": "moving_average",
+      "backtest_wape": 0.12686425872828203,
+      "scores": {
+        "seasonal_naive": 0.14834646865423945,
+        "moving_average": 0.12686425872828203,
+        "holt_winters": 0.13679055422522826,
+        "gbm": 0.13714509009794565
+      },
+      "trained_at": "2026-10-22T22:26:53",
+      "trained_through": "2025-08-22",
+      "n_obs": 600
+    },
+    "Tea Powder 500g": {
+      "product": "Tea Powder 500g",
+      "model": "moving_average",
+      "backtest_wape": 0.1334262228380844,
+      "scores": {
+        "seasonal_naive": 0.1805304566302862,
+        "moving_average": 0.1334262228380844,
+        "holt_winters": 0.14732504937080207,
+        "gbm": 0.1488716805320988
+      },
+      "trained_at": "2026-10-22T22:26:54",
+      "trained_through": "2025-08-22",
+      "n_obs": 600
+    },
+    "Notebook A4": {
+      "product": "Notebook A4",
+      "model": "gbm",
+      "backtest_wape": 0.12016674979339798,
+      "scores": {
+        "seasonal_naive": 0.15693484135114733,
+        "moving_average": 0.14520963815130358,
+        "holt_winters": 0.1458212388943058,
+        "gbm": 0.12016674979339798
+      },
+      "trained_at": "2026-10-22T22:26:55",
+      "trained_through": "2025-08-22",
+      "n_obs": 600
+    },
+    "LED Bulb 9W": {
+      "product": "LED Bulb 9W",
+      "model": "gbm",
+      "backtest_wape": 0.1160334349102961,
+      "scores": {
+        "seasonal_naive": 0.1418775964855449,
+        "moving_average": 0.12387752292898378,
+        "holt_winters": 0.12525570893624396,
+        "gbm": 0.1160334349102961
+      },
+      "trained_at": "2026-10-22T22:26:56",
+      "trained_through": "2025-08-22",
+      "n_obs": 600
+    },
+    "Detergent 1kg": {
+      "product": "Detergent 1kg",
+      "model": "moving_average",
+      "backtest_wape": 0.1495220639558488,
+      "scores": {
+        "seasonal_naive": 0.19776170885163669,
+        "moving_average": 0.1495220639558488,
+        "holt_winters": 0.16242603003566836,
+        "gbm": 0.1669755867816937
+      },
+      "trained_at": "2026-10-22T22:26:57",
+      "trained_through": "2025-08-22",
+      "n_obs": 600
+    }
+  },
+  "history": [
+    {
+      "event": "retrain",
+      "product": "Basmati Rice 5kg",
+      "reason": "initial training",
+      "model": "gbm",
+      "wape": 0.1104,
+      "switched_from": null,
+      "time": "2026-10-22T22:26:52"
+    },
+    {
+      "event": "retrain",
+      "product": "Cooking Oil 1L",
+      "reason": "initial training",
+      "model": "moving_average",
+      "wape": 0.1269,
+      "switched_from": null,
+      "time": "2026-10-22T22:26:53"
+    },
+    {
+      "event": "retrain",
+      "product": "Tea Powder 500g",
+      "reason": "initial training",
+      "model": "moving_average",
+      "wape": 0.1334,
+      "switched_from": null,
+      "time": "2026-10-22T22:26:54"
+    },
+    {
+      "event": "retrain",
+      "product": "Notebook A4",
+      "reason": "initial training",
+      "model": "gbm",
+      "wape": 0.1202,
+      "switched_from": null,
+      "time": "2026-10-22T22:26:55"
+    },
+    {
+      "event": "retrain",
+      "product": "LED Bulb 9W",
+      "reason": "initial training",
+      "model": "gbm",
+      "wape": 0.116,
+      "switched_from": null,
+      "time": "2026-10-22T22:26:56"
+    },
+    {
+      "event": "retrain",
+      "product": "Detergent 1kg",
+      "reason": "initial training",
+      "model": "moving_average",
+      "wape": 0.1495,
+      "switched_from": null,
+      "time": "2026-10-22T22:26:57"
+    }
+  ]
+}

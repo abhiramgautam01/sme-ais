@@ -1,0 +1,32 @@
+date,product,units_sold
+2025-09-22,Basmati Rice 5kg,73
+2025-09-23,Basmati Rice 5kg,67
+2025-09-24,Basmati Rice 5kg,64
+2025-09-25,Basmati Rice 5kg,69
+2025-09-26,Basmati Rice 5kg,64
+2025-09-27,Basmati Rice 5kg,66
+2025-09-28,Basmati Rice 5kg,88
+2025-09-29,Basmati Rice 5kg,70
+2025-09-30,Basmati Rice 5kg,74
+2025-10-01,Basmati Rice 5kg,78
+2025-09-22,Cooking Oil 1L,85
+2025-09-23,Cooking Oil 1L,96
+2025-09-24,Cooking Oil 1L,90
+2025-09-25,Cooking Oil 1L,106
+2025-09-26,Cooking Oil 1L,88
+2025-09-27,Cooking Oil 1L,118
+2025-09-28,Cooking Oil 1L,84
+2025-09-29,Cooking Oil 1L,80
+2025-09-30,Cooking Oil 1L,82
+2025-10-01,Cooking Oil 1L,92
+2025-09-22,Soap Bar,40
+2025-09-23,Soap Bar,37
+2025-09-24,Soap Bar,27
+2025-09-25,Soap Bar,43
+2025-09-26,Soap Bar,32
+2025-09-27,Soap Bar,42
+2025-09-28,Soap Bar,50
+2025-09-29,Soap Bar,45
+2025-09-30,Soap Bar,36
+2025-10-01,Soap Bar,44
+not-a-date,Soap Bar,abc

@@ -1,0 +1,528 @@
+{
+ "scenario": "surge",
+ "future_days": 180,
+ "review_every": 7,
+ "surge_day": 60,
+ "surge_mult": 1.45,
+ "products": [
+  "Basmati Rice 5kg",
+  "Cooking Oil 1L",
+  "Detergent 1kg",
+  "LED Bulb 9W",
+  "Notebook A4",
+  "Tea Powder 500g"
+ ],
+ "summary": {
+  "adaptive": {
+   "fill_rate": 0.9628623234411268,
+   "lost_units": 2089.1428571428573,
+   "lost_margin": 88415.03571428571,
+   "holding_cost": 18221.51963209393,
+   "ordering_cost": 39000.0,
+   "total_cost": 145636.55534637964,
+   "stockout_days": 66,
+   "orders": 156
+  },
+  "static": {
+   "fill_rate": 0.8457328748685807,
+   "lost_units": 8678.142857142859,
+   "lost_margin": 411005.0357142856,
+   "holding_cost": 11823.537193737764,
+   "ordering_cost": 39000.0,
+   "total_cost": 461828.5729080234,
+   "stockout_days": 220,
+   "orders": 156
+  }
+ },
+ "per_product": {
+  "adaptive": {
+   "Basmati Rice 5kg": {
+    "fill_rate": 0.9666397101231224,
+    "lost_margin": 32309.107142857145,
+    "total_cost": 46609.699021526416
+   },
+   "Cooking Oil 1L": {
+    "fill_rate": 0.9574664890217225,
+    "lost_margin": 20923.89285714286,
+    "total_cost": 31612.150219178086
+   },
+   "Detergent 1kg": {
+    "fill_rate": 0.9823089207982362,
+    "lost_margin": 5722.285714285714,
+    "total_cost": 14110.807518590997
+   },
+   "LED Bulb 9W": {
+    "fill_rate": 0.9469675619310656,
+    "lost_margin": 9946.392857142857,
+    "total_cost": 17214.292825831704
+   },
+   "Notebook A4": {
+    "fill_rate": 0.9446631380163311,
+    "lost_margin": 5052.642857142857,
+    "total_cost": 11885.944665362036
+   },
+   "Tea Powder 500g": {
+    "fill_rate": 0.9657450804554915,
+    "lost_margin": 14460.714285714283,
+    "total_cost": 24203.66109589041
+   }
+  },
+  "static": {
+   "Basmati Rice 5kg": {
+    "fill_rate": 0.7784704982572281,
+    "lost_margin": 214549.10714285716,
+    "total_cost": 225183.7154598826
+   },
+   "Cooking Oil 1L": {
+    "fill_rate": 0.8748525877046893,
+    "lost_margin": 61564.892857142855,
+    "total_cost": 71185.59221135029
+   },
+   "Detergent 1kg": {
+    "fill_rate": 0.8801126406241166,
+    "lost_margin": 38778.28571428571,
+    "total_cost": 46532.13098238747
+   },
+   "LED Bulb 9W": {
+    "fill_rate": 0.7368669503706,
+    "lost_margin": 49351.392857142855,
+    "total_cost": 56233.916113502935
+   },
+   "Notebook A4": {
+    "fill_rate": 0.806141447455914,
+    "lost_margin": 17700.642857142855,
+    "total_cost": 24415.537651663402
+   },
+   "Tea Powder 500g": {
+    "fill_rate": 0.9311602172552071,
+    "lost_margin": 29060.714285714283,
+    "total_cost": 38277.68048923679
+   }
+  }
+ },
+ "series": {
+  "date": [
+   "2025-08-29",
+   "2025-09-05",
+   "2025-09-12",
+   "2025-09-19",
+   "2025-09-26",
+   "2025-10-03",
+   "2025-10-10",
+   "2025-10-17",
+   "2025-10-24",
+   "2025-10-31",
+   "2025-11-07",
+   "2025-11-14",
+   "2025-11-21",
+   "2025-11-28",
+   "2025-12-05",
+   "2025-12-12",
+   "2025-12-19",
+   "2025-12-26",
+   "2026-01-02",
+   "2026-01-09",
+   "2026-01-16",
+   "2026-01-23",
+   "2026-01-30",
+   "2026-02-06",
+   "2026-02-13"
+  ],
+  "adaptive_cost": [
+   2385,
+   10619,
+   13765,
+   16317,
+   18490,
+   21476,
+   23616,
+   26840,
+   29765,
+   50918,
+   64753,
+   72526,
+   82391,
+   84729,
+   87064,
+   93629,
+   95921,
+   98528,
+   105003,
+   109031,
+   116107,
+   120676,
+   127908,
+   133948,
+   141669
+  ],
+  "static_cost": [
+   2385,
+   10588,
+   14332,
+   19481,
+   21611,
+   25392,
+   28630,
+   32667,
+   36901,
+   58493,
+   75051,
+   104356,
+   123791,
+   150464,
+   166931,
+   186290,
+   204091,
+   230724,
+   258498,
+   281601,
+   304911,
+   332622,
+   364914,
+   393824,
+   431930
+  ],
+  "adaptive_lost": [
+   0,
+   6214,
+   7275,
+   7712,
+   7712,
+   8543,
+   8543,
+   9653,
+   10578,
+   29809,
+   41597,
+   47190,
+   54766,
+   54766,
+   54766,
+   58984,
+   58984,
+   59387,
+   63628,
+   65256,
+   70002,
+   72173,
+   77133,
+   80853,
+   86365
+  ],
+  "static_lost": [
+   0,
+   6214,
+   7980,
+   11125,
+   11210,
+   12933,
+   14079,
+   16003,
+   18192,
+   37836,
+   52520,
+   79920,
+   97456,
+   122230,
+   136794,
+   154255,
+   170153,
+   194901,
+   220784,
+   241973,
+   263403,
+   289186,
+   319598,
+   346591,
+   382833
+  ],
+  "adaptive_fill": [
+   1.0,
+   0.9604,
+   0.9893,
+   0.9931,
+   1.0,
+   0.9815,
+   1.0,
+   0.9817,
+   0.9868,
+   0.824,
+   0.8761,
+   0.9393,
+   0.9351,
+   1.0,
+   1.0,
+   0.9487,
+   1.0,
+   0.9945,
+   0.9716,
+   0.9807,
+   0.9514,
+   0.9584,
+   0.9416,
+   0.9532,
+   0.949
+  ],
+  "static_fill": [
+   1.0,
+   0.9604,
+   0.9832,
+   0.9783,
+   0.9994,
+   0.9847,
+   0.9888,
+   0.9682,
+   0.9783,
+   0.8396,
+   0.8445,
+   0.7818,
+   0.8347,
+   0.803,
+   0.8535,
+   0.8379,
+   0.8455,
+   0.7943,
+   0.7574,
+   0.818,
+   0.7962,
+   0.768,
+   0.7248,
+   0.7554,
+   0.7205
+  ]
+ },
+ "retrain_events": [
+  {
+   "day": 7,
+   "date": "2025-08-30",
+   "product": "Basmati Rice 5kg",
+   "reason": "demand level shift (under-forecasting)",
+   "model": "gbm"
+  },
+  {
+   "day": 7,
+   "date": "2025-08-30",
+   "product": "LED Bulb 9W",
+   "reason": "error rise",
+   "model": "moving_average"
+  },
+  {
+   "day": 14,
+   "date": "2025-09-06",
+   "product": "Basmati Rice 5kg",
+   "reason": "demand level shift (under-forecasting)",
+   "model": "moving_average"
+  },
+  {
+   "day": 14,
+   "date": "2025-09-06",
+   "product": "LED Bulb 9W",
+   "reason": "error rise",
+   "model": "gbm"
+  },
+  {
+   "day": 21,
+   "date": "2025-09-13",
+   "product": "LED Bulb 9W",
+   "reason": "demand level shift (under-forecasting)",
+   "model": "holt_winters"
+  },
+  {
+   "day": 28,
+   "date": "2025-09-20",
+   "product": "LED Bulb 9W",
+   "reason": "error rise",
+   "model": "gbm"
+  },
+  {
+   "day": 49,
+   "date": "2025-10-11",
+   "product": "Cooking Oil 1L",
+   "reason": "model stale",
+   "model": "moving_average"
+  },
+  {
+   "day": 49,
+   "date": "2025-10-11",
+   "product": "Tea Powder 500g",
+   "reason": "model stale",
+   "model": "gbm"
+  },
+  {
+   "day": 49,
+   "date": "2025-10-11",
+   "product": "Notebook A4",
+   "reason": "model stale",
+   "model": "gbm"
+  },
+  {
+   "day": 49,
+   "date": "2025-10-11",
+   "product": "Detergent 1kg",
+   "reason": "model stale",
+   "model": "gbm"
+  },
+  {
+   "day": 63,
+   "date": "2025-10-25",
+   "product": "Basmati Rice 5kg",
+   "reason": "model stale",
+   "model": "gbm"
+  },
+  {
+   "day": 63,
+   "date": "2025-10-25",
+   "product": "LED Bulb 9W",
+   "reason": "demand level shift (under-forecasting)",
+   "model": "gbm"
+  },
+  {
+   "day": 63,
+   "date": "2025-10-25",
+   "product": "Detergent 1kg",
+   "reason": "demand level shift (under-forecasting)",
+   "model": "moving_average"
+  },
+  {
+   "day": 70,
+   "date": "2025-11-01",
+   "product": "Tea Powder 500g",
+   "reason": "error rise",
+   "model": "gbm"
+  },
+  {
+   "day": 70,
+   "date": "2025-11-01",
+   "product": "Detergent 1kg",
+   "reason": "demand level shift (under-forecasting)",
+   "model": "holt_winters"
+  },
+  {
+   "day": 77,
+   "date": "2025-11-08",
+   "product": "Notebook A4",
+   "reason": "demand level shift (under-forecasting)",
+   "model": "gbm"
+  },
+  {
+   "day": 77,
+   "date": "2025-11-08",
+   "product": "LED Bulb 9W",
+   "reason": "demand level shift (under-forecasting)",
+   "model": "holt_winters"
+  },
+  {
+   "day": 84,
+   "date": "2025-11-15",
+   "product": "Basmati Rice 5kg",
+   "reason": "demand level shift (under-forecasting)",
+   "model": "gbm"
+  },
+  {
+   "day": 84,
+   "date": "2025-11-15",
+   "product": "Cooking Oil 1L",
+   "reason": "demand level shift (under-forecasting)",
+   "model": "holt_winters"
+  },
+  {
+   "day": 91,
+   "date": "2025-11-22",
+   "product": "Notebook A4",
+   "reason": "demand level shift (under-forecasting)",
+   "model": "moving_average"
+  },
+  {
+   "day": 91,
+   "date": "2025-11-22",
+   "product": "LED Bulb 9W",
+   "reason": "demand level shift (over-forecasting)",
+   "model": "gbm"
+  },
+  {
+   "day": 105,
+   "date": "2025-12-06",
+   "product": "Cooking Oil 1L",
+   "reason": "demand level shift (over-forecasting)",
+   "model": "seasonal_naive"
+  },
+  {
+   "day": 119,
+   "date": "2025-12-20",
+   "product": "Tea Powder 500g",
+   "reason": "model stale",
+   "model": "holt_winters"
+  },
+  {
+   "day": 119,
+   "date": "2025-12-20",
+   "product": "Detergent 1kg",
+   "reason": "model stale",
+   "model": "holt_winters"
+  },
+  {
+   "day": 133,
+   "date": "2026-01-03",
+   "product": "Basmati Rice 5kg",
+   "reason": "model stale",
+   "model": "moving_average"
+  },
+  {
+   "day": 140,
+   "date": "2026-01-10",
+   "product": "Notebook A4",
+   "reason": "model stale",
+   "model": "moving_average"
+  },
+  {
+   "day": 140,
+   "date": "2026-01-10",
+   "product": "LED Bulb 9W",
+   "reason": "model stale",
+   "model": "moving_average"
+  },
+  {
+   "day": 154,
+   "date": "2026-01-24",
+   "product": "Cooking Oil 1L",
+   "reason": "model stale",
+   "model": "moving_average"
+  },
+  {
+   "day": 154,
+   "date": "2026-01-24",
+   "product": "Notebook A4",
+   "reason": "demand level shift (under-forecasting)",
+   "model": "holt_winters"
+  },
+  {
+   "day": 168,
+   "date": "2026-02-07",
+   "product": "Tea Powder 500g",
+   "reason": "model stale",
+   "model": "moving_average"
+  },
+  {
+   "day": 168,
+   "date": "2026-02-07",
+   "product": "Detergent 1kg",
+   "reason": "model stale",
+   "model": "moving_average"
+  },
+  {
+   "day": 175,
+   "date": "2026-02-14",
+   "product": "Detergent 1kg",
+   "reason": "demand level shift (under-forecasting)",
+   "model": "gbm"
+  }
+ ],
+ "generated": "2026-10-21T09:50:37",
+ "assumptions": {
+  "service_level": 0.95,
+  "holding_rate": 0.22,
+  "order_cost": 250.0,
+  "policy": "periodic review every 7 days, order up to forecast demand over lead time + review period + safety stock",
+  "lost_sales": "unmet demand is lost (valued at price minus unit cost)"
+ }
+}
