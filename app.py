@@ -353,8 +353,17 @@ def api_experiment():
         return jsonify(json.load(f))
 
 
-if __name__ == "__main__":
-    print("Training initial models (about 15 seconds)...")
+
+# Initialize the application when the module is loaded.
+# This is required when Render starts the app using Gunicorn.
+with LOCK:
     reset_state()
+
+
+if __name__ == "__main__":
     print("Ready -> http://127.0.0.1:5000")
-    app.run(host="127.0.0.1", port=5000, debug=False)
+    app.run(
+        host="0.0.0.0",
+        port=int(os.environ.get("PORT", 5000)),
+        debug=False
+    )
