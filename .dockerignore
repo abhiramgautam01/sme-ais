@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+tests/
+data/registry.json
+data/sme.db
+data/sme.db-wal
+data/sme.db-shm

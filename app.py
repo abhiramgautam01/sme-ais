@@ -50,10 +50,16 @@ def reply(o, code=200):
 
 
 def load_initial():
+    os.makedirs(DATA, exist_ok=True)
+
     if not os.path.exists(os.path.join(DATA, "sales.csv")):
         df = gd.generate()
         df.to_csv(os.path.join(DATA, "sales.csv"), index=False)
-        gd.initial_stock(df).to_csv(os.path.join(DATA, "stock.csv"), index=False)
+        gd.initial_stock(df).to_csv(
+            os.path.join(DATA, "stock.csv"), index=False
+        )
+
+    # Keep the rest of your existing function unchanged.
     full = pd.read_csv(os.path.join(DATA, "sales.csv"), parse_dates=["date"])
     cutoff = full["date"].min() + pd.Timedelta(days=INITIAL_DAYS)
     df = full[full["date"] < cutoff].reset_index(drop=True)
